@@ -47,7 +47,7 @@ const getRelevantArticle = ai.defineTool({
     category: z.string().describe('The category of the article (e.g., Travel Tips, Budget Travel, Eco Travel).'),
     author: z.string().describe('The author of the article.'),
     date: z.string().describe('The date the article was published.'),
-  }),
+  })},
   async (input) => {
     // Placeholder implementation - replace with actual article retrieval logic
     return {
@@ -58,8 +58,8 @@ const getRelevantArticle = ai.defineTool({
       author: 'Sample Author',
       date: '2024-01-01',
     };
-  },
-});
+  }
+);
 
 const travelBlogRelevantArticlesPrompt = ai.definePrompt({
   name: 'travelBlogRelevantArticlesPrompt',

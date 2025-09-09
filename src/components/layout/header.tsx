@@ -25,11 +25,8 @@ export function Header() {
     setIsClient(true);
   }, []);
 
-  const NavLinks = ({ isMobile = false }: { isMobile?: boolean }) => (
-    <nav className={cn(
-      'items-center gap-6 text-sm font-medium',
-      isMobile ? 'flex flex-col gap-4' : 'hidden md:flex'
-    )}>
+  const NavLinks = ({ className, isMobile = false }: { className?: string, isMobile?: boolean }) => (
+    <nav className={cn('items-center gap-6 text-sm font-medium', className)}>
       {navLinks.map((link) => (
         <Link
           key={link.href}
@@ -54,10 +51,7 @@ export function Header() {
           <span className="font-headline text-2xl font-semibold">TripEase</span>
         </Link>
 
-        <div className='hidden md:flex'>
-          <NavLinks />
-        </div>
-        
+        <NavLinks className="hidden md:flex" />
 
         <div className="flex items-center gap-4">
           {isClient && <Button variant="outline" className='hidden md:flex'>Login</Button>}
@@ -71,7 +65,7 @@ export function Header() {
               </SheetTrigger>
               <SheetContent side="right">
                 <div className='flex flex-col items-center justify-center h-full gap-8'>
-                  <NavLinks isMobile />
+                  <NavLinks className="flex flex-col gap-4" isMobile />
                   <Button variant="outline" className='w-full'>Login</Button>
                 </div>
               </SheetContent>
