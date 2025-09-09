@@ -1,21 +1,29 @@
-import { getAllCountries, getCountryDetails } from '@/lib/data';
+import { getAllCountries } from '@/lib/data';
 import { DestinationGrid } from './_components/destination-grid';
 import { CountryDetailView } from './_components/country-detail-view';
 import { CountrySearch } from '@/components/country-search';
+import { getCountryDetailsAction } from '@/lib/actions';
+import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
+import { AlertTriangle } from 'lucide-react';
 
-export default function ExplorePage({
+
+export default async function ExplorePage({
   searchParams,
 }: {
   searchParams?: { country?: string };
 }) {
-  const countryQuery = searchParams?.country?.toLowerCase().trim();
+  const countryQuery = searchParams?.country?.trim();
   const countries = getAllCountries();
 
   let countryDetails = null;
+  let error = null;
+
   if (countryQuery) {
-    const matchedCountry = countries.find(c => c.name.toLowerCase() === countryQuery);
-    if(matchedCountry) {
-        countryDetails = getCountryDetails(matchedCountry.slug);
+    try {
+      countryDetails = await getCountryDetailsAction(countryQuery);
+    } catch (e) {
+      console.error(e);
+      error = 'An unexpected error occurred. Please try again later.';
     }
   }
 
@@ -30,9 +38,17 @@ export default function ExplorePage({
         </div>
       </div>
 
+      {error && (
+         <Alert variant="destructive" className="max-w-2xl mx-auto">
+            <AlertTriangle className="h-4 w-4" />
+            <AlertTitle>Error</AlertTitle>
+            <AlertDescription>{error}</AlertDescription>
+        </Alert>
+      )}
+
       {countryDetails ? (
         <CountryDetailView details={countryDetails} />
-      ) : countryQuery ? (
+      ) : countryQuery && !error ? (
         <div className="text-center py-16">
           <h2 className="text-2xl font-semibold">No data available for "{searchParams?.country}" yet.</h2>
           <p className="text-muted-foreground mt-2">Why not explore one of these amazing destinations?</p>
@@ -40,9 +56,9 @@ export default function ExplorePage({
             <DestinationGrid countries={countries.slice(0, 3)} />
           </div>
         </div>
-      ) : (
+      ) : !countryQuery && !error ? (
         <DestinationGrid countries={countries} />
-      )}
+      ) : null}
     </div>
   );
 }
