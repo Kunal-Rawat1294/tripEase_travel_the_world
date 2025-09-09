@@ -43,9 +43,11 @@ const countryDetailsPrompt = ai.definePrompt({
   name: 'countryDetailsPrompt',
   input: { schema: CountryDetailsFlowInputSchema },
   output: { schema: CountryDetailsFlowOutputSchema },
-  prompt: `You are a world travel expert. Generate a comprehensive travel guide for {{{country}}}.
+  prompt: `You are a world travel expert tasked with creating an exhaustive travel guide for {{{country}}}.
 
-  Provide detailed information for the following sections:
+  Your response must be incredibly detailed and comprehensive. For each of the sections below, provide a thorough description (3-4 sentences) and at least 8-10 detailed, practical bullet points. The goal is to create a rich resource that is between 100 and 200 lines long in its final JSON format.
+
+  Sections to cover:
   - Travel Documents & Visas
   - Culture & Traditions
   - Safety & Precautions
@@ -54,8 +56,7 @@ const countryDetailsPrompt = ai.definePrompt({
   - Connectivity & Transport
   - Adaptation & Mindset
 
-  For each section, provide a title, a short description, and at least 4-5 bullet points with practical advice.
-  The entire output must be a single JSON object matching the requested schema. Ensure all fields are populated with high-quality, accurate information.
+  Ensure the entire output is a single, valid JSON object that strictly adheres to the requested output schema. All fields must be populated with high-quality, accurate, and extensive information.
   `,
 });
 
