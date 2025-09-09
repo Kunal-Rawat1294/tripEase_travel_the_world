@@ -7,11 +7,9 @@ import { ai } from '@/ai/genkit';
 import { z } from 'zod';
 import { getMongoDocsForCountry } from '@/services/mongodb';
 
-const TravelDocToolOutputSchema = z.object({
-    passport_requirements: z.any().describe("Passport requirements details."),
-    visa_information: z.any().describe("Visa information details."),
-    health_and_vaccinations: z.any().describe("Health and vaccination details."),
-}).optional();
+// A more flexible schema that can handle any data returned from MongoDB.
+const TravelDocToolOutputSchema = z.any().describe("The complete travel document information for a country from the database.");
+
 
 export const getTravelDocsFromMongoTool = ai.defineTool(
     {
@@ -27,18 +25,14 @@ export const getTravelDocsFromMongoTool = ai.defineTool(
             const docs = await getMongoDocsForCountry(input.country);
             if (!docs) {
                 console.log(`No document found for country: ${input.country}`);
-                return undefined;
+                return null; // Return null if no document is found
             }
-            // Return a subset of the data relevant to the prompt
-            return {
-                passport_requirements: docs.passport_requirements,
-                visa_information: docs.visa_information,
-                health_and_vaccinations: docs.health_and_vaccinations,
-            };
+            // Return the entire document so the AI has all the information.
+            return docs;
         } catch (error) {
             console.error(`Error fetching docs from MongoDB for ${input.country}:`, error);
-            // Return undefined or an empty object to let the AI know the tool failed
-            return undefined;
+            // Return null to let the AI know the tool failed
+            return null;
         }
     }
 );
