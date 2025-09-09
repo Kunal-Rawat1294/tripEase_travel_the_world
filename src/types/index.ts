@@ -12,9 +12,38 @@ export interface InfoSection {
   points: string[];
 }
 
+export interface DocsSection {
+    title: string;
+    description: string;
+    passportRequirements: {
+        title: "Passport Requirements";
+        validity: string;
+        blankPages: string;
+        ePassport: boolean;
+    };
+    visaRequirements: {
+        title: "Visa Information";
+        visaFreeEntry: string;
+        "e-visa": string;
+        visaOnArrival: string;
+        embassyProcessing: string;
+    };
+    entryExit: {
+        title: "Entry and Exit Requirements";
+        customsDeclaration: string;
+        healthCertificates: string;
+        specialPermits: string;
+    };
+    officialLinks: {
+        title: "Official Resources";
+        embassyUrl: string;
+    };
+}
+
+
 export interface CountryDetails {
   name: string;
-  docs: InfoSection;
+  docs: DocsSection;
   culture: InfoSection;
   safety: InfoSection;
   health: InfoSection;
