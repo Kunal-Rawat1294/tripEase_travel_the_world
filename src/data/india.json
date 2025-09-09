@@ -1,0 +1,73 @@
+{
+  "name": "India",
+  "docs": {
+    "title": "Travel Documents & Visas",
+    "description": "Most foreign nationals require a visa to enter India. The e-Visa system is available for many nationalities, simplifying the process.",
+    "points": [
+      "Apply for an e-Visa online at least 4 days before your arrival.",
+      "Passport must have at least six months validity from the date of arrival.",
+      "Your passport must have at least two blank pages for the visa.",
+      "Keep digital and physical copies of your passport and visa."
+    ]
+  },
+  "culture": {
+    "title": "Culture & Traditions",
+    "description": "India is a mosaic of diverse cultures, languages, and religions. Hospitality is a cornerstone, and guests are often treated with great respect.",
+    "points": [
+      "Use your right hand for eating and handling money.",
+      "Dress modestly, especially when visiting religious sites (cover shoulders and knees).",
+      "'Namaste' is a common greeting, said with palms pressed together.",
+      "Remove shoes before entering a home or temple."
+    ]
+  },
+  "safety": {
+    "title": "Safety & Precautions",
+    "description": "While generally safe for tourists, it's important to be cautious, especially in crowded areas. Be aware of common scams.",
+    "points": [
+      "Be wary of overly friendly strangers offering unsolicited help or tours.",
+      "Agree on taxi and auto-rickshaw fares before starting your journey.",
+      "Avoid walking alone at night in isolated areas.",
+      "Drink only bottled or purified water."
+    ]
+  },
+  "health": {
+    "title": "Health & Diseases",
+    "description": "Consult a doctor for recommended vaccinations like Typhoid and Hepatitis A. Food and water-borne illnesses are common, so be cautious with what you eat and drink.",
+    "points": [
+      "Avoid street food unless it's freshly cooked in front of you.",
+      "Carry a basic medical kit with essentials like diarrhea medication and antiseptic.",
+      "Use mosquito repellent to protect against Dengue and Malaria.",
+      "Private hospitals in major cities offer good quality care."
+    ]
+  },
+  "money": {
+    "title": "Money & Budget",
+    "description": "The currency is the Indian Rupee (INR). ATMs are widely available in cities, but it's good to carry some cash, especially in rural areas.",
+    "points": [
+      "Inform your bank about your travel plans to avoid card blockage.",
+      "Bargaining is common in markets, but not in shops with fixed prices.",
+      "A budget of ₹2,500-₹4,000 per day is reasonable for mid-range travel.",
+      "Credit cards are accepted in hotels and larger establishments."
+    ]
+  },
+  "connectivity": {
+    "title": "Connectivity & Transport",
+    "description": "India's transport network is vast and varied, from extensive railways to budget airlines. Ride-sharing apps like Uber and Ola are popular in cities.",
+    "points": [
+      "Booking trains in advance is recommended, especially on popular routes.",
+      "Domestic flights are an efficient way to cover long distances.",
+      "Get a local SIM card for affordable data and calls.",
+      "Be prepared for traffic and delays in major cities."
+    ]
+  },
+  "adaptation": {
+    "title": "Adaptation & Mindset",
+    "description": "India can be an intense and overwhelming experience. A flexible attitude and a sense of humor are your best travel companions.",
+    "points": [
+      "Embrace the 'organized chaos'; things may not always go as planned.",
+      "Be patient and polite, even in frustrating situations.",
+      "The concept of personal space is different; be prepared for crowds.",
+      "Be open to new experiences and engage with the friendly local people."
+    ]
+  }
+}

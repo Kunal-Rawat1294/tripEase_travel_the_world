@@ -1,0 +1,56 @@
+import Image from 'next/image';
+import Link from 'next/link';
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Twitter, Linkedin, Github } from 'lucide-react';
+
+interface TeamMember {
+  name: string;
+  role: string;
+  bio: string;
+  image: string;
+  aiHint: string;
+  social: {
+    twitter: string;
+    linkedin: string;
+    github: string;
+  };
+}
+
+interface TeamMemberCardProps {
+  member: TeamMember;
+}
+
+export function TeamMemberCard({ member }: TeamMemberCardProps) {
+  return (
+    <Card className="text-center flex flex-col">
+      <CardHeader className="items-center">
+        <div className="relative h-32 w-32 rounded-full overflow-hidden">
+          <Image
+            src={member.image}
+            alt={`Photo of ${member.name}`}
+            data-ai-hint={member.aiHint}
+            fill
+            className="object-cover"
+          />
+        </div>
+      </CardHeader>
+      <CardContent className="flex-1">
+        <CardTitle className="font-headline text-xl">{member.name}</CardTitle>
+        <p className="text-primary font-medium">{member.role}</p>
+        <p className="mt-2 text-muted-foreground text-sm">{member.bio}</p>
+      </CardContent>
+      <CardFooter className="justify-center gap-2">
+        <Button asChild variant="ghost" size="icon">
+          <a href={member.social.twitter} target="_blank" rel="noopener noreferrer"><Twitter className="h-5 w-5" /></a>
+        </Button>
+        <Button asChild variant="ghost" size="icon">
+          <a href={member.social.linkedin} target="_blank" rel="noopener noreferrer"><Linkedin className="h-5 w-5" /></a>
+        </Button>
+        <Button asChild variant="ghost" size="icon">
+          <a href={member.social.github} target="_blank" rel="noopener noreferrer"><Github className="h-5 w-5" /></a>
+        </Button>
+      </CardFooter>
+    </Card>
+  );
+}

@@ -1,0 +1,73 @@
+{
+  "name": "South Korea",
+  "docs": {
+    "title": "Travel Documents & Visas",
+    "description": "Citizens of many countries can enter South Korea visa-free for tourism for up to 90 days. A K-ETA (Korea Electronic Travel Authorization) is required for visa-free entry.",
+    "points": [
+      "Apply for your K-ETA online at least 72 hours before your departure.",
+      "Your passport must be valid for at least 6 months upon entry.",
+      "Ensure you have proof of onward or return travel.",
+      "Always carry a form of identification, as it can be requested by officials."
+    ]
+  },
+  "culture": {
+    "title": "Culture & Traditions",
+    "description": "South Korean culture is a dynamic blend of deep-rooted Confucian principles and ultra-modern trends. Respect for elders and social hierarchy are important.",
+    "points": [
+      "A slight bow is a common greeting, often accompanied by a handshake.",
+      "When receiving or giving items, use both hands to show respect.",
+      "Tipping is not a custom in South Korea and is not expected.",
+      "Age is very important in social interactions; it's polite to ask someone's age to establish hierarchy."
+    ]
+  },
+  "safety": {
+    "title": "Safety & Precautions",
+    "description": "South Korea is an incredibly safe country with very low crime rates. It's safe to walk around at night in most areas.",
+    "points": [
+      "Petty crime like pickpocketing is rare, but always be aware of your belongings.",
+      "The emergency number is 112 for police and 119 for fire/ambulance.",
+      "Be mindful of the border with North Korea and avoid unauthorized tours.",
+      "Protests and demonstrations can occur; it's best to avoid them."
+    ]
+  },
+  "health": {
+    "title": "Health & Diseases",
+    "description": "Healthcare standards are very high. Tap water is safe, but most locals boil it or drink bottled water. Air quality can be poor at times (yellow dust).",
+    "points": [
+      "Travel insurance is highly recommended to cover the costs of medical treatment.",
+      "Pharmacies are plentiful and well-stocked for common ailments.",
+      "Check air quality levels on apps like AirVisual, especially in spring.",
+      "Face masks are commonly used for both health and fashion reasons."
+    ]
+  },
+  "money": {
+    "title": "Money & Budget",
+    "description": "The currency is the South Korean Won (KRW). Credit cards are accepted almost everywhere, even for small purchases. It's one of the most cashless societies.",
+    "points": [
+      "Carry a small amount of cash for traditional markets or street food vendors.",
+      "A T-money card is essential for public transport and can also be used in convenience stores.",
+      "ATMs with global card support are common, but look for a 'Global' sign.",
+      "A mid-range budget would be around ₩70,000-₩100,000 per day."
+    ]
+  },
+  "connectivity": {
+    "title": "Connectivity & Transport",
+    "description": "South Korea boasts some of the world's fastest internet and an incredibly efficient, clean, and punctual public transport system.",
+    "points": [
+      "Free Wi-Fi is ubiquitous in cafes, subways, and public spaces.",
+      "Renting a Wi-Fi egg (portable hotspot) or getting a tourist SIM is easy and affordable.",
+      "Use apps like Naver Maps or Kakao Maps for navigation, as Google Maps has limited functionality.",
+      "The KTX high-speed train connects the country efficiently."
+    ]
+  },
+  "adaptation": {
+    "title": "Adaptation & Mindset",
+    "description": "Embrace the 'ppalli-ppalli' (hurry, hurry) culture, which reflects the fast-paced nature of life. Koreans are generally very friendly and helpful to foreigners.",
+    "points": [
+      "Learning some basic Hangul (the Korean alphabet) is surprisingly easy and very useful.",
+      "Don't be shy to ask for help; people will often go out of their way to assist you.",
+      "Korean food can be spicy; '안 맵게 해주세요' (an maep-ge hae-ju-se-yo) means 'Please make it not spicy'.",
+      "Be prepared for a vibrant nightlife and a 24/7 convenience store culture."
+    ]
+  }
+}

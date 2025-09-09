@@ -1,0 +1,73 @@
+{
+  "name": "USA",
+  "docs": {
+    "title": "Travel Documents & Visas",
+    "description": "Citizens of countries in the Visa Waiver Program (VWP) must obtain an ESTA authorization before travel. Others will need to apply for a visa.",
+    "points": [
+      "Apply for ESTA at least 72 hours before your flight.",
+      "Your passport must be an e-passport with a digital chip to use the VWP.",
+      "Be prepared for questioning by Customs and Border Protection (CBP) officers on arrival.",
+      "Keep a digital copy of your return ticket and accommodation details."
+    ]
+  },
+  "culture": {
+    "title": "Culture & Traditions",
+    "description": "The US is a melting pot of cultures, with regional identities varying widely. Americans are generally informal, friendly, and direct.",
+    "points": [
+      "A firm handshake is a common greeting.",
+      "Customer service is a big deal; politeness to staff is expected.",
+      "Tipping is customary and expected in most service industries (15-20% is standard).",
+      "Punctuality is important for appointments and reservations."
+    ]
+  },
+  "safety": {
+    "title": "Safety & Precautions",
+    "description": "Safety varies greatly by neighborhood and city. Use common sense, be aware of your surroundings, and research areas before you visit.",
+    "points": [
+      "Keep valuables out of sight and be cautious in crowded tourist spots.",
+      "The emergency number is 911 for police, fire, and medical assistance.",
+      "Be aware of your surroundings, especially at night or in unfamiliar areas.",
+      "In case of a police stop while driving, stay in your vehicle with your hands visible."
+    ]
+  },
+  "health": {
+    "title": "Health & Diseases",
+    "description": "The US healthcare system is excellent but extremely expensive. Comprehensive travel insurance is an absolute necessity.",
+    "points": [
+      "Travel insurance is not just recommended, it's essential. Medical bills can be astronomical.",
+      "Tap water is safe to drink in all cities.",
+      "Pharmacies (like CVS, Walgreens) sell over-the-counter medications, but many require a prescription.",
+      "For minor issues, consider visiting an 'Urgent Care' clinic instead of a hospital emergency room."
+    ]
+  },
+  "money": {
+    "title": "Money & Budget",
+    "description": "The currency is the US Dollar (USD). Credit and debit cards are accepted almost everywhere. Carrying a small amount of cash is useful for small purchases.",
+    "points": [
+      "Contactless payments (Apple Pay, Google Pay) are very common.",
+      "Sales tax is added at the register and varies by state and city.",
+      "ATMs are widely available.",
+      "A daily budget of $150-$250 is a good starting point for a mid-range trip, excluding accommodation."
+    ]
+  },
+  "connectivity": {
+    "title": "Connectivity & Transport",
+    "description": "The US is a car-centric country. Renting a car is often the best way to explore, except in large cities with good public transport like New York or Chicago.",
+    "points": [
+      "Domestic flights are the primary way to travel between distant cities.",
+      "Ride-sharing services like Uber and Lyft are available in most towns and cities.",
+      "Public transportation systems vary dramatically in quality from city to city.",
+      "Getting an eSIM or a local SIM card (from T-Mobile or AT&T) is easy and provides good coverage."
+    ]
+  },
+  "adaptation": {
+    "title": "Adaptation & Mindset",
+    "description": "Distances are vast; don't underestimate travel times between locations. Be open to the diversity of landscapes and people.",
+    "points": [
+      "Expect friendly but sometimes brief interactions. Small talk with strangers is common.",
+      "Portion sizes in restaurants are often very large.",
+      "The imperial system (miles, feet, Fahrenheit) is used, which can be confusing for visitors.",
+      "Americans are proud of their country and its diversity; be respectful in discussions about politics and culture."
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Japan",
+    "continent": "Asia",
+    "description": "A harmonious blend of ancient tradition and futuristic technology.",
+    "image": "https://picsum.photos/seed/japan/600/400",
+    "slug": "japan"
+  },
+  {
+    "name": "India",
+    "continent": "Asia",
+    "description": "A vibrant tapestry of cultures, colors, and culinary delights.",
+    "image": "https://picsum.photos/seed/india/600/400",
+    "slug": "india"
+  },
+  {
+    "name": "USA",
+    "continent": "North America",
+    "description": "From sprawling national parks to bustling cityscapes.",
+    "image": "https://picsum.photos/seed/usa/600/400",
+    "slug": "usa"
+  },
+  {
+    "name": "UK",
+    "continent": "Europe",
+    "description": "Rich in history, with iconic landmarks and charming countryside.",
+    "image": "https://picsum.photos/seed/uk/600/400",
+    "slug": "uk"
+  },
+  {
+    "name": "South Korea",
+    "continent": "Asia",
+    "description": "A dynamic country where K-pop, cuisine, and history meet.",
+    "image": "https://picsum.photos/seed/south-korea/600/400",
+    "slug": "south-korea"
+  }
+]

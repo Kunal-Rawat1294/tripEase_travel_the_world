@@ -1,0 +1,73 @@
+{
+  "name": "Japan",
+  "docs": {
+    "title": "Travel Documents & Visas",
+    "description": "Ensure you have the right documents before you travel to Japan. Many nationalities can enter visa-free for up to 90 days.",
+    "points": [
+      "Passport must be valid for the duration of your stay.",
+      "Visa exemptions apply to citizens of 68 countries, including the USA, UK, and most of Europe.",
+      "Always carry your passport or residence card with you.",
+      "Customs declaration is required upon arrival."
+    ]
+  },
+  "culture": {
+    "title": "Culture & Traditions",
+    "description": "Japanese culture is a fascinating mix of ancient traditions and modern life. Respect for elders, harmony, and politeness are highly valued.",
+    "points": [
+      "Bowing is a customary greeting; the depth of the bow depends on the situation.",
+      "Remove your shoes before entering homes, temples, and some restaurants.",
+      "Tipping is not customary and may be considered rude.",
+      "Speaking quietly in public transportation is expected."
+    ]
+  },
+  "safety": {
+    "title": "Safety & Precautions",
+    "description": "Japan is one of the safest countries in the world, with very low crime rates. However, it's wise to be prepared for natural disasters like earthquakes.",
+    "points": [
+      "Be aware of earthquake and tsunami procedures.",
+      "While rare, be mindful of your belongings in crowded tourist areas.",
+      "Typhoon season is from May to October; monitor weather forecasts.",
+      "Emergency number is 110 for police and 119 for fire/ambulance."
+    ]
+  },
+  "health": {
+    "title": "Health & Diseases",
+    "description": "Japan has a high standard of healthcare. No specific vaccinations are required for entry, but it's good to be up-to-date on routine shots.",
+    "points": [
+      "Tap water is safe to drink nationwide.",
+      "Face masks are commonly worn, especially if you have a cold.",
+      "Travel insurance with medical coverage is highly recommended.",
+      "Pharmacies (薬, kusuri) are widespread, but some medications may require a prescription."
+    ]
+  },
+  "money": {
+    "title": "Money & Budget",
+    "description": "The currency is the Japanese Yen (JPY). While credit cards are widely accepted in cities, carrying cash is essential, especially in rural areas.",
+    "points": [
+      "Withdraw cash from ATMs at 7-Eleven convenience stores or post offices.",
+      "A Japan Rail Pass can save money on extensive train travel.",
+      "Budget around ¥10,000-¥15,000 per day for a mid-range trip.",
+      "Vending machines are everywhere and offer great value."
+    ]
+  },
+  "connectivity": {
+    "title": "Connectivity & Transport",
+    "description": "Japan's public transport system is world-class. The Shinkansen (bullet train) connects major cities with incredible speed and punctuality.",
+    "points": [
+      "Purchase a Suica or Pasmo card for seamless travel on trains and buses in cities.",
+      "Free Wi-Fi is available but can be spotty. Renting a pocket Wi-Fi is a great option.",
+      "Google Maps provides excellent, real-time transit information.",
+      "Taxis are clean and reliable but can be expensive."
+    ]
+  },
+  "adaptation": {
+    "title": "Adaptation & Mindset",
+    "description": "Embrace the efficiency and order of Japanese society. A little patience and observation will go a long way in helping you blend in.",
+    "points": [
+      "Learn a few basic Japanese phrases like 'Arigato' (Thank you) and 'Sumimasen' (Excuse me).",
+      "Be prepared for crowds in major cities like Tokyo and Osaka.",
+      "Observe queuing etiquette; always line up in an orderly fashion.",
+      "Don't be afraid to ask for help; many people are willing to assist, even with a language barrier."
+    ]
+  }
+}
