@@ -19,11 +19,6 @@ const navLinks = [
 export function Header() {
   const pathname = usePathname();
   const [isSheetOpen, setSheetOpen] = useState(false);
-  const [isClient, setIsClient] = useState(false);
-
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   const NavLinks = ({ className, isMobile = false }: { className?: string, isMobile?: boolean }) => (
     <nav className={cn('items-center gap-6 text-sm font-medium', className)}>
@@ -54,23 +49,21 @@ export function Header() {
         <NavLinks className="hidden md:flex" />
 
         <div className="flex items-center gap-4">
-          {isClient && <Button variant="outline" className='hidden md:flex'>Login</Button>}
-          {isClient && (
-            <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
-              <SheetTrigger asChild>
-                <Button variant="outline" size="icon" className="md:hidden">
-                  <Menu className="h-5 w-5" />
-                  <span className="sr-only">Open menu</span>
-                </Button>
-              </SheetTrigger>
-              <SheetContent side="right">
-                <div className='flex flex-col items-center justify-center h-full gap-8'>
-                  <NavLinks className="flex flex-col gap-4" isMobile />
-                  <Button variant="outline" className='w-full'>Login</Button>
-                </div>
-              </SheetContent>
-            </Sheet>
-          )}
+          <Button variant="outline" className='hidden md:flex'>Login</Button>
+          <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
+            <SheetTrigger asChild>
+              <Button variant="outline" size="icon" className="md:hidden">
+                <Menu className="h-5 w-5" />
+                <span className="sr-only">Open menu</span>
+              </Button>
+            </SheetTrigger>
+            <SheetContent side="right">
+              <div className='flex flex-col items-center justify-center h-full gap-8'>
+                <NavLinks className="flex flex-col gap-4" isMobile />
+                <Button variant="outline" className='w-full'>Login</Button>
+              </div>
+            </SheetContent>
+          </Sheet>
         </div>
       </div>
     </header>
