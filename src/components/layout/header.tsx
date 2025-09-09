@@ -54,24 +54,29 @@ export function Header() {
           <span className="font-headline text-2xl font-semibold">TripEase</span>
         </Link>
 
-        <NavLinks />
+        <div className='hidden md:flex'>
+          <NavLinks />
+        </div>
+        
 
         <div className="flex items-center gap-4">
           {isClient && <Button variant="outline" className='hidden md:flex'>Login</Button>}
-          <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
-            <SheetTrigger asChild className="md:hidden">
-              <Button variant="outline" size="icon">
-                <Menu className="h-5 w-5" />
-                <span className="sr-only">Open menu</span>
-              </Button>
-            </SheetTrigger>
-            <SheetContent side="right">
-              <div className='flex flex-col items-center justify-center h-full gap-8'>
-                <NavLinks isMobile />
-                {isClient && <Button variant="outline" className='w-full'>Login</Button>}
-              </div>
-            </SheetContent>
-          </Sheet>
+          {isClient && (
+            <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
+              <SheetTrigger asChild>
+                <Button variant="outline" size="icon" className="md:hidden">
+                  <Menu className="h-5 w-5" />
+                  <span className="sr-only">Open menu</span>
+                </Button>
+              </SheetTrigger>
+              <SheetContent side="right">
+                <div className='flex flex-col items-center justify-center h-full gap-8'>
+                  <NavLinks isMobile />
+                  <Button variant="outline" className='w-full'>Login</Button>
+                </div>
+              </SheetContent>
+            </Sheet>
+          )}
         </div>
       </div>
     </header>
