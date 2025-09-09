@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { Sheet, SheetContent, SheetTrigger } from '../ui/sheet';
 import { Menu } from 'lucide-react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -19,6 +19,11 @@ const navLinks = [
 export function Header() {
   const pathname = usePathname();
   const [isSheetOpen, setSheetOpen] = useState(false);
+  const [isClient, setIsClient] = useState(false);
+
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
 
   const NavLinks = ({ isMobile = false }: { isMobile?: boolean }) => (
     <nav className={cn(
@@ -52,7 +57,7 @@ export function Header() {
         <NavLinks />
 
         <div className="flex items-center gap-4">
-          <Button variant="outline" className='hidden md:flex'>Login</Button>
+          {isClient && <Button variant="outline" className='hidden md:flex'>Login</Button>}
           <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
             <SheetTrigger asChild className="md:hidden">
               <Button variant="outline" size="icon">
@@ -63,7 +68,7 @@ export function Header() {
             <SheetContent side="right">
               <div className='flex flex-col items-center justify-center h-full gap-8'>
                 <NavLinks isMobile />
-                <Button variant="outline" className='w-full'>Login</Button>
+                {isClient && <Button variant="outline" className='w-full'>Login</Button>}
               </div>
             </SheetContent>
           </Sheet>
