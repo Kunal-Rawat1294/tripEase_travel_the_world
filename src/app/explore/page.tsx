@@ -1,4 +1,5 @@
-import { getAllCountries } from '@/lib/data';
+
+import { getAllCountries, getCountryDetails } from '@/lib/data';
 import { DestinationGrid } from './_components/destination-grid';
 import { CountryDetailView } from './_components/country-detail-view';
 import { CountrySearch } from '@/components/country-search';
@@ -19,11 +20,20 @@ export default async function ExplorePage({
   let error = null;
 
   if (countryQuery) {
-    try {
-      countryDetails = await getCountryDetailsAction(countryQuery);
-    } catch (e) {
-      console.error(e);
-      error = 'An unexpected error occurred. Please try again later.';
+    // First, try to get data from local static files
+    const staticCountry = countries.find(c => c.name.toLowerCase() === countryQuery.toLowerCase());
+    if (staticCountry) {
+        countryDetails = getCountryDetails(staticCountry.slug);
+    }
+    
+    // If no static data, then call the AI
+    if (!countryDetails) {
+        try {
+          countryDetails = await getCountryDetailsAction(countryQuery);
+        } catch (e) {
+          console.error(e);
+          error = 'An unexpected error occurred or API rate limits were exceeded. Please try again later.';
+        }
     }
   }
 
@@ -62,3 +72,4 @@ export default async function ExplorePage({
     </div>
   );
 }
+
