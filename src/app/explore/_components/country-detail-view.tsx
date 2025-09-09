@@ -32,22 +32,27 @@ const InfoSectionDisplay = ({ section, icon }: { section: InfoSection, icon: Rea
 );
 
 const DocsSectionDisplay = ({ section }: { section: CountryDetails['docs'] }) => {
-    const renderSubSection = (title: string, data: Record<string, any>) => (
-        <div className='mt-6'>
-            <h3 className="font-headline text-lg font-semibold mb-3">{title}</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
-                {Object.entries(data).filter(([key]) => key !== 'title').map(([key, value]) => (
-                    <div key={key} className="flex items-start gap-3 rounded-md border p-3">
-                        <CheckCircle2 className="h-4 w-4 flex-shrink-0 text-primary mt-1" />
-                        <div>
-                            <p className="font-semibold capitalize">{key.replace(/([A-Z])/g, ' $1').trim()}</p>
-                            <p className="text-muted-foreground">{value.toString()}</p>
+    if (!section) return null;
+
+    const renderSubSection = (title: string, data: Record<string, any>) => {
+        if (!title || !data) return null;
+        return (
+            <div className='mt-6'>
+                <h3 className="font-headline text-lg font-semibold mb-3">{title}</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+                    {Object.entries(data).filter(([key]) => key !== 'title').map(([key, value]) => (
+                        <div key={key} className="flex items-start gap-3 rounded-md border p-3">
+                            <CheckCircle2 className="h-4 w-4 flex-shrink-0 text-primary mt-1" />
+                            <div>
+                                <p className="font-semibold capitalize">{key.replace(/([A-Z])/g, ' $1').trim()}</p>
+                                <p className="text-muted-foreground">{value.toString()}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    ))}
+                </div>
             </div>
-        </div>
-    );
+        );
+    }
 
     return (
         <Card className="shadow-lg">
@@ -63,15 +68,17 @@ const DocsSectionDisplay = ({ section }: { section: CountryDetails['docs'] }) =>
                 </div>
             </CardHeader>
             <CardContent>
-                {renderSubSection(section.passportRequirements.title, section.passportRequirements)}
-                {renderSubSection(section.visaRequirements.title, section.visaRequirements)}
-                {renderSubSection(section.entryExit.title, section.entryExit)}
-                <div className='mt-6'>
-                    <h3 className="font-headline text-lg font-semibold mb-3">{section.officialLinks.title}</h3>
-                    <a href={section.officialLinks.embassyUrl} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
-                        Official Government/Embassy Website
-                    </a>
-                </div>
+                {section.passportRequirements && renderSubSection(section.passportRequirements.title, section.passportRequirements)}
+                {section.visaRequirements && renderSubSection(section.visaRequirements.title, section.visaRequirements)}
+                {section.entryExit && renderSubSection(section.entryExit.title, section.entryExit)}
+                {section.officialLinks && (
+                    <div className='mt-6'>
+                        <h3 className="font-headline text-lg font-semibold mb-3">{section.officialLinks.title}</h3>
+                        <a href={section.officialLinks.embassyUrl} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                            Official Government/Embassy Website
+                        </a>
+                    </div>
+                )}
             </CardContent>
         </Card>
     );
@@ -103,9 +110,11 @@ export function CountryDetailView({ details }: CountryDetailViewProps) {
       </TabsContent>
 
       {(Object.keys(iconMap) as (keyof typeof iconMap)[]).map((key) => (
-        <TabsContent key={key} value={key} className="mt-6">
-          <InfoSectionDisplay section={details[key]} icon={iconMap[key]}/>
-        </TabsContent>
+         details[key] && (
+            <TabsContent key={key} value={key} className="mt-6">
+              <InfoSectionDisplay section={details[key]} icon={iconMap[key]}/>
+            </TabsContent>
+          )
       ))}
     </Tabs>
   );
