@@ -29,7 +29,7 @@ const DocsSectionSchema = z.object({
     visaRequirements: z.object({
         title: z.literal("Visa Information"),
         visaFreeEntry: z.string().describe("Details on visa-free entry, including duration and eligible nationalities if available."),
-        e-visa: z.string().describe("Information on e-Visa availability, eligibility, and application process."),
+        "e-visa": z.string().describe("Information on e-Visa availability, eligibility, and application process."),
         visaOnArrival: z.string().describe("Information on Visa on Arrival availability and process."),
         embassyProcessing: z.string().describe("When and why embassy processing is required."),
     }),
