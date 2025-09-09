@@ -9,7 +9,7 @@
 
 import { ai } from '@/ai/genkit';
 import { z } from 'genkit';
-import { getSherpaDataTool, getTravelDocDataTool } from '../tools/travel-docs-tools';
+import { getTravelDocsFromMongoTool } from '../tools/travel-docs-tools';
 
 const InfoSectionSchema = z.object({
   title: z.string().describe('The title of the information section.'),
@@ -19,7 +19,7 @@ const InfoSectionSchema = z.object({
 
 const DocsSectionSchema = z.object({
     title: z.string().describe("The title of the section, which should be 'Travel Documents & Visas'."),
-    description: z.string().describe("A brief, 2-3 sentence overview of the country's entry requirements."),
+    description: z.string().describe("A brief, 2-3 sentence overview of the country's entry requirements based on the provided data."),
     passportRequirements: z.object({
         title: z.literal("Passport Requirements"),
         validity: z.string().describe("Required passport validity period (e.g., '6 months beyond travel date')."),
@@ -73,17 +73,17 @@ const countryDetailsPrompt = ai.definePrompt({
   name: 'countryDetailsPrompt',
   input: { schema: CountryDetailsFlowInputSchema },
   output: { schema: CountryDetailsFlowOutputSchema },
-  tools: [getSherpaDataTool, getTravelDocDataTool],
+  tools: [getTravelDocsFromMongoTool],
   prompt: `You are a world travel expert tasked with creating an exhaustive travel guide for {{{country}}}.
 
   Your response must be incredibly detailed and comprehensive.
 
-  For the "Travel Documents & Visas" section, you MUST use the provided tools (getSherpaDataTool, getTravelDocDataTool) to get real-time, accurate information. Synthesize the data from the tools to fill out all the fields in the 'docs' schema. Provide detailed, practical information for each field.
+  For the "Travel Documents & Visas" section, you MUST use the provided tool (getTravelDocsFromMongoTool) to get information from the internal database. You will then synthesize this data to populate all the fields in the 'docs' schema. Do not invent information for this section; if the tool returns no data or specific fields are missing, state that the information is not available. Provide detailed, practical information for each field based on the tool's output.
 
   For all other sections (Culture, Safety, etc.), provide a thorough description (3-4 sentences) and at least 8-10 detailed, practical bullet points. The goal is to create a rich resource that is between 100 and 200 lines long in its final JSON format.
 
   Sections to cover:
-  - Travel Documents & Visas (use tools)
+  - Travel Documents & Visas (use tool)
   - Culture & Traditions
   - Safety & Precautions
   - Health & Diseases

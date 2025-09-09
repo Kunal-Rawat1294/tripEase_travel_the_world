@@ -1,49 +1,44 @@
 'use server';
 /**
- * @fileOverview Tools for fetching real-time travel document and visa information.
+ * @fileOverview Tool for fetching travel document information from MongoDB.
  */
 
 import { ai } from '@/ai/genkit';
 import { z } from 'zod';
-import { getSherpaData } from '@/services/sherpa';
-import { getTravelDocData } from '@/services/traveldoc';
+import { getMongoDocsForCountry } from '@/services/mongodb';
 
-const SherpaDataSchema = z.object({
-    passportValidity: z.string().describe("Required passport validity period."),
-    blankPages: z.string().describe("Number of blank passport pages required."),
-    visaFreeEntry: z.string().describe("Details on visa-free entry."),
-    eVisa: z.string().describe("Information on e-Visa availability."),
-    visaOnArrival: z.string().describe("Information on Visa on Arrival."),
-    embassyUrl: z.string().url().describe("Official embassy or immigration website URL."),
-});
+const TravelDocToolOutputSchema = z.object({
+    passport_requirements: z.any().describe("Passport requirements details."),
+    visa_information: z.any().describe("Visa information details."),
+    health_and_vaccinations: z.any().describe("Health and vaccination details."),
+}).optional();
 
-const TravelDocDataSchema = z.object({
-    customsDeclaration: z.string().describe("Details about customs declaration forms."),
-    healthCertificates: z.string().describe("Required health certificates."),
-    specialPermits: z.string().describe("Any special permits needed for restricted zones."),
-});
-
-export const getSherpaDataTool = ai.defineTool(
+export const getTravelDocsFromMongoTool = ai.defineTool(
     {
-        name: 'getSherpaDataTool',
-        description: 'Retrieves visa, passport, and entry requirements from the Sherpa API.',
-        inputSchema: z.object({
-            country: z.string().describe("The destination country (use ISO 3166-1 alpha-2 code if possible)."),
-            nationality: z.string().describe("The traveler's nationality (use ISO 3166-1 alpha-2 code). Defaults to US citizen."),
-        }),
-        outputSchema: SherpaDataSchema,
-    },
-    async (input) => getSherpaData(input)
-);
-
-export const getTravelDocDataTool = ai.defineTool(
-    {
-        name: 'getTravelDocDataTool',
-        description: 'Retrieves customs, health, and permit requirements from the TravelDoc API.',
+        name: 'getTravelDocsFromMongoTool',
+        description: 'Retrieves travel document, visa, and health requirements for a country from the internal MongoDB database.',
         inputSchema: z.object({
             country: z.string().describe("The destination country."),
         }),
-        outputSchema: TravelDocDataSchema,
+        outputSchema: TravelDocToolOutputSchema,
     },
-    async (input) => getTravelDocData(input)
+    async (input) => {
+        try {
+            const docs = await getMongoDocsForCountry(input.country);
+            if (!docs) {
+                console.log(`No document found for country: ${input.country}`);
+                return undefined;
+            }
+            // Return a subset of the data relevant to the prompt
+            return {
+                passport_requirements: docs.passport_requirements,
+                visa_information: docs.visa_information,
+                health_and_vaccinations: docs.health_and_vaccinations,
+            };
+        } catch (error) {
+            console.error(`Error fetching docs from MongoDB for ${input.country}:`, error);
+            // Return undefined or an empty object to let the AI know the tool failed
+            return undefined;
+        }
+    }
 );
