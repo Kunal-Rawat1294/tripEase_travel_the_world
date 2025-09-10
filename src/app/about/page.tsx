@@ -19,13 +19,13 @@ const teamMembers = [
     name: 'Aditya Kumar',
     role: 'UI Designer',
     bio: 'The meticulous designer focused on crafting a seamless and visually appealing user experience across the app.',
-    image: 'https://picsum.photos/seed/aditya/400/400'
+    image: '/aditya.jpg'
   },
   {
     name: 'Nishant Paliwal',
     role: 'PPT Maker & Theme Selector',
     bio: "The strategist who defines our project's narrative and visual identity, ensuring our presentation is as compelling as our app.",
-    image: 'https://picsum.photos/seed/nishant/400/400'
+    image: '/nishant.jpg'
   }
 ]
 

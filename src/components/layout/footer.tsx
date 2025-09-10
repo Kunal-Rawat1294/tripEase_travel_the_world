@@ -1,8 +1,26 @@
 'use client';
 
 import Link from 'next/link';
-import { Plane, Twitter, Instagram, Facebook } from 'lucide-react';
+import { Plane, Instagram, Linkedin, X } from 'lucide-react';
 import { useState, useEffect } from 'react';
+
+const XIcon = () => (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="h-6 w-6"
+    >
+      <path d="M18 6 6 18" />
+      <path d="m6 6 12 12" />
+    </svg>
+  );
 
 export function Footer() {
   const [year, setYear] = useState(new Date().getFullYear());
@@ -34,9 +52,9 @@ export function Footer() {
           <div>
             <h3 className="font-headline font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors"><Twitter /></Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors"><Instagram /></Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors"><Facebook /></Link>
+              <Link href="https://x.com/rawat_kuna22459" className="text-muted-foreground hover:text-primary transition-colors"><XIcon /></Link>
+              <Link href="https://www.instagram.com/rawatkunal1294/" className="text-muted-foreground hover:text-primary transition-colors"><Instagram /></Link>
+              <Link href="https://www.linkedin.com/in/kunal-rawat-338646314/" className="text-muted-foreground hover:text-primary transition-colors"><Linkedin /></Link>
             </div>
           </div>
         </div>

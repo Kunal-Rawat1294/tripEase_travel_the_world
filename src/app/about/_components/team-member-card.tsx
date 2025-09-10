@@ -1,7 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { Linkedin, Twitter, Instagram } from 'lucide-react';
 
 interface TeamMember {
   name: string;
@@ -22,8 +20,9 @@ export function TeamMemberCard({ member }: TeamMemberCardProps) {
           <Image
             src={member.image}
             alt={`Photo of ${member.name}`}
-            fill
-            className="rounded-full object-cover"
+            width={400}
+            height={400}
+            className="rounded-full object-cover aspect-square"
           />
         </div>
       </CardHeader>
@@ -33,15 +32,6 @@ export function TeamMemberCard({ member }: TeamMemberCardProps) {
         <p className="mt-2 text-muted-foreground text-sm">{member.bio}</p>
       </CardContent>
       <CardFooter className="justify-center gap-2">
-        <Link href="https://www.linkedin.com/in/johndoe" className="text-muted-foreground hover:text-primary">
-          <Linkedin size={20} />
-        </Link>
-        <Link href="https://twitter.com/johndoe" className="text-muted-foreground hover:text-primary">
-          <Twitter size={20} />
-        </Link>
-        <Link href="https://www.instagram.com/johndoe" className="text-muted-foreground hover:text-primary">
-          <Instagram size={20} />
-        </Link>
       </CardFooter>
     </Card>
   );
