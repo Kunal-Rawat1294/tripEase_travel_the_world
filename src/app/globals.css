@@ -75,4 +75,21 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+  .prose-custom {
+    h3 {
+      @apply font-headline text-xl font-semibold mb-4 mt-6;
+    }
+    p {
+      @apply mb-4 leading-relaxed;
+    }
+    ul {
+      @apply list-disc pl-6 mb-4 space-y-2;
+    }
+    strong {
+      @apply font-semibold;
+    }
+    a {
+      @apply text-primary hover:underline;
+    }
+  }
 }

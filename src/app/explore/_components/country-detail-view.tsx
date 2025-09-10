@@ -29,7 +29,7 @@ const SectionDisplay = ({ section, icon }: { section: ContentSection; icon: Reac
       </div>
     </CardHeader>
     <CardContent>
-      <div className="prose max-w-none text-foreground prose-a:text-primary prose-headings:font-headline">
+      <div className="prose prose-custom max-w-none text-foreground prose-a:text-primary prose-headings:font-headline">
         <ReactMarkdown>{section.content}</ReactMarkdown>
       </div>
     </CardContent>
@@ -41,7 +41,7 @@ export function CountryDetailView({ details }: CountryDetailViewProps) {
 
   return (
     <Tabs defaultValue="documents" className="w-full">
-      <TabsList className="grid w-full grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7">
+       <TabsList className="grid w-full grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7">
         {categories.map((key) => (
           <TabsTrigger key={key} value={key} className="capitalize">{key}</TabsTrigger>
         ))}

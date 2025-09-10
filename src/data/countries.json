@@ -21,17 +21,31 @@
     "slug": "usa"
   },
   {
-    "name": "UK",
-    "continent": "Europe",
-    "description": "Rich in history, with iconic landmarks and charming countryside.",
-    "image": "https://picsum.photos/seed/uk/600/400",
-    "slug": "uk"
-  },
-  {
     "name": "South Korea",
     "continent": "Asia",
     "description": "A dynamic country where K-pop, cuisine, and history meet.",
     "image": "https://picsum.photos/seed/south-korea/600/400",
     "slug": "south-korea"
+  },
+  {
+    "name": "China",
+    "continent": "Asia",
+    "description": "A vast landscape of ancient landmarks and modern marvels.",
+    "image": "https://picsum.photos/seed/china/600/400",
+    "slug": "china"
+  },
+  {
+    "name": "Australia",
+    "continent": "Oceania",
+    "description": "Home to vibrant coral reefs, vast deserts, and unique wildlife.",
+    "image": "https://picsum.photos/seed/australia/600/400",
+    "slug": "australia"
+  },
+  {
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "description": "Breathtaking landscapes, from majestic mountains to stunning fjords.",
+    "image": "https://picsum.photos/seed/new-zealand/600/400",
+    "slug": "new-zealand"
   }
 ]
