@@ -1,3 +1,4 @@
+
 [
   {
     "name": "Afghanistan",
@@ -6,7 +7,7 @@
     "iso3": "AFG",
     "continent": "Asia",
     "description": "Crossroads of ancient empires and trade routes.",
-    "image": "https://picsum.photos/seed/afghanistan/600/400"
+    "image": "https://flagsapi.com/AF/shiny/64.png"
   },
   {
     "name": "Albania",
@@ -15,7 +16,7 @@
     "iso3": "ALB",
     "continent": "Europe",
     "description": "A land of ancient culture and stunning coastlines.",
-    "image": "https://picsum.photos/seed/albania/600/400"
+    "image": "https://flagsapi.com/AL/shiny/64.png"
   },
   {
     "name": "Algeria",
@@ -24,7 +25,7 @@
     "iso3": "DZA",
     "continent": "Africa",
     "description": "Home to vast Saharan landscapes and rich history.",
-    "image": "https://picsum.photos/seed/algeria/600/400"
+    "image": "https://flagsapi.com/DZ/shiny/64.png"
   },
   {
     "name": "Andorra",
@@ -33,7 +34,7 @@
     "iso3": "AND",
     "continent": "Europe",
     "description": "A tiny principality nestled in the Pyrenees mountains.",
-    "image": "https://picsum.photos/seed/andorra/600/400"
+    "image": "https://flagsapi.com/AD/shiny/64.png"
   },
   {
     "name": "Angola",
@@ -42,7 +43,7 @@
     "iso3": "AGO",
     "continent": "Africa",
     "description": "A country of diverse terrains and resilient culture.",
-    "image": "https://picsum.photos/seed/angola/600/400"
+    "image": "https://flagsapi.com/AO/shiny/64.png"
   },
   {
     "name": "Antigua and Barbuda",
@@ -51,7 +52,7 @@
     "iso3": "ATG",
     "continent": "North America",
     "description": "An island nation famous for its sandy beaches and reefs.",
-    "image": "https://picsum.photos/seed/antigua-and-barbuda/600/400"
+    "image": "https://flagsapi.com/AG/shiny/64.png"
   },
   {
     "name": "Argentina",
@@ -60,7 +61,7 @@
     "iso3": "ARG",
     "continent": "South America",
     "description": "A land of tango, steak, and dramatic Patagonian landscapes.",
-    "image": "https://picsum.photos/seed/argentina/600/400"
+    "image": "https://flagsapi.com/AR/shiny/64.png"
   },
   {
     "name": "Armenia",
@@ -69,7 +70,7 @@
     "iso3": "ARM",
     "continent": "Asia",
     "description": "A nation with a rich ancient history and religious heritage.",
-    "image": "https://picsum.photos/seed/armenia/600/400"
+    "image": "https://flagsapi.com/AM/shiny/64.png"
   },
   {
     "name": "Australia",
@@ -78,7 +79,7 @@
     "iso3": "AUS",
     "continent": "Oceania",
     "description": "Home to vibrant coral reefs, vast deserts, and unique wildlife.",
-    "image": "https://picsum.photos/seed/australia/600/400"
+    "image": "https://flagsapi.com/AU/shiny/64.png"
   },
   {
     "name": "Austria",
@@ -87,7 +88,7 @@
     "iso3": "AUT",
     "continent": "Europe",
     "description": "Famed for its imperial palaces, alpine scenery, and classical music.",
-    "image": "https://picsum.photos/seed/austria/600/400"
+    "image": "https://flagsapi.com/AT/shiny/64.png"
   },
   {
     "name": "Azerbaijan",
@@ -96,7 +97,7 @@
     "iso3": "AZE",
     "continent": "Asia",
     "description": "The Land of Fire, where East meets West.",
-    "image": "https://picsum.photos/seed/azerbaijan/600/400"
+    "image": "https://flagsapi.com/AZ/shiny/64.png"
   },
   {
     "name": "Bahamas",
@@ -105,7 +106,7 @@
     "iso3": "BHS",
     "continent": "North America",
     "description": "An archipelago of coral islands with idyllic beaches.",
-    "image": "https://picsum.photos/seed/bahamas/600/400"
+    "image": "https://flagsapi.com/BS/shiny/64.png"
   },
   {
     "name": "Bahrain",
@@ -114,7 +115,7 @@
     "iso3": "BHR",
     "continent": "Asia",
     "description": "An island nation known for its pearl fisheries and rich history.",
-    "image": "https://picsum.photos/seed/bahrain/600/400"
+    "image": "https://flagsapi.com/BH/shiny/64.png"
   },
   {
     "name": "Bangladesh",
@@ -123,7 +124,7 @@
     "iso3": "BGD",
     "continent": "Asia",
     "description": "A lush, riverine country with a vibrant culture.",
-    "image": "https://picsum.photos/seed/bangladesh/600/400"
+    "image": "https://flagsapi.com/BD/shiny/64.png"
   },
   {
     "name": "Barbados",
@@ -132,7 +133,7 @@
     "iso3": "BRB",
     "continent": "North America",
     "description": "An eastern Caribbean island and an independent British Commonwealth nation.",
-    "image": "https://picsum.photos/seed/barbados/600/400"
+    "image": "https://flagsapi.com/BB/shiny/64.png"
   },
   {
     "name": "Belarus",
@@ -141,7 +142,7 @@
     "iso3": "BLR",
     "continent": "Europe",
     "description": "Known for its grand fortifications and primeval forests.",
-    "image": "https://picsum.photos/seed/belarus/600/400"
+    "image": "https://flagsapi.com/BY/shiny/64.png"
   },
   {
     "name": "Belgium",
@@ -150,7 +151,7 @@
     "iso3": "BEL",
     "continent": "Europe",
     "description": "Famous for medieval towns, Renaissance architecture, and fine chocolates.",
-    "image": "https://picsum.photos/seed/belgium/600/400"
+    "image": "https://flagsapi.com/BE/shiny/64.png"
   },
   {
     "name": "Belize",
@@ -159,7 +160,7 @@
     "iso3": "BLZ",
     "continent": "North America",
     "description": "A nation on the eastern coast of Central America, with Caribbean Sea shorelines.",
-    "image": "https://picsum.photos/seed/belize/600/400"
+    "image": "https://flagsapi.com/BZ/shiny/64.png"
   },
   {
     "name": "Benin",
@@ -168,7 +169,7 @@
     "iso3": "BEN",
     "continent": "Africa",
     "description": "A French-speaking West African nation, a birthplace of the voodoo religion.",
-    "image": "https://picsum.photos/seed/benin/600/400"
+    "image": "https://flagsapi.com/BJ/shiny/64.png"
   },
   {
     "name": "Bhutan",
@@ -177,7 +178,7 @@
     "iso3": "BTN",
     "continent": "Asia",
     "description": "A Buddhist kingdom on the Himalayas’ eastern edge.",
-    "image": "https://picsum.photos/seed/bhutan/600/400"
+    "image": "https://flagsapi.com/BT/shiny/64.png"
   },
   {
     "name": "Bolivia",
@@ -186,7 +187,7 @@
     "iso3": "BOL",
     "continent": "South America",
     "description": "A country of vast, dramatic landscapes in the heart of South America.",
-    "image": "https://picsum.photos/seed/bolivia/600/400"
+    "image": "https://flagsapi.com/BO/shiny/64.png"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -195,7 +196,7 @@
     "iso3": "BIH",
     "continent": "Europe",
     "description": "A country on the Balkan Peninsula, encompassing medieval villages.",
-    "image": "https://picsum.photos/seed/bosnia-and-herzegovina/600/400"
+    "image": "https://flagsapi.com/BA/shiny/64.png"
   },
   {
     "name": "Botswana",
@@ -204,7 +205,7 @@
     "iso3": "BWA",
     "continent": "Africa",
     "description": "A landlocked country in Southern Africa with a landscape defined by the Kalahari Desert.",
-    "image": "https://picsum.photos/seed/botswana/600/400"
+    "image": "https://flagsapi.com/BW/shiny/64.png"
   },
   {
     "name": "Brazil",
@@ -213,7 +214,7 @@
     "iso3": "BRA",
     "continent": "South America",
     "description": "A vast South American country, home to the Amazon rainforest and iconic landmarks.",
-    "image": "https://picsum.photos/seed/brazil/600/400"
+    "image": "https://flagsapi.com/BR/shiny/64.png"
   },
   {
     "name": "Brunei Darussalam",
@@ -222,7 +223,7 @@
     "iso3": "BRN",
     "continent": "Asia",
     "description": "A tiny nation on the island of Borneo, known for its beaches and biodiverse rainforest.",
-    "image": "https://picsum.photos/seed/brunei-darussalam/600/400"
+    "image": "https://flagsapi.com/BN/shiny/64.png"
   },
   {
     "name": "Bulgaria",
@@ -231,7 +232,7 @@
     "iso3": "BGR",
     "continent": "Europe",
     "description": "A Balkan nation with diverse terrain encompassing Black Sea coastline.",
-    "image": "https://picsum.photos/seed/bulgaria/600/400"
+    "image": "https://flagsapi.com/BG/shiny/64.png"
   },
   {
     "name": "Burkina Faso",
@@ -240,7 +241,7 @@
     "iso3": "BFA",
     "continent": "Africa",
     "description": "A landlocked country in West Africa, known for its vibrant music scene.",
-    "image": "https://picsum.photos/seed/burkina-faso/600/400"
+    "image": "https://flagsapi.com/BF/shiny/64.png"
   },
   {
     "name": "Burundi",
@@ -249,7 +250,7 @@
     "iso3": "BDI",
     "continent": "Africa",
     "description": "A landlocked country in the Great Rift Valley at the junction of the African Great Lakes region and East Africa.",
-    "image": "https://picsum.photos/seed/burundi/600/400"
+    "image": "https://flagsapi.com/BI/shiny/64.png"
   },
   {
     "name": "Cabo Verde",
@@ -258,7 +259,7 @@
     "iso3": "CPV",
     "continent": "Africa",
     "description": "An island country spanning an archipelago of 10 volcanic islands in the central Atlantic Ocean.",
-    "image": "https://picsum.photos/seed/cabo-verde/600/400"
+    "image": "https://flagsapi.com/CV/shiny/64.png"
   },
   {
     "name": "Cambodia",
@@ -267,7 +268,7 @@
     "iso3": "KHM",
     "continent": "Asia",
     "description": "A Southeast Asian nation whose landscape spans low-lying plains and the Mekong Delta.",
-    "image": "https://picsum.photos/seed/cambodia/600/400"
+    "image": "https://flagsapi.com/KH/shiny/64.png"
   },
   {
     "name": "Cameroon",
@@ -276,7 +277,7 @@
     "iso3": "CMR",
     "continent": "Africa",
     "description": "A country on the Gulf of Guinea, with varied terrain and wildlife.",
-    "image": "https://picsum.photos/seed/cameroon/600/400"
+    "image": "https://flagsapi.com/CM/shiny/64.png"
   },
   {
     "name": "Canada",
@@ -285,7 +286,7 @@
     "iso3": "CAN",
     "continent": "North America",
     "description": "A vast country of pristine wilderness, multicultural cities, and natural wonders.",
-    "image": "https://picsum.photos/seed/canada/600/400"
+    "image": "https://flagsapi.com/CA/shiny/64.png"
   },
   {
     "name": "Central African Republic",
@@ -294,7 +295,7 @@
     "iso3": "CAF",
     "continent": "Africa",
     "description": "A landlocked country in Central Africa, rich in mineral resources.",
-    "image": "https://picsum.photos/seed/central-african-republic/600/400"
+    "image": "https://flagsapi.com/CF/shiny/64.png"
   },
   {
     "name": "Chad",
@@ -303,7 +304,7 @@
     "iso3": "TCD",
     "continent": "Africa",
     "description": "A landlocked country at the crossroads of North and Central Africa.",
-    "image": "https://picsum.photos/seed/chad/600/400"
+    "image": "https://flagsapi.com/TD/shiny/64.png"
   },
   {
     "name": "Chile",
@@ -312,7 +313,7 @@
     "iso3": "CHL",
     "continent": "South America",
     "description": "A long, narrow country stretching along South America's western edge.",
-    "image": "https://picsum.photos/seed/chile/600/400"
+    "image": "https://flagsapi.com/CL/shiny/64.png"
   },
   {
     "name": "China",
@@ -321,7 +322,7 @@
     "iso3": "CHN",
     "continent": "Asia",
     "description": "A vast landscape of ancient landmarks and modern marvels.",
-    "image": "https://picsum.photos/seed/china/600/400"
+    "image": "https://flagsapi.com/CN/shiny/64.png"
   },
   {
     "name": "Colombia",
@@ -330,7 +331,7 @@
     "iso3": "COL",
     "continent": "South America",
     "description": "A country at the northern tip of South America, with rainforests, mountains and coffee plantations.",
-    "image": "https://picsum.photos/seed/colombia/600/400"
+    "image": "https://flagsapi.com/CO/shiny/64.png"
   },
   {
     "name": "Comoros",
@@ -339,7 +340,7 @@
     "iso3": "COM",
     "continent": "Africa",
     "description": "A volcanic archipelago off Africa’s east coast, in the warm Indian Ocean waters.",
-    "image": "https://picsum.photos/seed/comoros/600/400"
+    "image": "https://flagsapi.com/KM/shiny/64.png"
   },
   {
     "name": "Congo",
@@ -348,7 +349,7 @@
     "iso3": "COG",
     "continent": "Africa",
     "description": "A Central African nation with rainforest reserves that are home to gorillas.",
-    "image": "https://picsum.photos/seed/congo/600/400"
+    "image": "https://flagsapi.com/CG/shiny/64.png"
   },
   {
     "name": "Congo (Democratic Republic)",
@@ -357,7 +358,7 @@
     "iso3": "COD",
     "continent": "Africa",
     "description": "A vast country in Central Africa with immense natural resources.",
-    "image": "https://picsum.photos/seed/congo-democratic-republic/600/400"
+    "image": "https://flagsapi.com/CD/shiny/64.png"
   },
   {
     "name": "Costa Rica",
@@ -366,7 +367,7 @@
     "iso3": "CRI",
     "continent": "North America",
     "description": "A rugged, rainforested Central American country with coastlines on the Caribbean and Pacific.",
-    "image": "https://picsum.photos/seed/costa-rica/600/400"
+    "image": "https://flagsapi.com/CR/shiny/64.png"
   },
   {
     "name": "Croatia",
@@ -375,7 +376,7 @@
     "iso3": "HRV",
     "continent": "Europe",
     "description": "An Eastern European country with a long coastline on the Adriatic Sea.",
-    "image": "https://picsum.photos/seed/croatia/600/400"
+    "image": "https://flagsapi.com/HR/shiny/64.png"
   },
   {
     "name": "Cuba",
@@ -384,7 +385,7 @@
     "iso3": "CUB",
     "continent": "North America",
     "description": "A Caribbean island nation under communist rule, with sugar-white beaches.",
-    "image": "https://picsum.photos/seed/cuba/600/400"
+    "image": "https://flagsapi.com/CU/shiny/64.png"
   },
   {
     "name": "Cyprus",
@@ -393,7 +394,7 @@
     "iso3": "CYP",
     "continent": "Europe",
     "description": "An island country in the Eastern Mediterranean with a rich, turbulent history.",
-    "image": "https://picsum.photos/seed/cyprus/600/400"
+    "image": "https://flagsapi.com/CY/shiny/64.png"
   },
   {
     "name": "Czechia",
@@ -402,7 +403,7 @@
     "iso3": "CZE",
     "continent": "Europe",
     "description": "A landlocked country in Central Europe, known for its ornate castles.",
-    "image": "https://picsum.photos/seed/czechia/600/400"
+    "image": "https://flagsapi.com/CZ/shiny/64.png"
   },
   {
     "name": "Denmark",
@@ -411,7 +412,7 @@
     "iso3": "DNK",
     "continent": "Europe",
     "description": "A Scandinavian country comprising the Jutland Peninsula and numerous islands.",
-    "image": "https://picsum.photos/seed/denmark/600/400"
+    "image": "https://flagsapi.com/DK/shiny/64.png"
   },
   {
     "name": "Djibouti",
@@ -420,7 +421,7 @@
     "iso3": "DJI",
     "continent": "Africa",
     "description": "A country on the Horn of Africa, defined by its stark, desert-like landscapes.",
-    "image": "https://picsum.photos/seed/djibouti/600/400"
+    "image": "https://flagsapi.com/DJ/shiny/64.png"
   },
   {
     "name": "Dominica",
@@ -429,7 +430,7 @@
     "iso3": "DMA",
     "continent": "North America",
     "description": "A mountainous Caribbean island nation with natural hot springs and tropical rainforests.",
-    "image": "https://picsum.photos/seed/dominica/600/400"
+    "image": "https://flagsapi.com/DM/shiny/64.png"
   },
   {
     "name": "Dominican Republic",
@@ -438,7 +439,7 @@
     "iso3": "DOM",
     "continent": "North America",
     "description": "A Caribbean nation that shares the island of Hispaniola with Haiti to the west.",
-    "image": "https://picsum.photos/seed/dominican-republic/600/400"
+    "image": "https://flagsapi.com/DO/shiny/64.png"
   },
   {
     "name": "Ecuador",
@@ -447,7 +448,7 @@
     "iso3": "ECU",
     "continent": "South America",
     "description": "A country straddling the equator on South America’s west coast.",
-    "image": "https://picsum.photos/seed/ecuador/600/400"
+    "image": "https://flagsapi.com/EC/shiny/64.png"
   },
   {
     "name": "Egypt",
@@ -456,7 +457,7 @@
     "iso3": "EGY",
     "continent": "Africa",
     "description": "A country linking northeast Africa with the Middle East, home to ancient monuments.",
-    "image": "https://picsum.photos/seed/egypt/600/400"
+    "image": "https://flagsapi.com/EG/shiny/64.png"
   },
   {
     "name": "El Salvador",
@@ -465,7 +466,7 @@
     "iso3": "SLV",
     "continent": "North America",
     "description": "A small Central American nation known for its Pacific Ocean beaches and mountainous landscape.",
-    "image": "https://picsum.photos/seed/el-salvador/600/400"
+    "image": "https://flagsapi.com/SV/shiny/64.png"
   },
   {
     "name": "Equatorial Guinea",
@@ -474,7 +475,7 @@
     "iso3": "GNQ",
     "continent": "Africa",
     "description": "A Central African country comprising the Rio Muni mainland and 5 volcanic offshore islands.",
-    "image": "https://picsum.photos/seed/equatorial-guinea/600/400"
+    "image": "https://flagsapi.com/GQ/shiny/64.png"
   },
   {
     "name": "Eritrea",
@@ -483,7 +484,7 @@
     "iso3": "ERI",
     "continent": "Africa",
     "description": "A northeast African country on the Red Sea coast, sharing borders with Ethiopia, Sudan and Djibouti.",
-    "image": "https://picsum.photos/seed/eritrea/600/400"
+    "image": "https://flagsapi.com/ER/shiny/64.png"
   },
   {
     "name": "Estonia",
@@ -492,7 +493,7 @@
     "iso3": "EST",
     "continent": "Europe",
     "description": "A country in Northern Europe, bordering the Baltic Sea and Gulf of Finland.",
-    "image": "https://picsum.photos/seed/estonia/600/400"
+    "image": "https://flagsapi.com/EE/shiny/64.png"
   },
   {
     "name": "Eswatini",
@@ -501,7 +502,7 @@
     "iso3": "SWZ",
     "continent": "Africa",
     "description": "A small, landlocked monarchy in Southern Africa, known for its wilderness reserves.",
-    "image": "https://picsum.photos/seed/eswatini/600/400"
+    "image": "https://flagsapi.com/SZ/shiny/64.png"
   },
   {
     "name": "Ethiopia",
@@ -510,7 +511,7 @@
     "iso3": "ETH",
     "continent": "Africa",
     "description": "A rugged, landlocked country split by the Great Rift Valley.",
-    "image": "https://picsum.photos/seed/ethiopia/600/400"
+    "image": "https://flagsapi.com/ET/shiny/64.png"
   },
   {
     "name": "Fiji",
@@ -519,7 +520,7 @@
     "iso3": "FJI",
     "continent": "Oceania",
     "description": "A country in the South Pacific, an archipelago of more than 300 islands.",
-    "image": "https://picsum.photos/seed/fiji/600/400"
+    "image": "https://flagsapi.com/FJ/shiny/64.png"
   },
   {
     "name": "Finland",
@@ -528,7 +529,7 @@
     "iso3": "FIN",
     "continent": "Europe",
     "description": "A Northern European nation bordering Sweden, Norway and Russia.",
-    "image": "https://picsum.photos/seed/finland/600/400"
+    "image": "https://flagsapi.com/FI/shiny/64.png"
   },
   {
     "name": "France",
@@ -537,7 +538,7 @@
     "iso3": "FRA",
     "continent": "Europe",
     "description": "Encompassing medieval cities, alpine villages and Mediterranean beaches.",
-    "image": "https://picsum.photos/seed/france/600/400"
+    "image": "https://flagsapi.com/FR/shiny/64.png"
   },
   {
     "name": "Gabon",
@@ -546,7 +547,7 @@
     "iso3": "GAB",
     "continent": "Africa",
     "description": "A country along the Atlantic coast of Central Africa.",
-    "image": "https://picsum.photos/seed/gabon/600/400"
+    "image": "https://flagsapi.com/GA/shiny/64.png"
   },
   {
     "name": "Gambia",
@@ -555,7 +556,7 @@
     "iso3": "GMB",
     "continent": "Africa",
     "description": "A small West African country, bounded by Senegal, with a narrow Atlantic coastline.",
-    "image": "https://picsum.photos/seed/gambia/600/400"
+    "image": "https://flagsapi.com/GM/shiny/64.png"
   },
   {
     "name": "Georgia",
@@ -564,7 +565,7 @@
     "iso3": "GEO",
     "continent": "Asia",
     "description": "A country at the intersection of Europe and Asia, with a rich history of winemaking.",
-    "image": "https://picsum.photos/seed/georgia/600/400"
+    "image": "https://flagsapi.com/GE/shiny/64.png"
   },
   {
     "name": "Germany",
@@ -573,7 +574,7 @@
     "iso3": "DEU",
     "continent": "Europe",
     "description": "A Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches.",
-    "image": "https://picsum.photos/seed/germany/600/400"
+    "image": "https://flagsapi.com/DE/shiny/64.png"
   },
   {
     "name": "Ghana",
@@ -582,7 +583,7 @@
     "iso3": "GHA",
     "continent": "Africa",
     "description": "A country on West Africa’s Gulf of Guinea, known for diverse wildlife and old forts.",
-    "image": "https://picsum.photos/seed/ghana/600/400"
+    "image": "https://flagsapi.com/GH/shiny/64.png"
   },
   {
     "name": "Greece",
@@ -591,7 +592,7 @@
     "iso3": "GRC",
     "continent": "Europe",
     "description": "A country of thousands of islands throughout the Aegean and Ionian seas.",
-    "image": "https://picsum.photos/seed/greece/600/400"
+    "image": "https://flagsapi.com/GR/shiny/64.png"
   },
   {
     "name": "Grenada",
@@ -600,7 +601,7 @@
     "iso3": "GRD",
     "continent": "North America",
     "description": "A Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands.",
-    "image": "https://picsum.photos/seed/grenada/600/400"
+    "image": "https://flagsapi.com/GD/shiny/64.png"
   },
   {
     "name": "Guatemala",
@@ -609,7 +610,7 @@
     "iso3": "GTM",
     "continent": "North America",
     "description": "A Central American country south of Mexico, home to volcanoes, rainforests and ancient Mayan sites.",
-    "image": "https://picsum.photos/seed/guatemala/600/400"
+    "image": "https://flagsapi.com/GT/shiny/64.png"
   },
   {
     "name": "Guinea",
@@ -618,7 +619,7 @@
     "iso3": "GIN",
     "continent": "Africa",
     "description": "A country in West Africa, bordered on the west by the Atlantic Ocean.",
-    "image": "https://picsum.photos/seed/guinea/600/400"
+    "image": "https://flagsapi.com/GN/shiny/64.png"
   },
   {
     "name": "Guinea-Bissau",
@@ -627,7 +628,7 @@
     "iso3": "GNB",
     "continent": "Africa",
     "description": "A tropical country on West Africa’s Atlantic coast that’s known for national parks and wildlife.",
-    "image": "https://picsum.photos/seed/guinea-bissau/600/400"
+    "image": "https://flagsapi.com/GW/shiny/64.png"
   },
   {
     "name": "Guyana",
@@ -636,7 +637,7 @@
     "iso3": "GUY",
     "continent": "South America",
     "description": "A country on South America’s North Atlantic coast, defined by its dense rainforest.",
-    "image": "https://picsum.photos/seed/guyana/600/400"
+    "image": "https://flagsapi.com/GY/shiny/64.png"
   },
   {
     "name": "Haiti",
@@ -645,7 +646,7 @@
     "iso3": "HTI",
     "continent": "North America",
     "description": "A Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east.",
-    "image": "https://picsum.photos/seed/haiti/600/400"
+    "image": "https://flagsapi.com/HT/shiny/64.png"
   },
   {
     "name": "Holy See",
@@ -654,7 +655,7 @@
     "iso3": "VAT",
     "continent": "Europe",
     "description": "The universal government of the Catholic Church, which operates from Vatican City State.",
-    "image": "https://picsum.photos/seed/holy-see/600/400"
+    "image": "https://flagsapi.com/VA/shiny/64.png"
   },
   {
     "name": "Honduras",
@@ -663,7 +664,7 @@
     "iso3": "HND",
     "continent": "North America",
     "description": "A Central American country with Caribbean Sea coastlines to the north and the Pacific Ocean to the south.",
-    "image": "https://picsum.photos/seed/honduras/600/400"
+    "image": "https://flagsapi.com/HN/shiny/64.png"
   },
   {
     "name": "Hungary",
@@ -672,7 +673,7 @@
     "iso3": "HUN",
     "continent": "Europe",
     "description": "A landlocked country in Central Europe, with a capital bisected by the Danube River.",
-    "image": "https://picsum.photos/seed/hungary/600/400"
+    "image": "https://flagsapi.com/HU/shiny/64.png"
   },
   {
     "name": "Iceland",
@@ -681,7 +682,7 @@
     "iso3": "ISL",
     "continent": "Europe",
     "description": "A Nordic island nation, defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields.",
-    "image": "https://picsum.photos/seed/iceland/600/400"
+    "image": "https://flagsapi.com/IS/shiny/64.png"
   },
   {
     "name": "India",
@@ -690,7 +691,7 @@
     "iso3": "IND",
     "continent": "Asia",
     "description": "A vibrant tapestry of cultures, colors, and culinary delights.",
-    "image": "https://picsum.photos/seed/india/600/400"
+    "image": "https://flagsapi.com/IN/shiny/64.png"
   },
   {
     "name": "Indonesia",
@@ -699,7 +700,7 @@
     "iso3": "IDN",
     "continent": "Asia",
     "description": "A Southeast Asian nation made up of thousands of volcanic islands.",
-    "image": "https://picsum.photos/seed/indonesia/600/400"
+    "image": "https://flagsapi.com/ID/shiny/64.png"
   },
   {
     "name": "Iran",
@@ -708,7 +709,7 @@
     "iso3": "IRN",
     "continent": "Asia",
     "description": "An Islamic republic on the Persian Gulf with historical sites dating to the Persian Empire.",
-    "image": "https://picsum.photos/seed/iran/600/400"
+    "image": "https://flagsapi.com/IR/shiny/64.png"
   },
   {
     "name": "Iraq",
@@ -717,7 +718,7 @@
     "iso3": "IRQ",
     "continent": "Asia",
     "description": "A country in Western Asia, bordered by Turkey to the north and Saudi Arabia to the south.",
-    "image": "https://picsum.photos/seed/iraq/600/400"
+    "image": "https://flagsapi.com/IQ/shiny/64.png"
   },
   {
     "name": "Ireland",
@@ -726,7 +727,7 @@
     "iso3": "IRL",
     "continent": "Europe",
     "description": "An island in the North Atlantic, separated from Great Britain to its east by the North Channel.",
-    "image": "https://picsum.photos/seed/ireland/600/400"
+    "image": "https://flagsapi.com/IE/shiny/64.png"
   },
   {
     "name": "Israel",
@@ -735,7 +736,7 @@
     "iso3": "ISR",
     "continent": "Asia",
     "description": "A Middle Eastern country on the Mediterranean Sea, is regarded by Jews, Christians and Muslims as the biblical Holy Land.",
-    "image": "https://picsum.photos/seed/israel/600/400"
+    "image": "https://flagsapi.com/IL/shiny/64.png"
   },
   {
     "name": "Italy",
@@ -744,7 +745,7 @@
     "iso3": "ITA",
     "continent": "Europe",
     "description": "A European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.",
-    "image": "https://picsum.photos/seed/italy/600/400"
+    "image": "https://flagsapi.com/IT/shiny/64.png"
   },
   {
     "name": "Jamaica",
@@ -753,7 +754,7 @@
     "iso3": "JAM",
     "continent": "North America",
     "description": "A Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches.",
-    "image": "https://picsum.photos/seed/jamaica/600/400"
+    "image": "https://flagsapi.com/JM/shiny/64.png"
   },
   {
     "name": "Japan",
@@ -762,7 +763,7 @@
     "iso3": "JPN",
     "continent": "Asia",
     "description": "A harmonious blend of ancient tradition and futuristic technology.",
-    "image": "https://picsum.photos/seed/japan/600/400"
+    "image": "https://flagsapi.com/JP/shiny/64.png"
   },
   {
     "name": "Jordan",
@@ -771,7 +772,7 @@
     "iso3": "JOR",
     "continent": "Asia",
     "description": "An Arab nation on the east bank of the Jordan River, is defined by ancient monuments.",
-    "image": "https://picsum.photos/seed/jordan/600/400"
+    "image": "https://flagsapi.com/JO/shiny/64.png"
   },
   {
     "name": "Kazakhstan",
@@ -780,7 +781,7 @@
     "iso3": "KAZ",
     "continent": "Asia",
     "description": "A Central Asian country and former Soviet republic, extends from the Caspian Sea in the west to the Altai Mountains.",
-    "image": "https://picsum.photos/seed/kazakhstan/600/400"
+    "image": "https://flagsapi.com/KZ/shiny/64.png"
   },
   {
     "name": "Kenya",
@@ -789,7 +790,7 @@
     "iso3": "KEN",
     "continent": "Africa",
     "description": "A country in East Africa with coastline on the Indian Ocean, encompasses savannah, lakelands, and the dramatic Great Rift Valley.",
-    "image": "https://picsum.photos/seed/kenya/600/400"
+    "image": "https://flagsapi.com/KE/shiny/64.png"
   },
   {
     "name": "Kiribati",
@@ -798,7 +799,7 @@
     "iso3": "KIR",
     "continent": "Oceania",
     "description": "An island republic in the Central Pacific, comprising 33 coral atolls and reef islands.",
-    "image": "https://picsum.photos/seed/kiribati/600/400"
+    "image": "https://flagsapi.com/KI/shiny/64.png"
   },
   {
     "name": "Korea (North)",
@@ -807,7 +808,7 @@
     "iso3": "PRK",
     "continent": "Asia",
     "description": "Officially the Democratic People's Republic of Korea.",
-    "image": "https://picsum.photos/seed/korea-north/600/400"
+    "image": "https://flagsapi.com/KP/shiny/64.png"
   },
   {
     "name": "Korea (South)",
@@ -816,7 +817,7 @@
     "iso3": "KOR",
     "continent": "Asia",
     "description": "A dynamic country where K-pop, cuisine, and history meet.",
-    "image": "https://picsum.photos/seed/korea-south/600/400"
+    "image": "https://flagsapi.com/KR/shiny/64.png"
   },
   {
     "name": "Kuwait",
@@ -825,7 +826,7 @@
     "iso3": "KWT",
     "continent": "Asia",
     "description": "An Arab country on the Persian (Arabian) Gulf, has a cultural heritage dating back to antiquity.",
-    "image": "https://picsum.photos/seed/kuwait/600/400"
+    "image": "https://flagsapi.com/KW/shiny/64.png"
   },
   {
     "name": "Kyrgyzstan",
@@ -834,7 +835,7 @@
     "iso3": "KGZ",
     "continent": "Asia",
     "description": "A rugged Central Asian country along the Silk Road, the ancient caravan route between China and the Mediterranean.",
-    "image": "https://picsum.photos/seed/kyrgyzstan/600/400"
+    "image": "https://flagsapi.com/KG/shiny/64.png"
   },
   {
     "name": "Laos",
@@ -843,7 +844,7 @@
     "iso3": "LAO",
     "continent": "Asia",
     "description": "A Southeast Asian country traversed by the Mekong River and known for mountainous terrain.",
-    "image": "https://picsum.photos/seed/laos/600/400"
+    "image": "https://flagsapi.com/LA/shiny/64.png"
   },
   {
     "name": "Latvia",
@@ -852,7 +853,7 @@
     "iso3": "LVA",
     "continent": "Europe",
     "description": "A country on the Baltic Sea between Lithuania and Estonia.",
-    "image": "https://picsum.photos/seed/latvia/600/400"
+    "image": "https://flagsapi.com/LV/shiny/64.png"
   },
   {
     "name": "Lebanon",
@@ -861,7 +862,7 @@
     "iso3": "LBN",
     "continent": "Asia",
     "description": "A Middle Eastern country on the Mediterranean Sea, with a rich history.",
-    "image": "https://picsum.photos/seed/lebanon/600/400"
+    "image": "https://flagsapi.com/LB/shiny/64.png"
   },
   {
     "name": "Lesotho",
@@ -870,7 +871,7 @@
     "iso3": "LSO",
     "continent": "Africa",
     "description": "A high-altitude, landlocked kingdom encircled by South Africa.",
-    "image": "https://picsum.photos/seed/lesotho/600/400"
+    "image": "https://flagsapi.com/LS/shiny/64.png"
   },
   {
     "name": "Liberia",
@@ -879,7 +880,7 @@
     "iso3": "LBR",
     "continent": "Africa",
     "description": "A country on the West African coast, bordering Sierra Leone, Guinea and Côte d'Ivoire.",
-    "image": "https://picsum.photos/seed/liberia/600/400"
+    "image": "https://flagsapi.com/LR/shiny/64.png"
   },
   {
     "name": "Libya",
@@ -888,7 +889,7 @@
     "iso3": "LBY",
     "continent": "Africa",
     "description": "A country in the Maghreb region in North Africa, bordered by the Mediterranean Sea to the north.",
-    "image": "https://picsum.photos/seed/libya/600/400"
+    "image": "https://flagsapi.com/LY/shiny/64.png"
   },
   {
     "name": "Liechtenstein",
@@ -897,7 +898,7 @@
     "iso3": "LIE",
     "continent": "Europe",
     "description": "A German-speaking, 25km-long principality between Austria and Switzerland.",
-    "image": "https://picsum.photos/seed/liechtenstein/600/400"
+    "image": "https://flagsapi.com/LI/shiny/64.png"
   },
   {
     "name": "Lithuania",
@@ -906,7 +907,7 @@
     "iso3": "LTU",
     "continent": "Europe",
     "description": "A country in the Baltic region of Europe.",
-    "image": "https://picsum.photos/seed/lithuania/600/400"
+    "image": "https://flagsapi.com/LT/shiny/64.png"
   },
   {
     "name": "Luxembourg",
@@ -915,7 +916,7 @@
     "iso3": "LUX",
     "continent": "Europe",
     "description": "A small European country, bordered by Belgium, France and Germany.",
-    "image": "https://picsum.photos/seed/luxembourg/600/400"
+    "image": "https://flagsapi.com/LU/shiny/64.png"
   },
   {
     "name": "Madagascar",
@@ -924,7 +925,7 @@
     "iso3": "MDG",
     "continent": "Africa",
     "description": "A huge island nation off the southeast coast of Africa.",
-    "image": "https://picsum.photos/seed/madagascar/600/400"
+    "image": "https://flagsapi.com/MG/shiny/64.png"
   },
   {
     "name": "Malawi",
@@ -933,7 +934,7 @@
     "iso3": "MWI",
     "continent": "Africa",
     "description": "A landlocked country in southeastern Africa, defined by its topography of highlands.",
-    "image": "https://picsum.photos/seed/malawi/600/400"
+    "image": "https://flagsapi.com/MW/shiny/64.png"
   },
   {
     "name": "Malaysia",
@@ -942,7 +943,7 @@
     "iso3": "MYS",
     "continent": "Asia",
     "description": "A Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo.",
-    "image": "https://picsum.photos/seed/malaysia/600/400"
+    "image": "https://flagsapi.com/MY/shiny/64.png"
   },
   {
     "name": "Maldives",
@@ -951,7 +952,7 @@
     "iso3": "MDV",
     "continent": "Asia",
     "description": "A tropical nation in the Indian Ocean composed of 26 ring-shaped atolls.",
-    "image": "https://picsum.photos/seed/maldives/600/400"
+    "image": "https://flagsapi.com/MV/shiny/64.png"
   },
   {
     "name": "Mali",
@@ -960,7 +961,7 @@
     "iso3": "MLI",
     "continent": "Africa",
     "description": "A landlocked country in West Africa, a region on the southern edge of the Sahara Desert.",
-    "image": "https://picsum.photos/seed/mali/600/400"
+    "image": "https://flagsapi.com/ML/shiny/64.png"
   },
   {
     "name": "Malta",
@@ -969,7 +970,7 @@
     "iso3": "MLT",
     "continent": "Europe",
     "description": "An archipelago in the central Mediterranean between Sicily and the North African coast.",
-    "image": "https://picsum.photos/seed/malta/600/400"
+    "image": "https://flagsapi.com/MT/shiny/64.png"
   },
   {
     "name": "Marshall Islands",
@@ -978,7 +979,7 @@
     "iso3": "MHL",
     "continent": "Oceania",
     "description": "A sprawling chain of volcanic islands and coral atolls in the central Pacific Ocean.",
-    "image": "https://picsum.photos/seed/marshall-islands/600/400"
+    "image": "https://flagsapi.com/MH/shiny/64.png"
   },
   {
     "name": "Mauritania",
@@ -987,7 +988,7 @@
     "iso3": "MRT",
     "continent": "Africa",
     "description": "A country in Northwest Africa, it is the eleventh largest sovereign state in Africa.",
-    "image": "https://picsum.photos/seed/mauritania/600/400"
+    "image": "https://flagsapi.com/MR/shiny/64.png"
   },
   {
     "name": "Mauritius",
@@ -996,7 +997,7 @@
     "iso3": "MUS",
     "continent": "Africa",
     "description": "An Indian Ocean island nation, known for its beaches, lagoons and reefs.",
-    "image": "https://picsum.photos/seed/mauritius/600/400"
+    "image": "https://flagsapi.com/MU/shiny/64.png"
   },
   {
     "name": "Mexico",
@@ -1005,7 +1006,7 @@
     "iso3": "MEX",
     "continent": "North America",
     "description": "A country between the U.S. and Central America, known for its Pacific and Gulf of Mexico beaches.",
-    "image": "https://picsum.photos/seed/mexico/600/400"
+    "image": "https://flagsapi.com/MX/shiny/64.png"
   },
   {
     "name": "Micronesia",
@@ -1014,7 +1015,7 @@
     "iso3": "FSM",
     "continent": "Oceania",
     "description": "A country spread across the western Pacific Ocean comprising more than 600 islands.",
-    "image": "https://picsum.photos/seed/micronesia/600/400"
+    "image": "https://flagsapi.com/FM/shiny/64.png"
   },
   {
     "name": "Moldova",
@@ -1023,7 +1024,7 @@
     "iso3": "MDA",
     "continent": "Europe",
     "description": "An Eastern European country and former Soviet republic, has varied terrain including forests, rocky hills and vineyards.",
-    "image": "https://picsum.photos/seed/moldova/600/400"
+    "image": "https://flagsapi.com/MD/shiny/64.png"
   },
   {
     "name": "Monaco",
@@ -1032,7 +1033,7 @@
     "iso3": "MCO",
     "continent": "Europe",
     "description": "An independent microstate on France’s Mediterranean coastline known for its upscale casinos.",
-    "image": "https://picsum.photos/seed/monaco/600/400"
+    "image": "https://flagsapi.com/MC/shiny/64.png"
   },
   {
     "name": "Mongolia",
@@ -1041,7 +1042,7 @@
     "iso3": "MNG",
     "continent": "Asia",
     "description": "A nation bordered by China and Russia, is known for vast, rugged expanses and nomadic culture.",
-    "image": "https://picsum.photos/seed/mongolia/600/400"
+    "image": "https://flagsapi.com/MN/shiny/64.png"
   },
   {
     "name": "Montenegro",
@@ -1050,7 +1051,7 @@
     "iso3": "MNE",
     "continent": "Europe",
     "description": "A Balkan country with rugged mountains, medieval villages and a narrow strip of beaches along its Adriatic coastline.",
-    "image": "https://picsum.photos/seed/montenegro/600/400"
+    "image": "https://flagsapi.com/ME/shiny/64.png"
   },
   {
     "name": "Morocco",
@@ -1059,7 +1060,7 @@
     "iso3": "MAR",
     "continent": "Africa",
     "description": "A North African country bordering the Atlantic Ocean and Mediterranean Sea.",
-    "image": "https://picsum.photos/seed/morocco/600/400"
+    "image": "https://flagsapi.com/MA/shiny/64.png"
   },
   {
     "name": "Mozambique",
@@ -1068,7 +1069,7 @@
     "iso3": "MOZ",
     "continent": "Africa",
     "description": "A southern African nation whose long Indian Ocean coastline is dotted with popular beaches.",
-    "image": "https://picsum.photos/seed/mozambique/600/400"
+    "image": "https://flagsapi.com/MZ/shiny/64.png"
   },
   {
     "name": "Myanmar",
@@ -1077,7 +1078,7 @@
     "iso3": "MMR",
     "continent": "Asia",
     "description": "A Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand.",
-    "image": "https://picsum.photos/seed/myanmar/600/400"
+    "image": "https://flagsapi.com/MM/shiny/64.png"
   },
   {
     "name": "Namibia",
@@ -1086,7 +1087,7 @@
     "iso3": "NAM",
     "continent": "Africa",
     "description": "A country in southwest Africa, is distinguished by the Namib Desert along its Atlantic Ocean coast.",
-    "image": "https://picsum.photos/seed/namibia/600/400"
+    "image": "https://flagsapi.com/NA/shiny/64.png"
   },
   {
     "name": "Nauru",
@@ -1095,7 +1096,7 @@
     "iso3": "NRU",
     "continent": "Oceania",
     "description": "A tiny island country in Micronesia, northeast of Australia.",
-    "image": "https://picsum.photos/seed/nauru/600/400"
+    "image": "https://flagsapi.com/NR/shiny/64.png"
   },
   {
     "name": "Nepal",
@@ -1104,7 +1105,7 @@
     "iso3": "NPL",
     "continent": "Asia",
     "description": "A country where the Himalayas tower over lush valleys.",
-    "image": "https://picsum.photos/seed/nepal/600/400"
+    "image": "https://flagsapi.com/NP/shiny/64.png"
   },
   {
     "name": "Netherlands",
@@ -1113,7 +1114,7 @@
     "iso3": "NLD",
     "continent": "Europe",
     "description": "A country in northwestern Europe, known for a flat landscape of canals, tulip fields, and windmills.",
-    "image": "https://picsum.photos/seed/netherlands/600/400"
+    "image": "https://flagsapi.com/NL/shiny/64.png"
   },
   {
     "name": "New Zealand",
@@ -1122,7 +1123,7 @@
     "iso3": "NZL",
     "continent": "Oceania",
     "description": "Breathtaking landscapes, from majestic mountains to stunning fjords.",
-    "image": "https://picsum.photos/seed/new-zealand/600/400"
+    "image": "https://flagsapi.com/NZ/shiny/64.png"
   },
   {
     "name": "Nicaragua",
@@ -1131,7 +1132,7 @@
     "iso3": "NIC",
     "continent": "North America",
     "description": "A Central American nation known for its dramatic terrain of lakes, volcanoes and beaches.",
-    "image": "https://picsum.photos/seed/nicaragua/600/400"
+    "image": "https://flagsapi.com/NI/shiny/64.png"
   },
   {
     "name": "Niger",
@@ -1140,7 +1141,7 @@
     "iso3": "NER",
     "continent": "Africa",
     "description": "A landlocked country in West Africa named after the Niger River.",
-    "image": "https://picsum.photos/seed/niger/600/400"
+    "image": "https://flagsapi.com/NE/shiny/64.png"
   },
   {
     "name": "Nigeria",
@@ -1149,7 +1150,7 @@
     "iso3": "NGA",
     "continent": "Africa",
     "description": "An African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves.",
-    "image": "https://picsum.photos/seed/nigeria/600/400"
+    "image": "https://flagsapi.com/NG/shiny/64.png"
   },
   {
     "name": "North Macedonia",
@@ -1158,7 +1159,7 @@
     "iso3": "MKD",
     "continent": "Europe",
     "description": "A country in the Balkan Peninsula in Southeast Europe.",
-    "image": "https://picsum.photos/seed/north-macedonia/600/400"
+    "image": "https://flagsapi.com/MK/shiny/64.png"
   },
   {
     "name": "Norway",
@@ -1167,7 +1168,7 @@
     "iso3": "NOR",
     "continent": "Europe",
     "description": "A Scandinavian country encompassing mountains, glaciers and deep coastal fjords.",
-    "image": "https://picsum.photos/seed/norway/600/400"
+    "image": "https://flagsapi.com/NO/shiny/64.png"
   },
   {
     "name": "Oman",
@@ -1176,7 +1177,7 @@
     "iso3": "OMN",
     "continent": "Asia",
     "description": "A nation on the Arabian Peninsula with a terrain encompassing desert, riverbed oases and long coastlines.",
-    "image": "https://picsum.photos/seed/oman/600/400"
+    "image": "https://flagsapi.com/OM/shiny/64.png"
   },
   {
     "name": "Pakistan",
@@ -1185,7 +1186,7 @@
     "iso3": "PAK",
     "continent": "Asia",
     "description": "A country in South Asia, with a coastline along the Arabian Sea and Gulf of Oman.",
-    "image": "https://picsum.photos/seed/pakistan/600/400"
+    "image": "https://flagsapi.com/PK/shiny/64.png"
   },
   {
     "name": "Palau",
@@ -1194,7 +1195,7 @@
     "iso3": "PLW",
     "continent": "Oceania",
     "description": "An archipelago of over 500 islands, part of the Micronesia region in the western Pacific Ocean.",
-    "image": "https://picsum.photos/seed/palau/600/400"
+    "image": "https://flagsapi.com/PW/shiny/64.png"
   },
   {
     "name": "Panama",
@@ -1203,7 +1204,7 @@
     "iso3": "PAN",
     "continent": "North America",
     "description": "A country on the isthmus linking Central and South America.",
-    "image": "https://picsum.photos/seed/panama/600/400"
+    "image": "https://flagsapi.com/PA/shiny/64.png"
   },
   {
     "name": "Papua New Guinea",
@@ -1212,7 +1213,7 @@
     "iso3": "PNG",
     "continent": "Oceania",
     "description": "An island country in the southwestern Pacific Ocean.",
-    "image": "https://picsum.photos/seed/papua-new-guinea/600/400"
+    "image": "https://flagsapi.com/PG/shiny/64.png"
   },
   {
     "name": "Paraguay",
@@ -1221,7 +1222,7 @@
     "iso3": "PRY",
     "continent": "South America",
     "description": "A landlocked country between Argentina, Brazil and Bolivia.",
-    "image": "https://picsum.photos/seed/paraguay/600/400"
+    "image": "https://flagsapi.com/PY/shiny/64.png"
   },
   {
     "name": "Peru",
@@ -1230,7 +1231,7 @@
     "iso3": "PER",
     "continent": "South America",
     "description": "A country in South America that's home to a section of Amazon rainforest.",
-    "image": "https://picsum.photos/seed/peru/600/400"
+    "image": "https://flagsapi.com/PE/shiny/64.png"
   },
   {
     "name": "Philippines",
@@ -1239,7 +1240,7 @@
     "iso3": "PHL",
     "continent": "Asia",
     "description": "A Southeast Asian country in the Western Pacific, comprising more than 7,000 islands.",
-    "image": "https://picsum.photos/seed/philippines/600/400"
+    "image": "https://flagsapi.com/PH/shiny/64.png"
   },
   {
     "name": "Poland",
@@ -1248,7 +1249,7 @@
     "iso3": "POL",
     "continent": "Europe",
     "description": "An eastern European country on the Baltic Sea known for its medieval architecture and Jewish heritage.",
-    "image": "https://picsum.photos/seed/poland/600/400"
+    "image": "https://flagsapi.com/PL/shiny/64.png"
   },
   {
     "name": "Portugal",
@@ -1257,7 +1258,7 @@
     "iso3": "PRT",
     "continent": "Europe",
     "description": "A southern European country on the Iberian Peninsula, bordering Spain.",
-    "image": "https://picsum.photos/seed/portugal/600/400"
+    "image": "https://flagsapi.com/PT/shiny/64.png"
   },
   {
     "name": "Qatar",
@@ -1266,7 +1267,7 @@
     "iso3": "QAT",
     "continent": "Asia",
     "description": "A peninsular Arab country whose terrain comprises arid desert and a long Persian (Arab) Gulf shoreline.",
-    "image": "https://picsum.photos/seed/qatar/600/400"
+    "image": "https://flagsapi.com/QA/shiny/64.png"
   },
   {
     "name": "Romania",
@@ -1275,7 +1276,7 @@
     "iso3": "ROU",
     "continent": "Europe",
     "description": "A southeastern European country known for the forested region of Transylvania.",
-    "image": "https://picsum.photos/seed/romania/600/400"
+    "image": "https://flagsapi.com/RO/shiny/64.png"
   },
   {
     "name": "Russia",
@@ -1284,7 +1285,7 @@
     "iso3": "RUS",
     "continent": "Europe",
     "description": "A transcontinental country spanning Eastern Europe and Northern Asia.",
-    "image": "https://picsum.photos/seed/russia/600/400"
+    "image": "https://flagsapi.com/RU/shiny/64.png"
   },
   {
     "name": "Rwanda",
@@ -1293,7 +1294,7 @@
     "iso3": "RWA",
     "continent": "Africa",
     "description": "A landlocked country in the Great Rift Valley, where the African Great Lakes region and East Africa converge.",
-    "image": "https://picsum.photos/seed/rwanda/600/400"
+    "image": "https://flagsapi.com/RW/shiny/64.png"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -1302,7 +1303,7 @@
     "iso3": "KNA",
     "continent": "North America",
     "description": "A dual-island nation situated between the Atlantic Ocean and Caribbean Sea.",
-    "image": "https://picsum.photos/seed/saint-kitts-and-nevis/600/400"
+    "image": "https://flagsapi.com/KN/shiny/64.png"
   },
   {
     "name": "Saint Lucia",
@@ -1311,7 +1312,7 @@
     "iso3": "LCA",
     "continent": "North America",
     "description": "An Eastern Caribbean island nation with a pair of dramatically tapered mountains.",
-    "image": "https://picsum.photos/seed/saint-lucia/600/400"
+    "image": "https://flagsapi.com/LC/shiny/64.png"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -1320,7 +1321,7 @@
     "iso3": "VCT",
     "continent": "North America",
     "description": "A southern Caribbean nation comprising a main island, St. Vincent, and a chain of smaller islands.",
-    "image": "https://picsum.photos/seed/saint-vincent-and-the-grenadines/600/400"
+    "image": "https://flagsapi.com/VC/shiny/64.png"
   },
   {
     "name": "Samoa",
@@ -1329,7 +1330,7 @@
     "iso3": "WSM",
     "continent": "Oceania",
     "description": "A country comprising the westernmost group of the Samoan Islands, in Polynesia.",
-    "image": "https://picsum.photos/seed/samoa/600/400"
+    "image": "https://flagsapi.com/WS/shiny/64.png"
   },
   {
     "name": "San Marino",
@@ -1338,7 +1339,7 @@
     "iso3": "SMR",
     "continent": "Europe",
     "description": "A mountainous microstate surrounded by north-central Italy.",
-    "image": "https://picsum.photos/seed/san-marino/600/400"
+    "image": "https://flagsapi.com/SM/shiny/64.png"
   },
   {
     "name": "Sao Tome and Principe",
@@ -1347,7 +1348,7 @@
     "iso3": "STP",
     "continent": "Africa",
     "description": "An African island nation close to the equator, part of a volcano chain.",
-    "image": "https://picsum.photos/seed/sao-tome-and-principe/600/400"
+    "image": "https://flagsapi.com/ST/shiny/64.png"
   },
   {
     "name": "Saudi Arabia",
@@ -1356,7 +1357,7 @@
     "iso3": "SAU",
     "continent": "Asia",
     "description": "A desert country encompassing most of the Arabian Peninsula.",
-    "image": "https://picsum.photos/seed/saudi-arabia/600/400"
+    "image": "https://flagsapi.com/SA/shiny/64.png"
   },
   {
     "name": "Senegal",
@@ -1365,7 +1366,7 @@
     "iso3": "SEN",
     "continent": "Africa",
     "description": "A country on Africa’s west coast with a rich French colonial heritage.",
-    "image": "https://picsum.photos/seed/senegal/600/400"
+    "image": "https://flagsapi.com/SN/shiny/64.png"
   },
   {
     "name": "Serbia",
@@ -1374,7 +1375,7 @@
     "iso3": "SRB",
     "continent": "Europe",
     "description": "A country on the Balkan Peninsula, with a rich history and vibrant culture.",
-    "image": "https://picsum.photos/seed/serbia/600/400"
+    "image": "https://flagsapi.com/RS/shiny/64.png"
   },
   {
     "name": "Seychelles",
@@ -1383,7 +1384,7 @@
     "iso3": "SYC",
     "continent": "Africa",
     "description": "An archipelago of 115 islands in the Indian Ocean, off East Africa.",
-    "image": "https://picsum.photos/seed/seychelles/600/400"
+    "image": "https://flagsapi.com/SC/shiny/64.png"
   },
   {
     "name": "Sierra Leone",
@@ -1392,7 +1393,7 @@
     "iso3": "SLE",
     "continent": "Africa",
     "description": "A country in West Africa, on the Atlantic Ocean.",
-    "image": "https://picsum.photos/seed/sierra-leone/600/400"
+    "image": "https://flagsapi.com/SL/shiny/64.png"
   },
   {
     "name": "Singapore",
@@ -1401,7 +1402,7 @@
     "iso3": "SGP",
     "continent": "Asia",
     "description": "An island city-state off southern Malaysia, a global financial center with a tropical climate.",
-    "image": "https://picsum.photos/seed/singapore/600/400"
+    "image": "https://flagsapi.com/SG/shiny/64.png"
   },
   {
     "name": "Slovakia",
@@ -1410,7 +1411,7 @@
     "iso3": "SVK",
     "continent": "Europe",
     "description": "A central European country known for its dramatic natural landscape and many castles.",
-    "image": "https://picsum.photos/seed/slovakia/600/400"
+    "image": "https://flagsapi.com/SK/shiny/64.png"
   },
   {
     "name": "Slovenia",
@@ -1419,7 +1420,7 @@
     "iso3": "SVN",
     "continent": "Europe",
     "description": "A country in Central Europe, known for its mountains, ski resorts and lakes.",
-    "image": "https://picsum.photos/seed/slovenia/600/400"
+    "image": "https://flagsapi.com/SI/shiny/64.png"
   },
   {
     "name": "Solomon Islands",
@@ -1428,7 +1429,7 @@
     "iso3": "SLB",
     "continent": "Oceania",
     "description": "A nation of hundreds of islands in the South Pacific.",
-    "image": "https://picsum.photos/seed/solomon-islands/600/400"
+    "image": "https://flagsapi.com/SB/shiny/64.png"
   },
   {
     "name": "Somalia",
@@ -1437,7 +1438,7 @@
     "iso3": "SOM",
     "continent": "Africa",
     "description": "A country on the Horn of Africa.",
-    "image": "https://picsum.photos/seed/somalia/600/400"
+    "image": "https://flagsapi.com/SO/shiny/64.png"
   },
   {
     "name": "South Africa",
@@ -1446,7 +1447,7 @@
     "iso3": "ZAF",
     "continent": "Africa",
     "description": "A country on the southernmost tip of the African continent.",
-    "image": "https://picsum.photos/seed/south-africa/600/400"
+    "image": "https://flagsapi.com/ZA/shiny/64.png"
   },
   {
     "name": "South Sudan",
@@ -1455,7 +1456,7 @@
     "iso3": "SSD",
     "continent": "Africa",
     "description": "A landlocked country in East-Central Africa.",
-    "image": "https://picsum.photos/seed/south-sudan/600/400"
+    "image": "https://flagsapi.com/SS/shiny/64.png"
   },
   {
     "name": "Spain",
@@ -1464,7 +1465,7 @@
     "iso3": "ESP",
     "continent": "Europe",
     "description": "A country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures.",
-    "image": "https://picsum.photos/seed/spain/600/400"
+    "image": "https://flagsapi.com/ES/shiny/64.png"
   },
   {
     "name": "Sri Lanka",
@@ -1473,7 +1474,7 @@
     "iso3": "LKA",
     "continent": "Asia",
     "description": "An island country in South Asia, located in the Indian Ocean.",
-    "image": "https://picsum.photos/seed/sri-lanka/600/400"
+    "image": "https://flagsapi.com/LK/shiny/64.png"
   },
   {
     "name": "Sudan",
@@ -1482,7 +1483,7 @@
     "iso3": "SDN",
     "continent": "Africa",
     "description": "A country in Northeast Africa.",
-    "image": "https://picsum.photos/seed/sudan/600/400"
+    "image": "https://flagsapi.com/SD/shiny/64.png"
   },
   {
     "name": "Suriname",
@@ -1491,7 +1492,7 @@
     "iso3": "SUR",
     "continent": "South America",
     "description": "A small country on the northeastern coast of South America.",
-    "image": "https://picsum.photos/seed/suriname/600/400"
+    "image": "https://flagsapi.com/SR/shiny/64.png"
   },
   {
     "name": "Sweden",
@@ -1500,7 +1501,7 @@
     "iso3": "SWE",
     "continent": "Europe",
     "description": "A Scandinavian nation with thousands of coastal islands and inland lakes.",
-    "image": "https://picsum.photos/seed/sweden/600/400"
+    "image": "https://flagsapi.com/SE/shiny/64.png"
   },
   {
     "name": "Switzerland",
@@ -1509,7 +1510,7 @@
     "iso3": "CHE",
     "continent": "Europe",
     "description": "A mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps.",
-    "image": "https://picsum.photos/seed/switzerland/600/400"
+    "image": "https://flagsapi.com/CH/shiny/64.png"
   },
   {
     "name": "Syria",
@@ -1518,7 +1519,7 @@
     "iso3": "SYR",
     "continent": "Asia",
     "description": "A country in Western Asia.",
-    "image": "https://picsum.photos/seed/syria/600/400"
+    "image": "https://flagsapi.com/SY/shiny/64.png"
   },
   {
     "name": "Taiwan",
@@ -1527,7 +1528,7 @@
     "iso3": "TWN",
     "continent": "Asia",
     "description": "A small island nation east of China with modern cities, traditional Chinese temples and dramatic mountainous terrain.",
-    "image": "https://picsum.photos/seed/taiwan/600/400"
+    "image": "https://flagsapi.com/TW/shiny/64.png"
   },
   {
     "name": "Tajikistan",
@@ -1536,7 +1537,7 @@
     "iso3": "TJK",
     "continent": "Asia",
     "description": "A country in Central Asia surrounded by Afghanistan, China, Kyrgyzstan and Uzbekistan.",
-    "image": "https://picsum.photos/seed/tajikistan/600/400"
+    "image": "https://flagsapi.com/TJ/shiny/64.png"
   },
   {
     "name": "Tanzania",
@@ -1545,7 +1546,7 @@
     "iso3": "TZA",
     "continent": "Africa",
     "description": "An East African country known for its vast wilderness areas.",
-    "image": "https://picsum.photos/seed/tanzania/600/400"
+    "image": "https://flagsapi.com/TZ/shiny/64.png"
   },
   {
     "name": "Thailand",
@@ -1554,7 +1555,7 @@
     "iso3": "THA",
     "continent": "Asia",
     "description": "A Southeast Asian country known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples.",
-    "image": "https://picsum.photos/seed/thailand/600/400"
+    "image": "https://flagsapi.com/TH/shiny/64.png"
   },
   {
     "name": "Timor-Leste",
@@ -1563,7 +1564,7 @@
     "iso3": "TLS",
     "continent": "Asia",
     "description": "A Southeast Asian nation occupying half the island of Timor.",
-    "image": "https://picsum.photos/seed/timor-leste/600/400"
+    "image": "https://flagsapi.com/TL/shiny/64.png"
   },
   {
     "name": "Togo",
@@ -1572,7 +1573,7 @@
     "iso3": "TGO",
     "continent": "Africa",
     "description": "A West African nation on the Gulf of Guinea.",
-    "image": "https://picsum.photos/seed/togo/600/400"
+    "image": "https://flagsapi.com/TG/shiny/64.png"
   },
   {
     "name": "Tonga",
@@ -1581,7 +1582,7 @@
     "iso3": "TON",
     "continent": "Oceania",
     "description": "A Polynesian kingdom of more than 170 South Pacific islands.",
-    "image": "https://picsum.photos/seed/tonga/600/400"
+    "image": "https://flagsapi.com/TO/shiny/64.png"
   },
   {
     "name": "Trinidad and Tobago",
@@ -1590,7 +1591,7 @@
     "iso3": "TTO",
     "continent": "South America",
     "description": "A dual-island Caribbean nation near Venezuela.",
-    "image": "https://picsum.photos/seed/trinidad-and-tobago/600/400"
+    "image": "https://flagsapi.com/TT/shiny/64.png"
   },
   {
     "name": "Tunisia",
@@ -1599,7 +1600,7 @@
     "iso3": "TUN",
     "continent": "Africa",
     "description": "A North African country bordering the Mediterranean Sea and Sahara Desert.",
-    "image": "https://picsum.photos/seed/tunisia/600/400"
+    "image": "https://flagsapi.com/TN/shiny/64.png"
   },
   {
     "name": "Turkey",
@@ -1608,7 +1609,7 @@
     "iso3": "TUR",
     "continent": "Asia",
     "description": "A transcontinental country located mainly on the Anatolian Peninsula in Western Asia.",
-    "image": "https://picsum.photos/seed/turkey/600/400"
+    "image": "https://flagsapi.com/TR/shiny/64.png"
   },
   {
     "name": "Turkmenistan",
@@ -1617,7 +1618,7 @@
     "iso3": "TKM",
     "continent": "Asia",
     "description": "A country in Central Asia bordered by the Caspian Sea and largely covered by the Karakum Desert.",
-    "image": "https://picsum.photos/seed/turkmenistan/600/400"
+    "image": "https://flagsapi.com/TM/shiny/64.png"
   },
   {
     "name": "Tuvalu",
@@ -1626,7 +1627,7 @@
     "iso3": "TUV",
     "continent": "Oceania",
     "description": "An independent island nation within the British Commonwealth.",
-    "image": "https://picsum.photos/seed/tuvalu/600/400"
+    "image": "https://flagsapi.com/TV/shiny/64.png"
   },
   {
     "name": "Uganda",
@@ -1635,7 +1636,7 @@
     "iso3": "UGA",
     "continent": "Africa",
     "description": "A landlocked country in East Africa whose diverse landscape encompasses the snow-capped Rwenzori Mountains.",
-    "image": "https://picsum.photos/seed/uganda/600/400"
+    "image": "https://flagsapi.com/UG/shiny/64.png"
   },
   {
     "name": "Ukraine",
@@ -1644,7 +1645,7 @@
     "iso3": "UKR",
     "continent": "Europe",
     "description": "A large country in Eastern Europe known for its Orthodox churches, Black Sea coastline and forested mountains.",
-    "image": "https://picsum.photos/seed/ukraine/600/400"
+    "image": "https://flagsapi.com/UA/shiny/64.png"
   },
   {
     "name": "United Arab Emirates",
@@ -1653,7 +1654,7 @@
     "iso3": "ARE",
     "continent": "Asia",
     "description": "An Arabian Peninsula nation settled mainly along the Persian (Arabian) Gulf.",
-    "image": "https://picsum.photos/seed/united-arab-emirates/600/400"
+    "image": "https://flagsapi.com/AE/shiny/64.png"
   },
   {
     "name": "United Kingdom",
@@ -1662,7 +1663,7 @@
     "iso3": "GBR",
     "continent": "Europe",
     "description": "A historic island nation with a rich cultural heritage.",
-    "image": "https://picsum.photos/seed/uk/600/400"
+    "image": "https://flagsapi.com/GB/shiny/64.png"
   },
   {
     "name": "United States",
@@ -1671,7 +1672,7 @@
     "iso3": "USA",
     "continent": "North America",
     "description": "From sprawling national parks to bustling cityscapes.",
-    "image": "https://picsum.photos/seed/usa/600/400"
+    "image": "https://flagsapi.com/US/shiny/64.png"
   },
   {
     "name": "Uruguay",
@@ -1680,7 +1681,7 @@
     "iso3": "URY",
     "continent": "South America",
     "description": "A South American country known for its verdant interior and beach-lined coast.",
-    "image": "https://picsum.photos/seed/uruguay/600/400"
+    "image": "https://flagsapi.com/UY/shiny/64.png"
   },
   {
     "name": "Uzbekistan",
@@ -1689,7 +1690,7 @@
     "iso3": "UZB",
     "continent": "Asia",
     "description": "A Central Asian nation and former Soviet republic, known for its mosques, mausoleums and other sites linked to the Silk Road.",
-    "image": "https://picsum.photos/seed/uzbekistan/600/400"
+    "image": "https://flagsapi.com/UZ/shiny/64.png"
   },
   {
     "name": "Vanuatu",
@@ -1698,7 +1699,7 @@
     "iso3": "VUT",
     "continent": "Oceania",
     "description": "A South Pacific Ocean nation made up of roughly 80 islands that stretch 1,300 kilometers.",
-    "image": "https://picsum.photos/seed/vanuatu/600/400"
+    "image": "https://flagsapi.com/VU/shiny/64.png"
   },
   {
     "name": "Venezuela",
@@ -1707,7 +1708,7 @@
     "iso3": "VEN",
     "continent": "South America",
     "description": "A country on the northern coast of South America with diverse natural attractions.",
-    "image": "https://picsum.photos/seed/venezuela/600/400"
+    "image": "https://flagsapi.com/VE/shiny/64.png"
   },
   {
     "name": "Vietnam",
@@ -1716,7 +1717,7 @@
     "iso3": "VNM",
     "continent": "Asia",
     "description": "A Southeast Asian country known for its beaches, rivers, Buddhist pagodas and bustling cities.",
-    "image": "https://picsum.photos/seed/vietnam/600/400"
+    "image": "https://flagsapi.com/VN/shiny/64.png"
   },
   {
     "name": "Yemen",
@@ -1725,7 +1726,7 @@
     "iso3": "YEM",
     "continent": "Asia",
     "description": "A country at the southern end of the Arabian Peninsula in Western Asia.",
-    "image": "https://picsum.photos/seed/yemen/600/400"
+    "image": "https://flagsapi.com/YE/shiny/64.png"
   },
   {
     "name": "Zambia",
@@ -1734,7 +1735,7 @@
     "iso3": "ZMB",
     "continent": "Africa",
     "description": "A landlocked country in southern-central Africa.",
-    "image": "https://picsum.photos/seed/zambia/600/400"
+    "image": "https://flagsapi.com/ZM/shiny/64.png"
   },
   {
     "name": "Zimbabwe",
@@ -1743,8 +1744,6 @@
     "iso3": "ZWE",
     "continent": "Africa",
     "description": "A landlocked country in southern Africa known for its dramatic landscape and diverse wildlife.",
-    "image": "https://picsum.photos/seed/zimbabwe/600/400"
+    "image": "https://flagsapi.com/ZW/shiny/64.png"
   }
 ]
-
-    

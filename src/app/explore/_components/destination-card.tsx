@@ -13,13 +13,13 @@ export function DestinationCard({ country }: DestinationCardProps) {
     <Link href={`/explore?country=${country.name}`} className="group block">
       <Card className="h-full overflow-hidden transition-all duration-300 ease-in-out group-hover:shadow-xl group-hover:-translate-y-1">
         <CardHeader className="p-0">
-          <div className="relative h-48 w-full">
+          <div className="relative h-48 w-full bg-muted">
             <Image
               src={country.image}
-              alt={`Image of ${country.name}`}
-              data-ai-hint={`${country.name} landmark`}
+              alt={`Flag of ${country.name}`}
+              data-ai-hint={`${country.name} flag`}
               fill
-              className="object-cover"
+              className="object-contain p-4"
             />
           </div>
         </CardHeader>
