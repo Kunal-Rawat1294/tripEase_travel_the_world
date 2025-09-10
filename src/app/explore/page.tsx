@@ -1,3 +1,4 @@
+
 import { Suspense } from 'react';
 import { getAllCountries, getCountryDetails } from '@/lib/data';
 import { DestinationGrid } from './_components/destination-grid';
@@ -18,7 +19,7 @@ async function CountryData({ countryQuery }: { countryQuery?: string }) {
       return (
         <>
           <div className="mb-8 text-center">
-            <h1 className="font-headline text-4xl font-bold tracking-tight md:text-5xl">
+            <h1 className="font-headline text-3xl font-bold tracking-tight md:text-5xl">
               {countryDetails.name}
             </h1>
           </div>
@@ -42,8 +43,8 @@ async function CountryData({ countryQuery }: { countryQuery?: string }) {
         } else {
             // It's not a known country in our list.
              return (
-                <div className="text-center py-16">
-                    <h2 className="text-2xl font-semibold">We are building the page for "{countryQuery}"!</h2>
+                <div className="text-center py-10 md:py-16">
+                    <h2 className="text-xl md:text-2xl font-semibold">We are building the page for "{countryQuery}"!</h2>
                     <p className="text-muted-foreground mt-2">This might take a moment. Please refresh the page shortly. In the meantime, why not explore one of these amazing destinations?</p>
                     <div className="mt-8">
                         <DestinationGrid countries={countries.slice(0, 3)} />
@@ -58,10 +59,10 @@ async function CountryData({ countryQuery }: { countryQuery?: string }) {
   return (
     <>
       <div className="mb-8 text-center">
-        <h1 className="font-headline text-4xl font-bold tracking-tight md:text-5xl">
+        <h1 className="font-headline text-3xl font-bold tracking-tight md:text-5xl">
           Explore Destinations
         </h1>
-        <div className='max-w-2xl mx-auto'>
+        <div className='max-w-2xl mx-auto mt-4'>
           <CountrySearch />
         </div>
       </div>
@@ -79,7 +80,7 @@ export default function ExplorePage({
   const countryQuery = searchParams?.country?.trim();
 
   return (
-    <div className="container mx-auto max-w-7xl px-4 py-8">
+    <div className="container mx-auto max-w-7xl px-4 py-6 md:py-8">
       <Suspense fallback={<LoadingSpinner />}>
         <CountryData countryQuery={countryQuery} />
       </Suspense>
