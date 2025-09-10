@@ -11,7 +11,7 @@ interface DestinationCardProps {
 export function DestinationCard({ country }: DestinationCardProps) {
   return (
     <Link href={`/explore?country=${country.name}`} className="group block">
-      <Card className="h-full overflow-hidden transition-all duration-300 ease-in-out group-hover:shadow-xl group-hover:-translate-y-1">
+      <Card className="h-full overflow-hidden">
         <CardHeader className="p-0">
           <div className="relative h-48 w-full bg-muted">
             <Image

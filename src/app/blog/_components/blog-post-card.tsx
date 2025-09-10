@@ -12,7 +12,7 @@ interface BlogPostCardProps {
 export function BlogPostCard({ post }: BlogPostCardProps) {
   return (
     <Link href={`/blog/${post.slug}`} className="group block">
-      <Card className="flex h-full flex-col overflow-hidden transition-all duration-300 ease-in-out group-hover:shadow-xl group-hover:-translate-y-1">
+      <Card className="flex h-full flex-col overflow-hidden">
         <CardHeader className="p-0">
           <div className="relative h-48 w-full">
             <Image

@@ -27,7 +27,7 @@ export default function Home() {
         <CountrySearch />
         <div className="mt-6 flex flex-wrap items-center justify-center gap-2">
           {quickDestinations.map((dest) => (
-            <Button asChild key={dest} variant="outline" className="border-white/50 bg-transparent text-white hover:bg-white/10 hover:text-white">
+            <Button asChild key={dest} variant="outline" className="border-white/50 bg-transparent text-white hover:bg-white/10 hover:text-white rounded-full">
               <Link href={`/explore?country=${dest}`}>{dest}</Link>
             </Button>
           ))}
