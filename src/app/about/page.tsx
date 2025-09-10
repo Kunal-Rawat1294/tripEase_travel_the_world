@@ -7,7 +7,7 @@ const teamMembers = [
     name: 'Kunal Rawat',
     role: 'Backend Designer',
     bio: 'The visionary leader orchestrating the technical architecture and backend development of our travel platform.',
-    image: '/kunal.jpg'
+    image: '/myphoto.jpg'
   },
   {
     name: 'Dhiraj Kumar',
@@ -19,13 +19,13 @@ const teamMembers = [
     name: 'Aditya Kumar',
     role: 'UI Designer',
     bio: 'The meticulous designer focused on crafting a seamless and visually appealing user experience across the app.',
-    image: '/aditya.jpg'
+    image: '/adityaKumar.jpg'
   },
   {
     name: 'Nishant Paliwal',
     role: 'PPT Maker & Theme Selector',
     bio: "The strategist who defines our project's narrative and visual identity, ensuring our presentation is as compelling as our app.",
-    image: '/nishant.jpg'
+    image: '/Nishant.jpg'
   }
 ]
 
