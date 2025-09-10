@@ -2,7 +2,6 @@ import type { Country, CountryDetails, BlogPost } from '@/types';
 import countriesData from '@/data/countries.json';
 import blogPostsData from '@/data/blog-posts.json';
 import { generateCountryDetails } from '@/ai/flows/generate-country-details-flow';
-import {notFound} from 'next/navigation';
 
 const countryDetailsCache: { [key: string]: CountryDetails } = {};
 
@@ -29,35 +28,10 @@ export async function getCountryDetails(countryIdentifier: string): Promise<Coun
         // Try to load a static file first.
         const staticData = require(`@/data/${slug}.json`);
         countryDetailsCache[slug] = staticData;
-        console.log(`Loaded static data for ${countryIdentifier}`);
         return staticData;
     } catch (e) {
-        // If static file doesn't exist, proceed to generate details.
-        console.log(`No static data for ${slug}, attempting to generate...`);
-    }
-
-    // Find the country name from the main list to ensure we use the canonical name for generation
-    const countryInfo = countriesData.find(c => c.name.toLowerCase() === countryIdentifier.toLowerCase() || c.slug === slug);
-    
-    // If we can't find the country in our master list, we can't generate details for it.
-    if (!countryInfo) {
-        console.warn(`Country identifier "${countryIdentifier}" not found in master list.`);
-        return null;
-    }
-
-    const countryNameToGenerate = countryInfo.name;
-
-    try {
-        console.log(`Generating details for ${countryNameToGenerate}...`);
-        const generatedData = await generateCountryDetails(countryNameToGenerate);
-        if (generatedData) {
-            countryDetailsCache[slug] = generatedData;
-            return generatedData;
-        }
-        return null;
-    } catch (genError) {
-        console.error(`Failed to generate details for ${countryNameToGenerate}:`, genError);
-        return null;
+         console.error(`Could not load data for ${slug}.`, e);
+         return null;
     }
 }
 
