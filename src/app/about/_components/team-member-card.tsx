@@ -1,8 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { Twitter, Linkedin, Github } from 'lucide-react';
 
 interface TeamMember {
   name: string;
@@ -10,11 +7,6 @@ interface TeamMember {
   bio: string;
   image: string;
   aiHint: string;
-  social: {
-    twitter: string;
-    linkedin: string;
-    github: string;
-  };
 }
 
 interface TeamMemberCardProps {
@@ -40,16 +32,8 @@ export function TeamMemberCard({ member }: TeamMemberCardProps) {
         <p className="text-primary font-medium">{member.role}</p>
         <p className="mt-2 text-muted-foreground text-sm">{member.bio}</p>
       </CardContent>
-      <CardFooter className="justify-center gap-2">
-        <Button asChild variant="ghost" size="icon">
-          <a href={member.social.twitter} target="_blank" rel="noopener noreferrer"><Twitter className="h-5 w-5" /></a>
-        </Button>
-        <Button asChild variant="ghost" size="icon">
-          <a href={member.social.linkedin} target="_blank" rel="noopener noreferrer"><Linkedin className="h-5 w-5" /></a>
-        </Button>
-        <Button asChild variant="ghost" size="icon">
-          <a href={member.social.github} target="_blank" rel="noopener noreferrer"><Github className="h-5 w-5" /></a>
-        </Button>
+      <CardFooter className="justify-center gap-2 h-10">
+        {/* Social links removed as requested */}
       </CardFooter>
     </Card>
   );

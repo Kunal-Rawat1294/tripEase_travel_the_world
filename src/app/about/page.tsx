@@ -5,28 +5,32 @@ import { TeamMemberCard } from './_components/team-member-card';
 
 const teamMembers = [
   {
-    name: 'Alex Johnson',
-    role: 'Founder & CEO',
-    bio: 'A passionate traveler dedicated to making exploration accessible to everyone.',
-    image: 'https://picsum.photos/seed/alex/400/400',
-    social: { twitter: '#', linkedin: '#', github: '#' },
-    aiHint: 'man portrait',
+    name: 'Kunal Rawat',
+    role: 'Team Lead & Backend Designer',
+    bio: 'Responsible for the backend architecture and leading the team.',
+    image: 'https://picsum.photos/seed/kunal/400/400',
+    aiHint: 'man portrait student',
   },
   {
-    name: 'Maria Garcia',
-    role: 'Head of Product',
-    bio: 'Designs intuitive experiences that empower users to plan their dream trips.',
-    image: 'https://picsum.photos/seed/maria/400/400',
-    social: { twitter: '#', linkedin: '#', github: '#' },
-    aiHint: 'woman portrait',
+    name: 'Dhiraj Kumar',
+    role: 'Frontend Designer',
+    bio: 'Designs and implements the user-facing components of the application.',
+    image: 'https://picsum.photos/seed/dhiraj/400/400',
+    aiHint: 'man portrait developer',
   },
   {
-    name: 'Chen Wei',
-    role: 'Lead Engineer',
-    bio: 'Builds the robust technology that powers TripEase and keeps it running smoothly.',
-    image: 'https://picsum.photos/seed/chen/400/400',
-    social: { twitter: '#', linkedin: '#', github: '#' },
-    aiHint: 'man portrait tech',
+    name: 'Aditya Kumar',
+    role: 'UI Designer',
+    bio: 'Focuses on the visual design and user experience of the interface.',
+    image: 'https://picsum.photos/seed/aditya/400/400',
+    aiHint: 'man portrait designer',
+  },
+  {
+    name: 'Nishant Paliwal',
+    role: 'PPT Maker & Theme Selector',
+    bio: 'Creates presentations and selects the visual theme for the project.',
+    image: 'https://picsum.photos/seed/nishant/400/400',
+    aiHint: 'man portrait creative',
   },
 ];
 
@@ -76,7 +80,7 @@ export default function AboutPage() {
 
       <section className="mt-16">
         <h2 className="font-headline text-3xl font-bold text-center mb-8">Meet Our Team</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {teamMembers.map((member) => (
             <TeamMemberCard key={member.name} member={member} />
           ))}

@@ -47,5 +47,12 @@
     "description": "Breathtaking landscapes, from majestic mountains to stunning fjords.",
     "image": "https://picsum.photos/seed/new-zealand/600/400",
     "slug": "new-zealand"
+  },
+  {
+    "name": "UK",
+    "continent": "Europe",
+    "description": "A historic island nation with a rich cultural heritage.",
+    "image": "https://picsum.photos/seed/uk/600/400",
+    "slug": "uk"
   }
 ]
