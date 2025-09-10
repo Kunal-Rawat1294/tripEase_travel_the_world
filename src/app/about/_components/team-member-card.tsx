@@ -5,7 +5,11 @@ interface TeamMember {
   name: string;
   role: string;
   bio: string;
-  image: string;
+  image: {
+    src: string;
+    width: number;
+    height: number;
+  };
 }
 
 interface TeamMemberCardProps {
@@ -18,10 +22,10 @@ export function TeamMemberCard({ member }: TeamMemberCardProps) {
       <CardHeader>
         <div className="relative h-32 w-32 mx-auto">
           <Image
-            src={member.image}
+            src={member.image.src}
             alt={`Photo of ${member.name}`}
-            width={400}
-            height={400}
+            width={member.image.width}
+            height={member.image.height}
             className="rounded-full object-cover aspect-square"
           />
         </div>

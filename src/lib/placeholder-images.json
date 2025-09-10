@@ -1,0 +1,33 @@
+
+{
+  "team": {
+    "kunal": {
+      "src": "/myphoto.jpg",
+      "width": 400,
+      "height": 400
+    },
+    "dhiraj": {
+      "src": "/dhiraj.jpg",
+      "width": 400,
+      "height": 400
+    },
+    "aditya": {
+      "src": "/adityaKumar.jpg",
+      "width": 400,
+      "height": 400
+    },
+    "nishant": {
+      "src": "/Nishant.jpg",
+      "width": 400,
+      "height": 400
+    }
+  },
+  "about": {
+    "collage": {
+      "src": "https://picsum.photos/seed/about-us/800/600",
+      "width": 800,
+      "height": 600,
+      "hint": "travel collage adventure"
+    }
+  }
+}

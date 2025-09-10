@@ -1,31 +1,32 @@
 import Image from 'next/image';
 import { Check } from 'lucide-react';
 import { TeamMemberCard } from './_components/team-member-card';
+import imageDara from '@/lib/placeholder-images.json';
 
 const teamMembers = [
   {
     name: 'Kunal Rawat',
     role: 'Backend Designer',
     bio: 'The visionary leader orchestrating the technical architecture and backend development of our travel platform.',
-    image: '/myphoto.jpg'
+    image: imageDara.team.kunal,
   },
   {
     name: 'Dhiraj Kumar',
     role: 'Frontend Designer',
     bio: 'The creative force translating our vision into a beautiful and intuitive user interface.',
-    image: '/dhiraj.jpg'
+    image: imageDara.team.dhiraj,
   },
   {
     name: 'Aditya Kumar',
     role: 'UI Designer',
     bio: 'The meticulous designer focused on crafting a seamless and visually appealing user experience across the app.',
-    image: '/adityaKumar.jpg'
+    image: imageDara.team.aditya,
   },
   {
     name: 'Nishant Paliwal',
     role: 'PPT Maker & Theme Selector',
     bio: "The strategist who defines our project's narrative and visual identity, ensuring our presentation is as compelling as our app.",
-    image: '/Nishant.jpg'
+    image: imageDara.team.nishant,
   }
 ]
 
@@ -45,9 +46,9 @@ export default function AboutPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="relative h-96 rounded-lg overflow-hidden shadow-lg">
           <Image
-            src="https://picsum.photos/seed/about-us/800/600"
+            src={imageDara.about.collage.src}
             alt="A collage of travel photos"
-            data-ai-hint="travel collage adventure"
+            data-ai-hint={imageDara.about.collage.hint}
             fill
             className="object-cover"
           />
