@@ -3,6 +3,7 @@ import type { CountryDetails, ContentSection } from '@/types';
 import { BookUser, ShieldCheck, HeartPulse, PiggyBank, Wifi, Mountain, Globe } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import ReactMarkdown from 'react-markdown';
+import { ScrollArea, ScrollBar } from '@/components/ui/scroll-area';
 
 interface CountryDetailViewProps {
   details: CountryDetails;
@@ -41,15 +42,18 @@ export function CountryDetailView({ details }: CountryDetailViewProps) {
 
   return (
     <Tabs defaultValue="documents" className="w-full">
-       <TabsList className="grid w-full grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7">
-        {categories.map((key) => (
-          <TabsTrigger key={key} value={key} className="capitalize">{key}</TabsTrigger>
-        ))}
-      </TabsList>
+      <ScrollArea className="w-full whitespace-nowrap">
+        <TabsList>
+          {categories.map((key) => (
+            <TabsTrigger key={key} value={key} className="capitalize">{key}</TabsTrigger>
+          ))}
+        </TabsList>
+        <ScrollBar orientation="horizontal" />
+      </ScrollArea>
 
       {categories.map((key) => (
         details.content[key] && (
-          <TabsContent key={key} value={key} className="mt-6">
+          <TabsContent key={key} value={key} className="mt-6 whitespace-normal">
             <SectionDisplay section={details.content[key]} icon={iconMap[key]} />
           </TabsContent>
         )
