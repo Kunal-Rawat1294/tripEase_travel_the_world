@@ -26,24 +26,32 @@ export async function getCountryDetails(countryIdentifier: string): Promise<Coun
     }
 
     try {
-        // Try to load a static file first
+        // Try to load a static file first. This is a synchronous operation.
         const staticData = require(`@/data/${slug}.json`);
         countryDetailsCache[slug] = staticData;
+        console.log(`Loaded static data for ${countryIdentifier}`);
         return staticData;
     } catch (e) {
-        // If static file doesn't exist, try to find country name from main list
-        const countryInfo = countriesData.find(c => c.name.toLowerCase() === countryIdentifier.toLowerCase() || c.slug === slug);
-        const countryName = countryInfo ? countryInfo.name : countryIdentifier;
+        // If static file doesn't exist, proceed to generate details.
+        // It's important to catch the error here so we can fall back to generation.
+        console.log(`No static data for ${slug}, attempting to generate...`);
+    }
 
-        try {
-            console.log(`Generating details for ${countryName}...`);
-            const generatedData = await generateCountryDetails(countryName);
+    // Find the country name from the main list to ensure we use the canonical name for generation
+    const countryInfo = countriesData.find(c => c.name.toLowerCase() === countryIdentifier.toLowerCase() || c.slug === slug);
+    const countryNameToGenerate = countryInfo ? countryInfo.name : countryIdentifier;
+
+    try {
+        console.log(`Generating details for ${countryNameToGenerate}...`);
+        const generatedData = await generateCountryDetails(countryNameToGenerate);
+        if (generatedData) {
             countryDetailsCache[slug] = generatedData;
             return generatedData;
-        } catch (genError) {
-            console.error(`Failed to generate details for ${countryName}:`, genError);
-            return null;
         }
+        return null;
+    } catch (genError) {
+        console.error(`Failed to generate details for ${countryNameToGenerate}:`, genError);
+        return null;
     }
 }
 
