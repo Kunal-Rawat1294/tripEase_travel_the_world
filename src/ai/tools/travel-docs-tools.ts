@@ -27,6 +27,7 @@ export const getTravelDocsFromMongoTool = ai.defineTool(
                 console.log(`No document found for country: ${input.country}`);
                 return null; // Return null if no document is found
             }
+            console.log(`Successfully found document for ${input.country} in MongoDB.`);
             // Return the entire document so the AI has all the information.
             return docs;
         } catch (error) {

@@ -19,7 +19,7 @@ const InfoSectionSchema = z.object({
 
 const DocsSectionSchema = z.object({
     title: z.string().describe("The title of the section, which should be 'Travel Documents & Visas'."),
-    description: z.string().describe("A brief, 2-3 sentence overview of the country's entry requirements based on the provided data."),
+    description: z.string().describe("A comprehensive, 100-line overview of the country's entry requirements based on the provided data, formatted with clear headings and paragraphs."),
     passportRequirements: z.object({
         title: z.literal("Passport Requirements"),
         validity: z.string().describe("Required passport validity period (e.g., '6 months beyond travel date')."),
@@ -74,24 +74,11 @@ const countryDetailsPrompt = ai.definePrompt({
   input: { schema: CountryDetailsFlowInputSchema },
   output: { schema: CountryDetailsFlowOutputSchema },
   tools: [getTravelDocsFromMongoTool],
-  prompt: `You are a world travel expert tasked with creating an exhaustive travel guide for {{{country}}}.
+  prompt: `You are a world travel expert tasked with creating a travel guide for {{{country}}}.
 
-  Your response must be incredibly detailed and comprehensive.
+  For the "Travel Documents & Visas" section, you MUST use the provided tool (getTravelDocsFromMongoTool) to get information from the internal database. Synthesize this data to populate all the fields in the 'docs' schema. Your 'description' field within the 'docs' object must be an extremely detailed, 100-line comprehensive summary, formatted with markdown for readability. If the tool returns no data, you must still generate this section based on your general knowledge, stating that the information is not from the database.
 
-  For the "Travel Documents & Visas" section, you MUST use the provided tool (getTravelDocsFromMongoTool) to get information from the internal database. You will then synthesize this data to populate all the fields in the 'docs' schema. Do not invent information for this section; if the tool returns no data or specific fields are missing, state that the information is not available. Provide detailed, practical information for each field based on the tool's output.
-
-  For all other sections (Culture, Safety, etc.), provide a thorough description (3-4 sentences) and at least 8-10 detailed, practical bullet points. The goal is to create a rich resource that is between 100 and 200 lines long in its final JSON format.
-
-  Sections to cover:
-  - Travel Documents & Visas (use tool)
-  - Culture & Traditions
-  - Safety & Precautions
-  - Health & Diseases
-  - Money & Budget
-  - Connectivity & Transport
-  - Adaptation & Mindset
-
-  Ensure the entire output is a single, valid JSON object that strictly adheres to the requested output schema. All fields must be populated with high-quality, accurate, and extensive information.
+  For all other sections (Culture, Safety, etc.), provide only the title. Do not generate the description or points for these sections yet.
   `,
 });
 
