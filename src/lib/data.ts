@@ -26,20 +26,26 @@ export async function getCountryDetails(countryIdentifier: string): Promise<Coun
     }
 
     try {
-        // Try to load a static file first. This is a synchronous operation.
+        // Try to load a static file first.
         const staticData = require(`@/data/${slug}.json`);
         countryDetailsCache[slug] = staticData;
         console.log(`Loaded static data for ${countryIdentifier}`);
         return staticData;
     } catch (e) {
         // If static file doesn't exist, proceed to generate details.
-        // It's important to catch the error here so we can fall back to generation.
         console.log(`No static data for ${slug}, attempting to generate...`);
     }
 
     // Find the country name from the main list to ensure we use the canonical name for generation
     const countryInfo = countriesData.find(c => c.name.toLowerCase() === countryIdentifier.toLowerCase() || c.slug === slug);
-    const countryNameToGenerate = countryInfo ? countryInfo.name : countryIdentifier;
+    
+    // If we can't find the country in our master list, we can't generate details for it.
+    if (!countryInfo) {
+        console.warn(`Country identifier "${countryIdentifier}" not found in master list.`);
+        return null;
+    }
+
+    const countryNameToGenerate = countryInfo.name;
 
     try {
         console.log(`Generating details for ${countryNameToGenerate}...`);
@@ -62,3 +68,5 @@ export function getAllBlogPosts(): BlogPost[] {
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
   return blogPostsData.find((post) => post.slug === slug);
 }
+
+    

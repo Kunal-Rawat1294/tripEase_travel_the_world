@@ -4,6 +4,8 @@ export interface Country {
   description: string;
   image: string;
   slug: string;
+  iso2: string;
+  iso3: string;
 }
 
 export interface ContentSection {
@@ -27,3 +29,5 @@ export interface BlogPost {
   excerpt: string;
   content: string;
 }
+
+    
