@@ -1,3 +1,4 @@
+
 import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
@@ -9,7 +10,7 @@ export default function Home() {
   return (
     <div className="relative flex h-[calc(100vh-80px)] min-h-[500px] flex-col items-center justify-center text-center">
       <Image
-        src="https://picsum.photos/1920/1080"
+        src="/tripease.jpg"
         alt="Travel background"
         data-ai-hint="travel landscape"
         fill
