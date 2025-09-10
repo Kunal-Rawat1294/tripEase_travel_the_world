@@ -1,0 +1,33 @@
+{
+    "name": "France",
+    "content": {
+        "documents": {
+            "title": "Documents",
+            "content": "### Passport & Visas\nFrance is a member of the Schengen Area. U.S., Canadian, and Australian citizens do not need a visa for stays up to 90 days in any 180-day period. Your passport must be valid for at least three months beyond your planned departure date from the Schengen Area. Ensure your passport has at least one blank page for stamps.\n\n### Customs\nYou can bring in goods for personal use from outside the EU up to a value of €430 (by air or sea) or €300 (by other means). There are strict limits on tobacco (200 cigarettes) and alcohol (1 liter of spirits over 22% vol.).\n\n### Driving\nAn International Driving Permit (IDP) is recommended along with your valid home country driver's license. The minimum driving age is 18."
+        },
+        "culture": {
+            "title": "Culture",
+            "content": "### Greetings\nA simple 'Bonjour' (Hello) when entering a shop or restaurant is considered polite. In more social settings, a light handshake is common. The double-cheek kiss ('la bise') is reserved for friends and acquaintances.\n\n### Dining Etiquette\nDining is a leisurely affair. It's considered rude to rush a meal. Keep your hands on the table, not in your lap. Bread is placed on the table, not on your plate. 'Bon appétit!' is said before starting to eat.\n\n### Language\nWhile many people in tourist areas speak English, attempting a few French phrases like 'S'il vous plaît' (Please) and 'Merci' (Thank you) is greatly appreciated."
+        },
+        "safety": {
+            "title": "Safety",
+            "content": "### Emergency Numbers\nThe pan-European emergency number is **112**. For specific services: Police (17), Ambulance (15), Fire (18).\n\n### Petty Crime\nBe vigilant in crowded tourist areas, especially in Paris (e.g., Eiffel Tower, Louvre, Montmartre) and on public transport. Pickpocketing and bag-snatching are the most common crimes. Keep valuables secure and out of sight.\n\n### Scams\nBeware of common scams like the 'gold ring' trick (someone pretends to find a ring and offers it to you for money) or petition scams where a group distracts you while another pickpockets you."
+        },
+        "health": {
+            "title": "Health",
+            "content": "### Healthcare System\nFrance has an excellent healthcare system. For minor ailments, pharmacies (identifiable by a green cross) can offer advice and over-the-counter medication. For serious issues, go to the nearest 'urgences' (emergency room).\n\n### Vaccinations\nNo specific vaccinations are required for entry from most Western countries. Ensure your routine immunizations are up to date.\n\n### Travel Insurance\nComprehensive travel insurance is highly recommended to cover any medical costs, as healthcare can be expensive for non-EU citizens."
+        },
+        "money": {
+            "title": "Money",
+            "content": "### Currency & Payment\nFrance uses the Euro (€). Credit and debit cards (especially Visa and Mastercard with a chip and PIN) are widely accepted. Contactless payment is common. It's always wise to carry some cash for smaller bakeries, markets, or cafes.\n\n### Tipping\nTipping is not obligatory, as a service charge ('service compris') is legally included in the bill. However, it's common to leave a few extra euros ('un pourboire') for good service, typically 5-10%.\n\n### Costs\nFrance can be expensive, particularly Paris. A simple café breakfast (croissant and coffee) is around €5-€8. A 'plat du jour' (dish of the day) for lunch is a good value option, typically €12-€18."
+        },
+        "connectivity": {
+            "title": "Connectivity",
+            "content": "### Mobile Phones & SIM Cards\nThe main mobile operators are Orange, SFR, and Bouygues Telecom. You can purchase a prepaid SIM card from an operator's store with your passport. eSIMs are also readily available online from providers like Airalo or Holafly for easy data access upon arrival.\n\n### Wi-Fi\nFree Wi-Fi is widely available in cafes, restaurants, museums, and many public parks and squares, especially in larger cities.\n\n### Electrical Plugs\nFrance uses Type E plugs with two round pins. The standard voltage is 230V. You will likely need a travel adapter."
+        },
+        "adaptation": {
+            "title": "Adaptation",
+            "content": "### Transportation\nFrance has an excellent public transportation system. The high-speed train (TGV) connects major cities efficiently. In Paris, the Metro is the easiest way to get around. Buy a Navigo pass or a carnet of tickets for better value.\n\n### Business Hours\nMany shops and businesses, especially outside of major tourist areas, close for a two-hour lunch break (from around noon or 1 PM to 2 or 3 PM). Most shops are closed on Sundays, though some supermarkets in larger cities remain open in the morning.\n\n### Social Norms\nPoliteness is key. Always greet shopkeepers with 'Bonjour' and say 'Au revoir' (Goodbye) when you leave. Patience is valued; try not to be loud or rushed in public spaces. Embrace the slower pace of life, especially when dining."
+        }
+    }
+}

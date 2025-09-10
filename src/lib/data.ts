@@ -19,6 +19,9 @@ function toSlug(name: string): string {
 
 export async function getCountryDetails(countryIdentifier: string): Promise<CountryDetails | null> {
     const slug = toSlug(countryIdentifier);
+    const country = countriesData.find(c => toSlug(c.name) === slug);
+    const countryNameToGenerate = country ? country.name : countryIdentifier;
+
 
     if (slug in countryDetailsCache) {
         return countryDetailsCache[slug];
@@ -30,8 +33,20 @@ export async function getCountryDetails(countryIdentifier: string): Promise<Coun
         countryDetailsCache[slug] = staticData;
         return staticData;
     } catch (e) {
-         console.error(`Could not load data for ${slug}.`, e);
-         return null;
+        // If static file doesn't exist, generate it.
+         console.log(`No static data for ${slug}, generating...`);
+    }
+
+    try {
+        const details = await generateCountryDetails(countryNameToGenerate);
+        if (details) {
+            countryDetailsCache[slug] = details;
+            return details;
+        }
+        return null;
+    } catch (genError) {
+        console.error(`Failed to generate details for ${countryNameToGenerate}:`, genError);
+        return null;
     }
 }
 
