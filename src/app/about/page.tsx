@@ -4,28 +4,28 @@ import { TeamMemberCard } from './_components/team-member-card';
 
 const teamMembers = [
   {
-    name: 'Emily Carter',
-    role: 'Founder & Lead Explorer',
-    bio: 'With a passion for discovering hidden gems, Emily started TripEase to share her love for authentic travel.',
-    image: 'https://picsum.photos/seed/emily/400/400'
+    name: 'Kunal Rawat',
+    role: 'Backend Designer',
+    bio: 'The visionary leader orchestrating the technical architecture and backend development of our travel platform.',
+    image: '/kunal.jpg'
   },
   {
-    name: 'Marcus Hayes',
-    role: 'Head of Content',
-    bio: 'A storyteller at heart, Marcus curates the guides and articles that bring each destination to life.',
-    image: 'https://picsum.photos/seed/marcus/400/400'
+    name: 'Dhiraj Kumar',
+    role: 'Frontend Designer',
+    bio: 'The creative force translating our vision into a beautiful and intuitive user interface.',
+    image: '/dhiraj.jpg'
   },
   {
-    name: 'Sofia Reyes',
-    role: 'Community Manager',
-    bio: 'Sofia connects with our community of travelers, ensuring everyone feels welcome and inspired.',
-    image: 'https://picsum.photos/seed/sofia/400/400'
+    name: 'Aditya Kumar',
+    role: 'UI Designer',
+    bio: 'The meticulous designer focused on crafting a seamless and visually appealing user experience across the app.',
+    image: 'https://picsum.photos/seed/aditya/400/400'
   },
   {
-    name: 'David Chen',
-    role: 'Chief Technology Officer',
-    bio: "David Chen is the visionary behind our AI-powered travel tools. When he's not optimizing our algorithms, you'll find him hiking and capturing the beauty of nature with his camera.",
-    image: 'https://picsum.photos/seed/david/400/400'
+    name: 'Nishant Paliwal',
+    role: 'PPT Maker & Theme Selector',
+    bio: "The strategist who defines our project's narrative and visual identity, ensuring our presentation is as compelling as our app.",
+    image: 'https://picsum.photos/seed/nishant/400/400'
   }
 ]
 
@@ -37,8 +37,8 @@ export default function AboutPage() {
           About TripEase
         </h1>
         <p className="mt-4 max-w-3xl mx-auto text-lg text-muted-foreground">
-          We are a team of passionate travelers and tech enthusiasts dedicated
-          to making your travel planning seamless, informative, and exciting.
+          We are a team of passionate developers and designers from Galgotias University,
+          dedicated to making travel planning seamless and exciting for our college project.
         </p>
       </div>
 
