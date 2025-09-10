@@ -61,10 +61,7 @@ const DocsSectionDisplay = ({ section }: { section: CountryDetails['docs'] }) =>
                     <div className="flex h-12 w-12 items-center justify-center rounded-full bg-accent/10 text-accent">
                          <BookUser className="h-6 w-6" />
                     </div>
-                    <div>
-                        <CardTitle className="font-headline text-2xl">{section.title}</CardTitle>
-                         <CardDescription>{section.description}</CardDescription>
-                    </div>
+                    <CardTitle className="font-headline text-2xl">{section.title}</CardTitle>
                 </div>
             </CardHeader>
             <CardContent>

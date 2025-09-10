@@ -78,7 +78,7 @@ const countryDetailsPrompt = ai.definePrompt({
 
   For the "Travel Documents & Visas" section, you MUST use the provided tool (getTravelDocsFromMongoTool) to get information from the internal database. Synthesize this data to populate all the fields in the 'docs' schema. Your 'description' field within the 'docs' object must be an extremely detailed, 100-line comprehensive summary, formatted with markdown for readability. If the tool returns no data, you must still generate this section based on your general knowledge, stating that the information is not from the database.
 
-  For all other sections (Culture, Safety, etc.), provide only the title. Do not generate the description or points for these sections yet.
+  For all other sections (Culture, Safety, etc.), provide detailed information by populating the 'description' and 'points' fields for each. Generate at least 3-4 interesting and practical points for each section.
   `,
 });
 
