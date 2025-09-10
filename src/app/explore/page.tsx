@@ -3,7 +3,7 @@ import { DestinationGrid } from './_components/destination-grid';
 import { CountryDetailView } from './_components/country-detail-view';
 import { CountrySearch } from '@/components/country-search';
 
-export default function ExplorePage({
+export default async function ExplorePage({
   searchParams,
 }: {
   searchParams?: { country?: string };
