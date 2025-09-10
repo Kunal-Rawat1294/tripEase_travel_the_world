@@ -8,7 +8,6 @@ import { cn } from '@/lib/utils';
 import { Sheet, SheetContent, SheetTrigger } from '../ui/sheet';
 import { Menu } from 'lucide-react';
 import { useState } from 'react';
-import { SignInButton, SignUpButton, UserButton, SignedIn, SignedOut } from '@clerk/nextjs';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -50,15 +49,6 @@ export function Header() {
         <NavLinks className="hidden md:flex" />
 
         <div className="flex items-center gap-4">
-           <SignedIn>
-            <UserButton />
-          </SignedIn>
-          <SignedOut>
-            <div className="hidden md:flex items-center gap-2">
-              <Button asChild variant="ghost"><SignInButton mode="modal" /></Button>
-              <Button asChild><SignUpButton mode="modal" /></Button>
-            </div>
-          </SignedOut>
           <Sheet open={isSheetOpen} onOpenChange={setSheetOpen}>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon" className="md:hidden">
@@ -69,12 +59,6 @@ export function Header() {
             <SheetContent side="right">
               <div className='flex flex-col items-center justify-center h-full gap-8'>
                 <NavLinks className="flex flex-col gap-4" isMobile />
-                <SignedOut>
-                  <div className="w-full flex flex-col gap-2">
-                    <Button asChild className='w-full'><SignInButton mode="modal" /></Button>
-                    <Button asChild variant="outline" className='w-full'><SignUpButton mode="modal" /></Button>
-                  </div>
-                </SignedOut>
               </div>
             </SheetContent>
           </Sheet>

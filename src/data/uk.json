@@ -1,73 +1,33 @@
 {
   "name": "UK",
-  "docs": {
-    "title": "Travel Documents & Visas",
-    "description": "Many nationalities, including citizens of the USA, Canada, and Australia, can visit the UK for up to 6 months without a visa.",
-    "points": [
-      "Check if you need a UK visa on the official government website before you travel.",
-      "Your passport should be valid for the whole of your stay.",
-      "You may be asked to prove you have sufficient funds for your stay and a return ticket.",
-      "There are separate queues for UK/EU and other passport holders at immigration."
-    ]
-  },
-  "culture": {
-    "title": "Culture & Traditions",
-    "description": "British culture is known for its politeness, dry sense of humor, and love of queuing. Each of the four countries (England, Scotland, Wales, Northern Ireland) has its own distinct identity.",
-    "points": [
-      "Queuing (lining up) is a national pastime. Always wait your turn.",
-      "A handshake is the standard greeting in formal situations.",
-      "'Please', 'Thank you', and 'Sorry' are used frequently.",
-      "Pub culture is central to social life; it's common to buy rounds of drinks."
-    ]
-  },
-  "safety": {
-    "title": "Safety & Precautions",
-    "description": "The UK is generally a safe country. The main risks are petty theft in crowded areas. Be mindful in large cities.",
-    "points": [
-      "The emergency number for police, fire, and ambulance is 999 or 112.",
-      "Look right, then left before crossing the street due to traffic driving on the left.",
-      "Be cautious of pickpockets on public transport and in tourist hotspots in London.",
-      "Official taxis (like London's black cabs) are regulated and safe."
-    ]
-  },
-  "health": {
-    "title": "Health & Diseases",
-    "description": "The National Health Service (NHS) provides free emergency care, but comprehensive travel insurance is still highly recommended to cover all eventualities.",
-    "points": [
-      "Travel insurance is essential to cover non-emergency treatment, trip cancellation, and repatriation.",
-      "Tap water is safe to drink throughout the UK.",
-      "Pharmacies (chemists) like Boots and Superdrug are found on every high street.",
-      "No special vaccinations are required to enter the UK."
-    ]
-  },
-  "money": {
-    "title": "Money & Budget",
-    "description": "The currency is the Pound Sterling (£, GBP). Contactless and card payments are the norm, and carrying large amounts of cash is unnecessary.",
-    "points": [
-      "Contactless payment is ubiquitous for everything from coffee to train tickets.",
-      "Most ATMs are free to use, but check for any fees, especially from independent operators.",
-      "Tipping is not as ingrained as in the US; 10-12.5% is common in restaurants if service isn't included.",
-      "The UK can be expensive, especially London. Look for meal deals in supermarkets for a budget lunch."
-    ]
-  },
-  "connectivity": {
-    "title": "Connectivity & Transport",
-    "description": "The UK has an extensive rail network, making it easy to travel between cities. In London, the Tube (subway) is the most efficient way to get around.",
-    "points": [
-      "Book train tickets in advance for significant savings.",
-      "An Oyster card or contactless payment is the cheapest way to use London's public transport.",
-      "Ride-sharing apps like Uber are available, but traditional taxis are also common.",
-      "Wi-Fi is widely available in cafes, hotels, and on some public transport."
-    ]
-  },
-  "adaptation": {
-    "title": "Adaptation & Mindset",
-    "description": "The weather is a national obsession and can be unpredictable. Pack layers and a waterproof jacket, no matter the season.",
-    "points": [
-      "Understand the British sense of humor, which is often sarcastic and self-deprecating.",
-      "Don't be offended by a lack of overt enthusiasm; it's often just British reserve.",
-      "Regional accents and dialects vary dramatically across the country.",
-      "Embrace the unpredictable weather and always have a 'plan B' for outdoor activities."
-    ]
+  "content": {
+    "documents": {
+      "title": "Documents",
+      "content": "Many nationalities, including citizens of the USA, Canada, and Australia, can visit the UK for up to 6 months without a visa. Check if you need a UK visa on the official government website before you travel. Your passport should be valid for the whole of your stay. You may be asked to prove you have sufficient funds for your stay and a return ticket. There are separate queues for UK/EU and other passport holders at immigration."
+    },
+    "culture": {
+      "title": "Culture",
+      "content": "British culture is known for its politeness, dry sense of humor, and love of queuing. Each of the four countries (England, Scotland, Wales, Northern Ireland) has its own distinct identity. Queuing (lining up) is a national pastime. Always wait your turn. A handshake is the standard greeting in formal situations. 'Please', 'Thank you', and 'Sorry' are used frequently. Pub culture is central to social life; it's common to buy rounds of drinks."
+    },
+    "safety": {
+      "title": "Safety",
+      "content": "The UK is generally a safe country. The main risks are petty theft in crowded areas. Be mindful in large cities. The emergency number for police, fire, and ambulance is 999 or 112. Look right, then left before crossing the street due to traffic driving on the left. Be cautious of pickpockets on public transport and in tourist hotspots in London. Official taxis (like London's black cabs) are regulated and safe."
+    },
+    "health": {
+      "title": "Health",
+      "content": "The National Health Service (NHS) provides free emergency care, but comprehensive travel insurance is still highly recommended to cover all eventualities. Travel insurance is essential to cover non-emergency treatment, trip cancellation, and repatriation. Tap water is safe to drink throughout the UK. Pharmacies (chemists) like Boots and Superdrug are found on every high street. No special vaccinations are required to enter the UK."
+    },
+    "money": {
+      "title": "Money",
+      "content": "The currency is the Pound Sterling (£, GBP). Contactless and card payments are the norm, and carrying large amounts of cash is unnecessary. Contactless payment is ubiquitous for everything from coffee to train tickets. Most ATMs are free to use, but check for any fees, especially from independent operators. Tipping is not as ingrained as in the US; 10-12.5% is common in restaurants if service isn't included. The UK can be expensive, especially London. Look for meal deals in supermarkets for a budget lunch."
+    },
+    "connectivity": {
+      "title": "Connectivity",
+      "content": "The UK has an extensive rail network, making it easy to travel between cities. In London, the Tube (subway) is the most efficient way to get around. Book train tickets in advance for significant savings. An Oyster card or contactless payment is the cheapest way to use London's public transport. Ride-sharing apps like Uber are available, but traditional taxis are also common. Wi-Fi is widely available in cafes, hotels, and on some public transport."
+    },
+    "adaptation": {
+      "title": "Adaptation",
+      "content": "The weather is a national obsession and can be unpredictable. Pack layers and a waterproof jacket, no matter the season. Understand the British sense of humor, which is often sarcastic and self-deprecating. Don't be offended by a lack of overt enthusiasm; it's often just British reserve. Regional accents and dialects vary dramatically across the country. Embrace the unpredictable weather and always have a 'plan B' for outdoor activities."
+    }
   }
 }

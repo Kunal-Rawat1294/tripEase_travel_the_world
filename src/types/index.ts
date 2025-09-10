@@ -6,48 +6,20 @@ export interface Country {
   slug: string;
 }
 
-export interface InfoSection {
+export interface ContentSection {
   title: string;
-  description: string;
-  points: string[];
+  content: string;
 }
-
-export interface DocsSection {
-    title: string;
-    description: string;
-    passportRequirements: {
-        title: "Passport Requirements";
-        validity: string;
-        blankPages: string;
-        ePassport: boolean;
-    };
-    visaRequirements: {
-        title: "Visa Information";
-        visaFreeEntry: string;
-        "e-visa": string;
-        visaOnArrival: string;
-        embassyProcessing: string;
-    };
-    entryExit: {
-        title: "Entry and Exit Requirements";
-        customsDeclaration: string;
-        healthCertificates: string;
-        specialPermits: string;
-    };
-    officialLinks: {
-        title: "Official Resources";
-        embassyUrl: string;
-    };
-}
-
 
 export interface CountryDetails {
   name: string;
-  docs: DocsSection;
-  culture: InfoSection;
-  safety: InfoSection;
-  health: InfoSection;
-  money: InfoSection;
-  connectivity: InfoSection;
-  adaptation: InfoSection;
+  content: {
+    documents: ContentSection;
+    culture: ContentSection;
+    safety: ContentSection;
+    health: ContentSection;
+    money: ContentSection;
+    connectivity: ContentSection;
+    adaptation: ContentSection;
+  };
 }

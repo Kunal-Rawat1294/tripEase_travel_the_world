@@ -7,11 +7,11 @@ import ukData from '@/data/uk.json';
 import southKoreaData from '@/data/south-korea.json';
 
 const countryDetailsMap: { [key: string]: CountryDetails } = {
-  japan: japanData,
-  india: indiaData,
-  usa: usaData,
-  uk: ukData,
-  'south-korea': southKoreaData,
+  japan: japanData as CountryDetails,
+  india: indiaData as CountryDetails,
+  usa: usaData as CountryDetails,
+  uk: ukData as CountryDetails,
+  'south-korea': southKoreaData as CountryDetails,
 };
 
 export function getAllCountries(): Country[] {
