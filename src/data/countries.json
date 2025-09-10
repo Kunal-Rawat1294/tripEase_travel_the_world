@@ -3,1747 +3,1747 @@
   {
     "name": "Afghanistan",
     "slug": "afghanistan",
-    "iso2": "AF",
+    "iso2": "af",
     "iso3": "AFG",
     "continent": "Asia",
     "description": "Crossroads of ancient empires and trade routes.",
-    "image": "https://flagsapi.com/AF/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/af.png"
   },
   {
     "name": "Albania",
     "slug": "albania",
-    "iso2": "AL",
+    "iso2": "al",
     "iso3": "ALB",
     "continent": "Europe",
     "description": "A land of ancient culture and stunning coastlines.",
-    "image": "https://flagsapi.com/AL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/al.png"
   },
   {
     "name": "Algeria",
     "slug": "algeria",
-    "iso2": "DZ",
+    "iso2": "dz",
     "iso3": "DZA",
     "continent": "Africa",
     "description": "Home to vast Saharan landscapes and rich history.",
-    "image": "https://flagsapi.com/DZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/dz.png"
   },
   {
     "name": "Andorra",
     "slug": "andorra",
-    "iso2": "AD",
+    "iso2": "ad",
     "iso3": "AND",
     "continent": "Europe",
     "description": "A tiny principality nestled in the Pyrenees mountains.",
-    "image": "https://flagsapi.com/AD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ad.png"
   },
   {
     "name": "Angola",
     "slug": "angola",
-    "iso2": "AO",
+    "iso2": "ao",
     "iso3": "AGO",
     "continent": "Africa",
     "description": "A country of diverse terrains and resilient culture.",
-    "image": "https://flagsapi.com/AO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ao.png"
   },
   {
     "name": "Antigua and Barbuda",
     "slug": "antigua-and-barbuda",
-    "iso2": "AG",
+    "iso2": "ag",
     "iso3": "ATG",
     "continent": "North America",
     "description": "An island nation famous for its sandy beaches and reefs.",
-    "image": "https://flagsapi.com/AG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ag.png"
   },
   {
     "name": "Argentina",
     "slug": "argentina",
-    "iso2": "AR",
+    "iso2": "ar",
     "iso3": "ARG",
     "continent": "South America",
     "description": "A land of tango, steak, and dramatic Patagonian landscapes.",
-    "image": "https://flagsapi.com/AR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ar.png"
   },
   {
     "name": "Armenia",
     "slug": "armenia",
-    "iso2": "AM",
+    "iso2": "am",
     "iso3": "ARM",
     "continent": "Asia",
     "description": "A nation with a rich ancient history and religious heritage.",
-    "image": "https://flagsapi.com/AM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/am.png"
   },
   {
     "name": "Australia",
     "slug": "australia",
-    "iso2": "AU",
+    "iso2": "au",
     "iso3": "AUS",
     "continent": "Oceania",
     "description": "Home to vibrant coral reefs, vast deserts, and unique wildlife.",
-    "image": "https://flagsapi.com/AU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/au.png"
   },
   {
     "name": "Austria",
     "slug": "austria",
-    "iso2": "AT",
+    "iso2": "at",
     "iso3": "AUT",
     "continent": "Europe",
     "description": "Famed for its imperial palaces, alpine scenery, and classical music.",
-    "image": "https://flagsapi.com/AT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/at.png"
   },
   {
     "name": "Azerbaijan",
     "slug": "azerbaijan",
-    "iso2": "AZ",
+    "iso2": "az",
     "iso3": "AZE",
     "continent": "Asia",
     "description": "The Land of Fire, where East meets West.",
-    "image": "https://flagsapi.com/AZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/az.png"
   },
   {
     "name": "Bahamas",
     "slug": "bahamas",
-    "iso2": "BS",
+    "iso2": "bs",
     "iso3": "BHS",
     "continent": "North America",
     "description": "An archipelago of coral islands with idyllic beaches.",
-    "image": "https://flagsapi.com/BS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bs.png"
   },
   {
     "name": "Bahrain",
     "slug": "bahrain",
-    "iso2": "BH",
+    "iso2": "bh",
     "iso3": "BHR",
     "continent": "Asia",
     "description": "An island nation known for its pearl fisheries and rich history.",
-    "image": "https://flagsapi.com/BH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bh.png"
   },
   {
     "name": "Bangladesh",
     "slug": "bangladesh",
-    "iso2": "BD",
+    "iso2": "bd",
     "iso3": "BGD",
     "continent": "Asia",
     "description": "A lush, riverine country with a vibrant culture.",
-    "image": "https://flagsapi.com/BD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bd.png"
   },
   {
     "name": "Barbados",
     "slug": "barbados",
-    "iso2": "BB",
+    "iso2": "bb",
     "iso3": "BRB",
     "continent": "North America",
     "description": "An eastern Caribbean island and an independent British Commonwealth nation.",
-    "image": "https://flagsapi.com/BB/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bb.png"
   },
   {
     "name": "Belarus",
     "slug": "belarus",
-    "iso2": "BY",
+    "iso2": "by",
     "iso3": "BLR",
     "continent": "Europe",
     "description": "Known for its grand fortifications and primeval forests.",
-    "image": "https://flagsapi.com/BY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/by.png"
   },
   {
     "name": "Belgium",
     "slug": "belgium",
-    "iso2": "BE",
+    "iso2": "be",
     "iso3": "BEL",
     "continent": "Europe",
     "description": "Famous for medieval towns, Renaissance architecture, and fine chocolates.",
-    "image": "https://flagsapi.com/BE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/be.png"
   },
   {
     "name": "Belize",
     "slug": "belize",
-    "iso2": "BZ",
+    "iso2": "bz",
     "iso3": "BLZ",
     "continent": "North America",
     "description": "A nation on the eastern coast of Central America, with Caribbean Sea shorelines.",
-    "image": "https://flagsapi.com/BZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bz.png"
   },
   {
     "name": "Benin",
     "slug": "benin",
-    "iso2": "BJ",
+    "iso2": "bj",
     "iso3": "BEN",
     "continent": "Africa",
     "description": "A French-speaking West African nation, a birthplace of the voodoo religion.",
-    "image": "https://flagsapi.com/BJ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bj.png"
   },
   {
     "name": "Bhutan",
     "slug": "bhutan",
-    "iso2": "BT",
+    "iso2": "bt",
     "iso3": "BTN",
     "continent": "Asia",
     "description": "A Buddhist kingdom on the Himalayas’ eastern edge.",
-    "image": "https://flagsapi.com/BT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bt.png"
   },
   {
     "name": "Bolivia",
     "slug": "bolivia",
-    "iso2": "BO",
+    "iso2": "bo",
     "iso3": "BOL",
     "continent": "South America",
     "description": "A country of vast, dramatic landscapes in the heart of South America.",
-    "image": "https://flagsapi.com/BO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bo.png"
   },
   {
     "name": "Bosnia and Herzegovina",
     "slug": "bosnia-and-herzegovina",
-    "iso2": "BA",
+    "iso2": "ba",
     "iso3": "BIH",
     "continent": "Europe",
     "description": "A country on the Balkan Peninsula, encompassing medieval villages.",
-    "image": "https://flagsapi.com/BA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ba.png"
   },
   {
     "name": "Botswana",
     "slug": "botswana",
-    "iso2": "BW",
+    "iso2": "bw",
     "iso3": "BWA",
     "continent": "Africa",
     "description": "A landlocked country in Southern Africa with a landscape defined by the Kalahari Desert.",
-    "image": "https://flagsapi.com/BW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bw.png"
   },
   {
     "name": "Brazil",
     "slug": "brazil",
-    "iso2": "BR",
+    "iso2": "br",
     "iso3": "BRA",
     "continent": "South America",
     "description": "A vast South American country, home to the Amazon rainforest and iconic landmarks.",
-    "image": "https://flagsapi.com/BR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/br.png"
   },
   {
     "name": "Brunei Darussalam",
     "slug": "brunei-darussalam",
-    "iso2": "BN",
+    "iso2": "bn",
     "iso3": "BRN",
     "continent": "Asia",
     "description": "A tiny nation on the island of Borneo, known for its beaches and biodiverse rainforest.",
-    "image": "https://flagsapi.com/BN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bn.png"
   },
   {
     "name": "Bulgaria",
     "slug": "bulgaria",
-    "iso2": "BG",
+    "iso2": "bg",
     "iso3": "BGR",
     "continent": "Europe",
     "description": "A Balkan nation with diverse terrain encompassing Black Sea coastline.",
-    "image": "https://flagsapi.com/BG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bg.png"
   },
   {
     "name": "Burkina Faso",
     "slug": "burkina-faso",
-    "iso2": "BF",
+    "iso2": "bf",
     "iso3": "BFA",
     "continent": "Africa",
     "description": "A landlocked country in West Africa, known for its vibrant music scene.",
-    "image": "https://flagsapi.com/BF/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bf.png"
   },
   {
     "name": "Burundi",
     "slug": "burundi",
-    "iso2": "BI",
+    "iso2": "bi",
     "iso3": "BDI",
     "continent": "Africa",
     "description": "A landlocked country in the Great Rift Valley at the junction of the African Great Lakes region and East Africa.",
-    "image": "https://flagsapi.com/BI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/bi.png"
   },
   {
     "name": "Cabo Verde",
     "slug": "cabo-verde",
-    "iso2": "CV",
+    "iso2": "cv",
     "iso3": "CPV",
     "continent": "Africa",
     "description": "An island country spanning an archipelago of 10 volcanic islands in the central Atlantic Ocean.",
-    "image": "https://flagsapi.com/CV/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cv.png"
   },
   {
     "name": "Cambodia",
     "slug": "cambodia",
-    "iso2": "KH",
+    "iso2": "kh",
     "iso3": "KHM",
     "continent": "Asia",
     "description": "A Southeast Asian nation whose landscape spans low-lying plains and the Mekong Delta.",
-    "image": "https://flagsapi.com/KH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kh.png"
   },
   {
     "name": "Cameroon",
     "slug": "cameroon",
-    "iso2": "CM",
+    "iso2": "cm",
     "iso3": "CMR",
     "continent": "Africa",
     "description": "A country on the Gulf of Guinea, with varied terrain and wildlife.",
-    "image": "https://flagsapi.com/CM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cm.png"
   },
   {
     "name": "Canada",
     "slug": "canada",
-    "iso2": "CA",
+    "iso2": "ca",
     "iso3": "CAN",
     "continent": "North America",
     "description": "A vast country of pristine wilderness, multicultural cities, and natural wonders.",
-    "image": "https://flagsapi.com/CA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ca.png"
   },
   {
     "name": "Central African Republic",
     "slug": "central-african-republic",
-    "iso2": "CF",
+    "iso2": "cf",
     "iso3": "CAF",
     "continent": "Africa",
     "description": "A landlocked country in Central Africa, rich in mineral resources.",
-    "image": "https://flagsapi.com/CF/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cf.png"
   },
   {
     "name": "Chad",
     "slug": "chad",
-    "iso2": "TD",
+    "iso2": "td",
     "iso3": "TCD",
     "continent": "Africa",
     "description": "A landlocked country at the crossroads of North and Central Africa.",
-    "image": "https://flagsapi.com/TD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/td.png"
   },
   {
     "name": "Chile",
     "slug": "chile",
-    "iso2": "CL",
+    "iso2": "cl",
     "iso3": "CHL",
     "continent": "South America",
     "description": "A long, narrow country stretching along South America's western edge.",
-    "image": "https://flagsapi.com/CL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cl.png"
   },
   {
     "name": "China",
     "slug": "china",
-    "iso2": "CN",
+    "iso2": "cn",
     "iso3": "CHN",
     "continent": "Asia",
     "description": "A vast landscape of ancient landmarks and modern marvels.",
-    "image": "https://flagsapi.com/CN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cn.png"
   },
   {
     "name": "Colombia",
     "slug": "colombia",
-    "iso2": "CO",
+    "iso2": "co",
     "iso3": "COL",
     "continent": "South America",
     "description": "A country at the northern tip of South America, with rainforests, mountains and coffee plantations.",
-    "image": "https://flagsapi.com/CO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/co.png"
   },
   {
     "name": "Comoros",
     "slug": "comoros",
-    "iso2": "KM",
+    "iso2": "km",
     "iso3": "COM",
     "continent": "Africa",
     "description": "A volcanic archipelago off Africa’s east coast, in the warm Indian Ocean waters.",
-    "image": "https://flagsapi.com/KM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/km.png"
   },
   {
     "name": "Congo",
     "slug": "congo",
-    "iso2": "CG",
+    "iso2": "cg",
     "iso3": "COG",
     "continent": "Africa",
     "description": "A Central African nation with rainforest reserves that are home to gorillas.",
-    "image": "https://flagsapi.com/CG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cg.png"
   },
   {
     "name": "Congo (Democratic Republic)",
     "slug": "congo-democratic-republic",
-    "iso2": "CD",
+    "iso2": "cd",
     "iso3": "COD",
     "continent": "Africa",
     "description": "A vast country in Central Africa with immense natural resources.",
-    "image": "https://flagsapi.com/CD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cd.png"
   },
   {
     "name": "Costa Rica",
     "slug": "costa-rica",
-    "iso2": "CR",
+    "iso2": "cr",
     "iso3": "CRI",
     "continent": "North America",
     "description": "A rugged, rainforested Central American country with coastlines on the Caribbean and Pacific.",
-    "image": "https://flagsapi.com/CR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cr.png"
   },
   {
     "name": "Croatia",
     "slug": "croatia",
-    "iso2": "HR",
+    "iso2": "hr",
     "iso3": "HRV",
     "continent": "Europe",
     "description": "An Eastern European country with a long coastline on the Adriatic Sea.",
-    "image": "https://flagsapi.com/HR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/hr.png"
   },
   {
     "name": "Cuba",
     "slug": "cuba",
-    "iso2": "CU",
+    "iso2": "cu",
     "iso3": "CUB",
     "continent": "North America",
     "description": "A Caribbean island nation under communist rule, with sugar-white beaches.",
-    "image": "https://flagsapi.com/CU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cu.png"
   },
   {
     "name": "Cyprus",
     "slug": "cyprus",
-    "iso2": "CY",
+    "iso2": "cy",
     "iso3": "CYP",
     "continent": "Europe",
     "description": "An island country in the Eastern Mediterranean with a rich, turbulent history.",
-    "image": "https://flagsapi.com/CY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cy.png"
   },
   {
     "name": "Czechia",
     "slug": "czechia",
-    "iso2": "CZ",
+    "iso2": "cz",
     "iso3": "CZE",
     "continent": "Europe",
     "description": "A landlocked country in Central Europe, known for its ornate castles.",
-    "image": "https://flagsapi.com/CZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/cz.png"
   },
   {
     "name": "Denmark",
     "slug": "denmark",
-    "iso2": "DK",
+    "iso2": "dk",
     "iso3": "DNK",
     "continent": "Europe",
     "description": "A Scandinavian country comprising the Jutland Peninsula and numerous islands.",
-    "image": "https://flagsapi.com/DK/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/dk.png"
   },
   {
     "name": "Djibouti",
     "slug": "djibouti",
-    "iso2": "DJ",
+    "iso2": "dj",
     "iso3": "DJI",
     "continent": "Africa",
     "description": "A country on the Horn of Africa, defined by its stark, desert-like landscapes.",
-    "image": "https://flagsapi.com/DJ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/dj.png"
   },
   {
     "name": "Dominica",
     "slug": "dominica",
-    "iso2": "DM",
+    "iso2": "dm",
     "iso3": "DMA",
     "continent": "North America",
     "description": "A mountainous Caribbean island nation with natural hot springs and tropical rainforests.",
-    "image": "https://flagsapi.com/DM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/dm.png"
   },
   {
     "name": "Dominican Republic",
     "slug": "dominican-republic",
-    "iso2": "DO",
+    "iso2": "do",
     "iso3": "DOM",
     "continent": "North America",
     "description": "A Caribbean nation that shares the island of Hispaniola with Haiti to the west.",
-    "image": "https://flagsapi.com/DO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/do.png"
   },
   {
     "name": "Ecuador",
     "slug": "ecuador",
-    "iso2": "EC",
+    "iso2": "ec",
     "iso3": "ECU",
     "continent": "South America",
     "description": "A country straddling the equator on South America’s west coast.",
-    "image": "https://flagsapi.com/EC/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ec.png"
   },
   {
     "name": "Egypt",
     "slug": "egypt",
-    "iso2": "EG",
+    "iso2": "eg",
     "iso3": "EGY",
     "continent": "Africa",
     "description": "A country linking northeast Africa with the Middle East, home to ancient monuments.",
-    "image": "https://flagsapi.com/EG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/eg.png"
   },
   {
     "name": "El Salvador",
     "slug": "el-salvador",
-    "iso2": "SV",
+    "iso2": "sv",
     "iso3": "SLV",
     "continent": "North America",
     "description": "A small Central American nation known for its Pacific Ocean beaches and mountainous landscape.",
-    "image": "https://flagsapi.com/SV/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sv.png"
   },
   {
     "name": "Equatorial Guinea",
     "slug": "equatorial-guinea",
-    "iso2": "GQ",
+    "iso2": "gq",
     "iso3": "GNQ",
     "continent": "Africa",
     "description": "A Central African country comprising the Rio Muni mainland and 5 volcanic offshore islands.",
-    "image": "https://flagsapi.com/GQ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gq.png"
   },
   {
     "name": "Eritrea",
     "slug": "eritrea",
-    "iso2": "ER",
+    "iso2": "er",
     "iso3": "ERI",
     "continent": "Africa",
     "description": "A northeast African country on the Red Sea coast, sharing borders with Ethiopia, Sudan and Djibouti.",
-    "image": "https://flagsapi.com/ER/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/er.png"
   },
   {
     "name": "Estonia",
     "slug": "estonia",
-    "iso2": "EE",
+    "iso2": "ee",
     "iso3": "EST",
     "continent": "Europe",
     "description": "A country in Northern Europe, bordering the Baltic Sea and Gulf of Finland.",
-    "image": "https://flagsapi.com/EE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ee.png"
   },
   {
     "name": "Eswatini",
     "slug": "eswatini",
-    "iso2": "SZ",
+    "iso2": "sz",
     "iso3": "SWZ",
     "continent": "Africa",
     "description": "A small, landlocked monarchy in Southern Africa, known for its wilderness reserves.",
-    "image": "https://flagsapi.com/SZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sz.png"
   },
   {
     "name": "Ethiopia",
     "slug": "ethiopia",
-    "iso2": "ET",
+    "iso2": "et",
     "iso3": "ETH",
     "continent": "Africa",
     "description": "A rugged, landlocked country split by the Great Rift Valley.",
-    "image": "https://flagsapi.com/ET/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/et.png"
   },
   {
     "name": "Fiji",
     "slug": "fiji",
-    "iso2": "FJ",
+    "iso2": "fj",
     "iso3": "FJI",
     "continent": "Oceania",
     "description": "A country in the South Pacific, an archipelago of more than 300 islands.",
-    "image": "https://flagsapi.com/FJ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/fj.png"
   },
   {
     "name": "Finland",
     "slug": "finland",
-    "iso2": "FI",
+    "iso2": "fi",
     "iso3": "FIN",
     "continent": "Europe",
     "description": "A Northern European nation bordering Sweden, Norway and Russia.",
-    "image": "https://flagsapi.com/FI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/fi.png"
   },
   {
     "name": "France",
     "slug": "france",
-    "iso2": "FR",
+    "iso2": "fr",
     "iso3": "FRA",
     "continent": "Europe",
     "description": "Encompassing medieval cities, alpine villages and Mediterranean beaches.",
-    "image": "https://flagsapi.com/FR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/fr.png"
   },
   {
     "name": "Gabon",
     "slug": "gabon",
-    "iso2": "GA",
+    "iso2": "ga",
     "iso3": "GAB",
     "continent": "Africa",
     "description": "A country along the Atlantic coast of Central Africa.",
-    "image": "https://flagsapi.com/GA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ga.png"
   },
   {
     "name": "Gambia",
     "slug": "gambia",
-    "iso2": "GM",
+    "iso2": "gm",
     "iso3": "GMB",
     "continent": "Africa",
     "description": "A small West African country, bounded by Senegal, with a narrow Atlantic coastline.",
-    "image": "https://flagsapi.com/GM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gm.png"
   },
   {
     "name": "Georgia",
     "slug": "georgia",
-    "iso2": "GE",
+    "iso2": "ge",
     "iso3": "GEO",
     "continent": "Asia",
     "description": "A country at the intersection of Europe and Asia, with a rich history of winemaking.",
-    "image": "https://flagsapi.com/GE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ge.png"
   },
   {
     "name": "Germany",
     "slug": "germany",
-    "iso2": "DE",
+    "iso2": "de",
     "iso3": "DEU",
     "continent": "Europe",
     "description": "A Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches.",
-    "image": "https://flagsapi.com/DE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/de.png"
   },
   {
     "name": "Ghana",
     "slug": "ghana",
-    "iso2": "GH",
+    "iso2": "gh",
     "iso3": "GHA",
     "continent": "Africa",
     "description": "A country on West Africa’s Gulf of Guinea, known for diverse wildlife and old forts.",
-    "image": "https://flagsapi.com/GH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gh.png"
   },
   {
     "name": "Greece",
     "slug": "greece",
-    "iso2": "GR",
+    "iso2": "gr",
     "iso3": "GRC",
     "continent": "Europe",
     "description": "A country of thousands of islands throughout the Aegean and Ionian seas.",
-    "image": "https://flagsapi.com/GR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gr.png"
   },
   {
     "name": "Grenada",
     "slug": "grenada",
-    "iso2": "GD",
+    "iso2": "gd",
     "iso3": "GRD",
     "continent": "North America",
     "description": "A Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands.",
-    "image": "https://flagsapi.com/GD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gd.png"
   },
   {
     "name": "Guatemala",
     "slug": "guatemala",
-    "iso2": "GT",
+    "iso2": "gt",
     "iso3": "GTM",
     "continent": "North America",
     "description": "A Central American country south of Mexico, home to volcanoes, rainforests and ancient Mayan sites.",
-    "image": "https://flagsapi.com/GT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gt.png"
   },
   {
     "name": "Guinea",
     "slug": "guinea",
-    "iso2": "GN",
+    "iso2": "gn",
     "iso3": "GIN",
     "continent": "Africa",
     "description": "A country in West Africa, bordered on the west by the Atlantic Ocean.",
-    "image": "https://flagsapi.com/GN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gn.png"
   },
   {
     "name": "Guinea-Bissau",
     "slug": "guinea-bissau",
-    "iso2": "GW",
+    "iso2": "gw",
     "iso3": "GNB",
     "continent": "Africa",
     "description": "A tropical country on West Africa’s Atlantic coast that’s known for national parks and wildlife.",
-    "image": "https://flagsapi.com/GW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gw.png"
   },
   {
     "name": "Guyana",
     "slug": "guyana",
-    "iso2": "GY",
+    "iso2": "gy",
     "iso3": "GUY",
     "continent": "South America",
     "description": "A country on South America’s North Atlantic coast, defined by its dense rainforest.",
-    "image": "https://flagsapi.com/GY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gy.png"
   },
   {
     "name": "Haiti",
     "slug": "haiti",
-    "iso2": "HT",
+    "iso2": "ht",
     "iso3": "HTI",
     "continent": "North America",
     "description": "A Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east.",
-    "image": "https://flagsapi.com/HT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ht.png"
   },
   {
     "name": "Holy See",
     "slug": "holy-see",
-    "iso2": "VA",
+    "iso2": "va",
     "iso3": "VAT",
     "continent": "Europe",
     "description": "The universal government of the Catholic Church, which operates from Vatican City State.",
-    "image": "https://flagsapi.com/VA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/va.png"
   },
   {
     "name": "Honduras",
     "slug": "honduras",
-    "iso2": "HN",
+    "iso2": "hn",
     "iso3": "HND",
     "continent": "North America",
     "description": "A Central American country with Caribbean Sea coastlines to the north and the Pacific Ocean to the south.",
-    "image": "https://flagsapi.com/HN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/hn.png"
   },
   {
     "name": "Hungary",
     "slug": "hungary",
-    "iso2": "HU",
+    "iso2": "hu",
     "iso3": "HUN",
     "continent": "Europe",
     "description": "A landlocked country in Central Europe, with a capital bisected by the Danube River.",
-    "image": "https://flagsapi.com/HU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/hu.png"
   },
   {
     "name": "Iceland",
     "slug": "iceland",
-    "iso2": "IS",
+    "iso2": "is",
     "iso3": "ISL",
     "continent": "Europe",
     "description": "A Nordic island nation, defined by its dramatic landscape with volcanoes, geysers, hot springs and lava fields.",
-    "image": "https://flagsapi.com/IS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/is.png"
   },
   {
     "name": "India",
     "slug": "india",
-    "iso2": "IN",
+    "iso2": "in",
     "iso3": "IND",
     "continent": "Asia",
     "description": "A vibrant tapestry of cultures, colors, and culinary delights.",
-    "image": "https://flagsapi.com/IN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/in.png"
   },
   {
     "name": "Indonesia",
     "slug": "indonesia",
-    "iso2": "ID",
+    "iso2": "id",
     "iso3": "IDN",
     "continent": "Asia",
     "description": "A Southeast Asian nation made up of thousands of volcanic islands.",
-    "image": "https://flagsapi.com/ID/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/id.png"
   },
   {
     "name": "Iran",
     "slug": "iran",
-    "iso2": "IR",
+    "iso2": "ir",
     "iso3": "IRN",
     "continent": "Asia",
     "description": "An Islamic republic on the Persian Gulf with historical sites dating to the Persian Empire.",
-    "image": "https://flagsapi.com/IR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ir.png"
   },
   {
     "name": "Iraq",
     "slug": "iraq",
-    "iso2": "IQ",
+    "iso2": "iq",
     "iso3": "IRQ",
     "continent": "Asia",
     "description": "A country in Western Asia, bordered by Turkey to the north and Saudi Arabia to the south.",
-    "image": "https://flagsapi.com/IQ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/iq.png"
   },
   {
     "name": "Ireland",
     "slug": "ireland",
-    "iso2": "IE",
+    "iso2": "ie",
     "iso3": "IRL",
     "continent": "Europe",
     "description": "An island in the North Atlantic, separated from Great Britain to its east by the North Channel.",
-    "image": "https://flagsapi.com/IE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ie.png"
   },
   {
     "name": "Israel",
     "slug": "israel",
-    "iso2": "IL",
+    "iso2": "il",
     "iso3": "ISR",
     "continent": "Asia",
     "description": "A Middle Eastern country on the Mediterranean Sea, is regarded by Jews, Christians and Muslims as the biblical Holy Land.",
-    "image": "https://flagsapi.com/IL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/il.png"
   },
   {
     "name": "Italy",
     "slug": "italy",
-    "iso2": "IT",
+    "iso2": "it",
     "iso3": "ITA",
     "continent": "Europe",
     "description": "A European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.",
-    "image": "https://flagsapi.com/IT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/it.png"
   },
   {
     "name": "Jamaica",
     "slug": "jamaica",
-    "iso2": "JM",
+    "iso2": "jm",
     "iso3": "JAM",
     "continent": "North America",
     "description": "A Caribbean island nation, has a lush topography of mountains, rainforests and reef-lined beaches.",
-    "image": "https://flagsapi.com/JM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/jm.png"
   },
   {
     "name": "Japan",
     "slug": "japan",
-    "iso2": "JP",
+    "iso2": "jp",
     "iso3": "JPN",
     "continent": "Asia",
     "description": "A harmonious blend of ancient tradition and futuristic technology.",
-    "image": "https://flagsapi.com/JP/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/jp.png"
   },
   {
     "name": "Jordan",
     "slug": "jordan",
-    "iso2": "JO",
+    "iso2": "jo",
     "iso3": "JOR",
     "continent": "Asia",
     "description": "An Arab nation on the east bank of the Jordan River, is defined by ancient monuments.",
-    "image": "https://flagsapi.com/JO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/jo.png"
   },
   {
     "name": "Kazakhstan",
     "slug": "kazakhstan",
-    "iso2": "KZ",
+    "iso2": "kz",
     "iso3": "KAZ",
     "continent": "Asia",
     "description": "A Central Asian country and former Soviet republic, extends from the Caspian Sea in the west to the Altai Mountains.",
-    "image": "https://flagsapi.com/KZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kz.png"
   },
   {
     "name": "Kenya",
     "slug": "kenya",
-    "iso2": "KE",
+    "iso2": "ke",
     "iso3": "KEN",
     "continent": "Africa",
     "description": "A country in East Africa with coastline on the Indian Ocean, encompasses savannah, lakelands, and the dramatic Great Rift Valley.",
-    "image": "https://flagsapi.com/KE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ke.png"
   },
   {
     "name": "Kiribati",
     "slug": "kiribati",
-    "iso2": "KI",
+    "iso2": "ki",
     "iso3": "KIR",
     "continent": "Oceania",
     "description": "An island republic in the Central Pacific, comprising 33 coral atolls and reef islands.",
-    "image": "https://flagsapi.com/KI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ki.png"
   },
   {
     "name": "Korea (North)",
     "slug": "korea-north",
-    "iso2": "KP",
+    "iso2": "kp",
     "iso3": "PRK",
     "continent": "Asia",
     "description": "Officially the Democratic People's Republic of Korea.",
-    "image": "https://flagsapi.com/KP/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kp.png"
   },
   {
     "name": "Korea (South)",
     "slug": "korea-south",
-    "iso2": "KR",
+    "iso2": "kr",
     "iso3": "KOR",
     "continent": "Asia",
     "description": "A dynamic country where K-pop, cuisine, and history meet.",
-    "image": "https://flagsapi.com/KR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kr.png"
   },
   {
     "name": "Kuwait",
     "slug": "kuwait",
-    "iso2": "KW",
+    "iso2": "kw",
     "iso3": "KWT",
     "continent": "Asia",
     "description": "An Arab country on the Persian (Arabian) Gulf, has a cultural heritage dating back to antiquity.",
-    "image": "https://flagsapi.com/KW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kw.png"
   },
   {
     "name": "Kyrgyzstan",
     "slug": "kyrgyzstan",
-    "iso2": "KG",
+    "iso2": "kg",
     "iso3": "KGZ",
     "continent": "Asia",
     "description": "A rugged Central Asian country along the Silk Road, the ancient caravan route between China and the Mediterranean.",
-    "image": "https://flagsapi.com/KG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kg.png"
   },
   {
     "name": "Laos",
     "slug": "laos",
-    "iso2": "LA",
+    "iso2": "la",
     "iso3": "LAO",
     "continent": "Asia",
     "description": "A Southeast Asian country traversed by the Mekong River and known for mountainous terrain.",
-    "image": "https://flagsapi.com/LA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/la.png"
   },
   {
     "name": "Latvia",
     "slug": "latvia",
-    "iso2": "LV",
+    "iso2": "lv",
     "iso3": "LVA",
     "continent": "Europe",
     "description": "A country on the Baltic Sea between Lithuania and Estonia.",
-    "image": "https://flagsapi.com/LV/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lv.png"
   },
   {
     "name": "Lebanon",
     "slug": "lebanon",
-    "iso2": "LB",
+    "iso2": "lb",
     "iso3": "LBN",
     "continent": "Asia",
     "description": "A Middle Eastern country on the Mediterranean Sea, with a rich history.",
-    "image": "https://flagsapi.com/LB/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lb.png"
   },
   {
     "name": "Lesotho",
     "slug": "lesotho",
-    "iso2": "LS",
+    "iso2": "ls",
     "iso3": "LSO",
     "continent": "Africa",
     "description": "A high-altitude, landlocked kingdom encircled by South Africa.",
-    "image": "https://flagsapi.com/LS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ls.png"
   },
   {
     "name": "Liberia",
     "slug": "liberia",
-    "iso2": "LR",
+    "iso2": "lr",
     "iso3": "LBR",
     "continent": "Africa",
     "description": "A country on the West African coast, bordering Sierra Leone, Guinea and Côte d'Ivoire.",
-    "image": "https://flagsapi.com/LR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lr.png"
   },
   {
     "name": "Libya",
     "slug": "libya",
-    "iso2": "LY",
+    "iso2": "ly",
     "iso3": "LBY",
     "continent": "Africa",
     "description": "A country in the Maghreb region in North Africa, bordered by the Mediterranean Sea to the north.",
-    "image": "https://flagsapi.com/LY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ly.png"
   },
   {
     "name": "Liechtenstein",
     "slug": "liechtenstein",
-    "iso2": "LI",
+    "iso2": "li",
     "iso3": "LIE",
     "continent": "Europe",
     "description": "A German-speaking, 25km-long principality between Austria and Switzerland.",
-    "image": "https://flagsapi.com/LI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/li.png"
   },
   {
     "name": "Lithuania",
     "slug": "lithuania",
-    "iso2": "LT",
+    "iso2": "lt",
     "iso3": "LTU",
     "continent": "Europe",
     "description": "A country in the Baltic region of Europe.",
-    "image": "https://flagsapi.com/LT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lt.png"
   },
   {
     "name": "Luxembourg",
     "slug": "luxembourg",
-    "iso2": "LU",
+    "iso2": "lu",
     "iso3": "LUX",
     "continent": "Europe",
     "description": "A small European country, bordered by Belgium, France and Germany.",
-    "image": "https://flagsapi.com/LU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lu.png"
   },
   {
     "name": "Madagascar",
     "slug": "madagascar",
-    "iso2": "MG",
+    "iso2": "mg",
     "iso3": "MDG",
     "continent": "Africa",
     "description": "A huge island nation off the southeast coast of Africa.",
-    "image": "https://flagsapi.com/MG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mg.png"
   },
   {
     "name": "Malawi",
     "slug": "malawi",
-    "iso2": "MW",
+    "iso2": "mw",
     "iso3": "MWI",
     "continent": "Africa",
     "description": "A landlocked country in southeastern Africa, defined by its topography of highlands.",
-    "image": "https://flagsapi.com/MW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mw.png"
   },
   {
     "name": "Malaysia",
     "slug": "malaysia",
-    "iso2": "MY",
+    "iso2": "my",
     "iso3": "MYS",
     "continent": "Asia",
     "description": "A Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo.",
-    "image": "https://flagsapi.com/MY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/my.png"
   },
   {
     "name": "Maldives",
     "slug": "maldives",
-    "iso2": "MV",
+    "iso2": "mv",
     "iso3": "MDV",
     "continent": "Asia",
     "description": "A tropical nation in the Indian Ocean composed of 26 ring-shaped atolls.",
-    "image": "https://flagsapi.com/MV/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mv.png"
   },
   {
     "name": "Mali",
     "slug": "mali",
-    "iso2": "ML",
+    "iso2": "ml",
     "iso3": "MLI",
     "continent": "Africa",
     "description": "A landlocked country in West Africa, a region on the southern edge of the Sahara Desert.",
-    "image": "https://flagsapi.com/ML/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ml.png"
   },
   {
     "name": "Malta",
     "slug": "malta",
-    "iso2": "MT",
+    "iso2": "mt",
     "iso3": "MLT",
     "continent": "Europe",
     "description": "An archipelago in the central Mediterranean between Sicily and the North African coast.",
-    "image": "https://flagsapi.com/MT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mt.png"
   },
   {
     "name": "Marshall Islands",
     "slug": "marshall-islands",
-    "iso2": "MH",
+    "iso2": "mh",
     "iso3": "MHL",
     "continent": "Oceania",
     "description": "A sprawling chain of volcanic islands and coral atolls in the central Pacific Ocean.",
-    "image": "https://flagsapi.com/MH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mh.png"
   },
   {
     "name": "Mauritania",
     "slug": "mauritania",
-    "iso2": "MR",
+    "iso2": "mr",
     "iso3": "MRT",
     "continent": "Africa",
     "description": "A country in Northwest Africa, it is the eleventh largest sovereign state in Africa.",
-    "image": "https://flagsapi.com/MR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mr.png"
   },
   {
     "name": "Mauritius",
     "slug": "mauritius",
-    "iso2": "MU",
+    "iso2": "mu",
     "iso3": "MUS",
     "continent": "Africa",
     "description": "An Indian Ocean island nation, known for its beaches, lagoons and reefs.",
-    "image": "https://flagsapi.com/MU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mu.png"
   },
   {
     "name": "Mexico",
     "slug": "mexico",
-    "iso2": "MX",
+    "iso2": "mx",
     "iso3": "MEX",
     "continent": "North America",
     "description": "A country between the U.S. and Central America, known for its Pacific and Gulf of Mexico beaches.",
-    "image": "https://flagsapi.com/MX/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mx.png"
   },
   {
     "name": "Micronesia",
     "slug": "micronesia",
-    "iso2": "FM",
+    "iso2": "fm",
     "iso3": "FSM",
     "continent": "Oceania",
     "description": "A country spread across the western Pacific Ocean comprising more than 600 islands.",
-    "image": "https://flagsapi.com/FM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/fm.png"
   },
   {
     "name": "Moldova",
     "slug": "moldova",
-    "iso2": "MD",
+    "iso2": "md",
     "iso3": "MDA",
     "continent": "Europe",
     "description": "An Eastern European country and former Soviet republic, has varied terrain including forests, rocky hills and vineyards.",
-    "image": "https://flagsapi.com/MD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/md.png"
   },
   {
     "name": "Monaco",
     "slug": "monaco",
-    "iso2": "MC",
+    "iso2": "mc",
     "iso3": "MCO",
     "continent": "Europe",
     "description": "An independent microstate on France’s Mediterranean coastline known for its upscale casinos.",
-    "image": "https://flagsapi.com/MC/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mc.png"
   },
   {
     "name": "Mongolia",
     "slug": "mongolia",
-    "iso2": "MN",
+    "iso2": "mn",
     "iso3": "MNG",
     "continent": "Asia",
     "description": "A nation bordered by China and Russia, is known for vast, rugged expanses and nomadic culture.",
-    "image": "https://flagsapi.com/MN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mn.png"
   },
   {
     "name": "Montenegro",
     "slug": "montenegro",
-    "iso2": "ME",
+    "iso2": "me",
     "iso3": "MNE",
     "continent": "Europe",
     "description": "A Balkan country with rugged mountains, medieval villages and a narrow strip of beaches along its Adriatic coastline.",
-    "image": "https://flagsapi.com/ME/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/me.png"
   },
   {
     "name": "Morocco",
     "slug": "morocco",
-    "iso2": "MA",
+    "iso2": "ma",
     "iso3": "MAR",
     "continent": "Africa",
     "description": "A North African country bordering the Atlantic Ocean and Mediterranean Sea.",
-    "image": "https://flagsapi.com/MA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ma.png"
   },
   {
     "name": "Mozambique",
     "slug": "mozambique",
-    "iso2": "MZ",
+    "iso2": "mz",
     "iso3": "MOZ",
     "continent": "Africa",
     "description": "A southern African nation whose long Indian Ocean coastline is dotted with popular beaches.",
-    "image": "https://flagsapi.com/MZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mz.png"
   },
   {
     "name": "Myanmar",
     "slug": "myanmar",
-    "iso2": "MM",
+    "iso2": "mm",
     "iso3": "MMR",
     "continent": "Asia",
     "description": "A Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand.",
-    "image": "https://flagsapi.com/MM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mm.png"
   },
   {
     "name": "Namibia",
     "slug": "namibia",
-    "iso2": "NA",
+    "iso2": "na",
     "iso3": "NAM",
     "continent": "Africa",
     "description": "A country in southwest Africa, is distinguished by the Namib Desert along its Atlantic Ocean coast.",
-    "image": "https://flagsapi.com/NA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/na.png"
   },
   {
     "name": "Nauru",
     "slug": "nauru",
-    "iso2": "NR",
+    "iso2": "nr",
     "iso3": "NRU",
     "continent": "Oceania",
     "description": "A tiny island country in Micronesia, northeast of Australia.",
-    "image": "https://flagsapi.com/NR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/nr.png"
   },
   {
     "name": "Nepal",
     "slug": "nepal",
-    "iso2": "NP",
+    "iso2": "np",
     "iso3": "NPL",
     "continent": "Asia",
     "description": "A country where the Himalayas tower over lush valleys.",
-    "image": "https://flagsapi.com/NP/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/np.png"
   },
   {
     "name": "Netherlands",
     "slug": "netherlands",
-    "iso2": "NL",
+    "iso2": "nl",
     "iso3": "NLD",
     "continent": "Europe",
     "description": "A country in northwestern Europe, known for a flat landscape of canals, tulip fields, and windmills.",
-    "image": "https://flagsapi.com/NL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/nl.png"
   },
   {
     "name": "New Zealand",
     "slug": "new-zealand",
-    "iso2": "NZ",
+    "iso2": "nz",
     "iso3": "NZL",
     "continent": "Oceania",
     "description": "Breathtaking landscapes, from majestic mountains to stunning fjords.",
-    "image": "https://flagsapi.com/NZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/nz.png"
   },
   {
     "name": "Nicaragua",
     "slug": "nicaragua",
-    "iso2": "NI",
+    "iso2": "ni",
     "iso3": "NIC",
     "continent": "North America",
     "description": "A Central American nation known for its dramatic terrain of lakes, volcanoes and beaches.",
-    "image": "https://flagsapi.com/NI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ni.png"
   },
   {
     "name": "Niger",
     "slug": "niger",
-    "iso2": "NE",
+    "iso2": "ne",
     "iso3": "NER",
     "continent": "Africa",
     "description": "A landlocked country in West Africa named after the Niger River.",
-    "image": "https://flagsapi.com/NE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ne.png"
   },
   {
     "name": "Nigeria",
     "slug": "nigeria",
-    "iso2": "NG",
+    "iso2": "ng",
     "iso3": "NGA",
     "continent": "Africa",
     "description": "An African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves.",
-    "image": "https://flagsapi.com/NG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ng.png"
   },
   {
     "name": "North Macedonia",
     "slug": "north-macedonia",
-    "iso2": "MK",
+    "iso2": "mk",
     "iso3": "MKD",
     "continent": "Europe",
     "description": "A country in the Balkan Peninsula in Southeast Europe.",
-    "image": "https://flagsapi.com/MK/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/mk.png"
   },
   {
     "name": "Norway",
     "slug": "norway",
-    "iso2": "NO",
+    "iso2": "no",
     "iso3": "NOR",
     "continent": "Europe",
     "description": "A Scandinavian country encompassing mountains, glaciers and deep coastal fjords.",
-    "image": "https://flagsapi.com/NO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/no.png"
   },
   {
     "name": "Oman",
     "slug": "oman",
-    "iso2": "OM",
+    "iso2": "om",
     "iso3": "OMN",
     "continent": "Asia",
     "description": "A nation on the Arabian Peninsula with a terrain encompassing desert, riverbed oases and long coastlines.",
-    "image": "https://flagsapi.com/OM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/om.png"
   },
   {
     "name": "Pakistan",
     "slug": "pakistan",
-    "iso2": "PK",
+    "iso2": "pk",
     "iso3": "PAK",
     "continent": "Asia",
     "description": "A country in South Asia, with a coastline along the Arabian Sea and Gulf of Oman.",
-    "image": "https://flagsapi.com/PK/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pk.png"
   },
   {
     "name": "Palau",
     "slug": "palau",
-    "iso2": "PW",
+    "iso2": "pw",
     "iso3": "PLW",
     "continent": "Oceania",
     "description": "An archipelago of over 500 islands, part of the Micronesia region in the western Pacific Ocean.",
-    "image": "https://flagsapi.com/PW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pw.png"
   },
   {
     "name": "Panama",
     "slug": "panama",
-    "iso2": "PA",
+    "iso2": "pa",
     "iso3": "PAN",
     "continent": "North America",
     "description": "A country on the isthmus linking Central and South America.",
-    "image": "https://flagsapi.com/PA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pa.png"
   },
   {
     "name": "Papua New Guinea",
     "slug": "papua-new-guinea",
-    "iso2": "PG",
+    "iso2": "pg",
     "iso3": "PNG",
     "continent": "Oceania",
     "description": "An island country in the southwestern Pacific Ocean.",
-    "image": "https://flagsapi.com/PG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pg.png"
   },
   {
     "name": "Paraguay",
     "slug": "paraguay",
-    "iso2": "PY",
+    "iso2": "py",
     "iso3": "PRY",
     "continent": "South America",
     "description": "A landlocked country between Argentina, Brazil and Bolivia.",
-    "image": "https://flagsapi.com/PY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/py.png"
   },
   {
     "name": "Peru",
     "slug": "peru",
-    "iso2": "PE",
+    "iso2": "pe",
     "iso3": "PER",
     "continent": "South America",
     "description": "A country in South America that's home to a section of Amazon rainforest.",
-    "image": "https://flagsapi.com/PE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pe.png"
   },
   {
     "name": "Philippines",
     "slug": "philippines",
-    "iso2": "PH",
+    "iso2": "ph",
     "iso3": "PHL",
     "continent": "Asia",
     "description": "A Southeast Asian country in the Western Pacific, comprising more than 7,000 islands.",
-    "image": "https://flagsapi.com/PH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ph.png"
   },
   {
     "name": "Poland",
     "slug": "poland",
-    "iso2": "PL",
+    "iso2": "pl",
     "iso3": "POL",
     "continent": "Europe",
     "description": "An eastern European country on the Baltic Sea known for its medieval architecture and Jewish heritage.",
-    "image": "https://flagsapi.com/PL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pl.png"
   },
   {
     "name": "Portugal",
     "slug": "portugal",
-    "iso2": "PT",
+    "iso2": "pt",
     "iso3": "PRT",
     "continent": "Europe",
     "description": "A southern European country on the Iberian Peninsula, bordering Spain.",
-    "image": "https://flagsapi.com/PT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/pt.png"
   },
   {
     "name": "Qatar",
     "slug": "qatar",
-    "iso2": "QA",
+    "iso2": "qa",
     "iso3": "QAT",
     "continent": "Asia",
     "description": "A peninsular Arab country whose terrain comprises arid desert and a long Persian (Arab) Gulf shoreline.",
-    "image": "https://flagsapi.com/QA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/qa.png"
   },
   {
     "name": "Romania",
     "slug": "romania",
-    "iso2": "RO",
+    "iso2": "ro",
     "iso3": "ROU",
     "continent": "Europe",
     "description": "A southeastern European country known for the forested region of Transylvania.",
-    "image": "https://flagsapi.com/RO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ro.png"
   },
   {
     "name": "Russia",
     "slug": "russia",
-    "iso2": "RU",
+    "iso2": "ru",
     "iso3": "RUS",
     "continent": "Europe",
     "description": "A transcontinental country spanning Eastern Europe and Northern Asia.",
-    "image": "https://flagsapi.com/RU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ru.png"
   },
   {
     "name": "Rwanda",
     "slug": "rwanda",
-    "iso2": "RW",
+    "iso2": "rw",
     "iso3": "RWA",
     "continent": "Africa",
     "description": "A landlocked country in the Great Rift Valley, where the African Great Lakes region and East Africa converge.",
-    "image": "https://flagsapi.com/RW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/rw.png"
   },
   {
     "name": "Saint Kitts and Nevis",
     "slug": "saint-kitts-and-nevis",
-    "iso2": "KN",
+    "iso2": "kn",
     "iso3": "KNA",
     "continent": "North America",
     "description": "A dual-island nation situated between the Atlantic Ocean and Caribbean Sea.",
-    "image": "https://flagsapi.com/KN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/kn.png"
   },
   {
     "name": "Saint Lucia",
     "slug": "saint-lucia",
-    "iso2": "LC",
+    "iso2": "lc",
     "iso3": "LCA",
     "continent": "North America",
     "description": "An Eastern Caribbean island nation with a pair of dramatically tapered mountains.",
-    "image": "https://flagsapi.com/LC/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lc.png"
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "slug": "saint-vincent-and-the-grenadines",
-    "iso2": "VC",
+    "iso2": "vc",
     "iso3": "VCT",
     "continent": "North America",
     "description": "A southern Caribbean nation comprising a main island, St. Vincent, and a chain of smaller islands.",
-    "image": "https://flagsapi.com/VC/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/vc.png"
   },
   {
     "name": "Samoa",
     "slug": "samoa",
-    "iso2": "WS",
+    "iso2": "ws",
     "iso3": "WSM",
     "continent": "Oceania",
     "description": "A country comprising the westernmost group of the Samoan Islands, in Polynesia.",
-    "image": "https://flagsapi.com/WS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ws.png"
   },
   {
     "name": "San Marino",
     "slug": "san-marino",
-    "iso2": "SM",
+    "iso2": "sm",
     "iso3": "SMR",
     "continent": "Europe",
     "description": "A mountainous microstate surrounded by north-central Italy.",
-    "image": "https://flagsapi.com/SM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sm.png"
   },
   {
     "name": "Sao Tome and Principe",
     "slug": "sao-tome-and-principe",
-    "iso2": "ST",
+    "iso2": "st",
     "iso3": "STP",
     "continent": "Africa",
     "description": "An African island nation close to the equator, part of a volcano chain.",
-    "image": "https://flagsapi.com/ST/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/st.png"
   },
   {
     "name": "Saudi Arabia",
     "slug": "saudi-arabia",
-    "iso2": "SA",
+    "iso2": "sa",
     "iso3": "SAU",
     "continent": "Asia",
     "description": "A desert country encompassing most of the Arabian Peninsula.",
-    "image": "https://flagsapi.com/SA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sa.png"
   },
   {
     "name": "Senegal",
     "slug": "senegal",
-    "iso2": "SN",
+    "iso2": "sn",
     "iso3": "SEN",
     "continent": "Africa",
     "description": "A country on Africa’s west coast with a rich French colonial heritage.",
-    "image": "https://flagsapi.com/SN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sn.png"
   },
   {
     "name": "Serbia",
     "slug": "serbia",
-    "iso2": "RS",
+    "iso2": "rs",
     "iso3": "SRB",
     "continent": "Europe",
     "description": "A country on the Balkan Peninsula, with a rich history and vibrant culture.",
-    "image": "https://flagsapi.com/RS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/rs.png"
   },
   {
     "name": "Seychelles",
     "slug": "seychelles",
-    "iso2": "SC",
+    "iso2": "sc",
     "iso3": "SYC",
     "continent": "Africa",
     "description": "An archipelago of 115 islands in the Indian Ocean, off East Africa.",
-    "image": "https://flagsapi.com/SC/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sc.png"
   },
   {
     "name": "Sierra Leone",
     "slug": "sierra-leone",
-    "iso2": "SL",
+    "iso2": "sl",
     "iso3": "SLE",
     "continent": "Africa",
     "description": "A country in West Africa, on the Atlantic Ocean.",
-    "image": "https://flagsapi.com/SL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sl.png"
   },
   {
     "name": "Singapore",
     "slug": "singapore",
-    "iso2": "SG",
+    "iso2": "sg",
     "iso3": "SGP",
     "continent": "Asia",
     "description": "An island city-state off southern Malaysia, a global financial center with a tropical climate.",
-    "image": "https://flagsapi.com/SG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sg.png"
   },
   {
     "name": "Slovakia",
     "slug": "slovakia",
-    "iso2": "SK",
+    "iso2": "sk",
     "iso3": "SVK",
     "continent": "Europe",
     "description": "A central European country known for its dramatic natural landscape and many castles.",
-    "image": "https://flagsapi.com/SK/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sk.png"
   },
   {
     "name": "Slovenia",
     "slug": "slovenia",
-    "iso2": "SI",
+    "iso2": "si",
     "iso3": "SVN",
     "continent": "Europe",
     "description": "A country in Central Europe, known for its mountains, ski resorts and lakes.",
-    "image": "https://flagsapi.com/SI/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/si.png"
   },
   {
     "name": "Solomon Islands",
     "slug": "solomon-islands",
-    "iso2": "SB",
+    "iso2": "sb",
     "iso3": "SLB",
     "continent": "Oceania",
     "description": "A nation of hundreds of islands in the South Pacific.",
-    "image": "https://flagsapi.com/SB/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sb.png"
   },
   {
     "name": "Somalia",
     "slug": "somalia",
-    "iso2": "SO",
+    "iso2": "so",
     "iso3": "SOM",
     "continent": "Africa",
     "description": "A country on the Horn of Africa.",
-    "image": "https://flagsapi.com/SO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/so.png"
   },
   {
     "name": "South Africa",
     "slug": "south-africa",
-    "iso2": "ZA",
+    "iso2": "za",
     "iso3": "ZAF",
     "continent": "Africa",
     "description": "A country on the southernmost tip of the African continent.",
-    "image": "https://flagsapi.com/ZA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/za.png"
   },
   {
     "name": "South Sudan",
     "slug": "south-sudan",
-    "iso2": "SS",
+    "iso2": "ss",
     "iso3": "SSD",
     "continent": "Africa",
     "description": "A landlocked country in East-Central Africa.",
-    "image": "https://flagsapi.com/SS/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ss.png"
   },
   {
     "name": "Spain",
     "slug": "spain",
-    "iso2": "ES",
+    "iso2": "es",
     "iso3": "ESP",
     "continent": "Europe",
     "description": "A country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures.",
-    "image": "https://flagsapi.com/ES/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/es.png"
   },
   {
     "name": "Sri Lanka",
     "slug": "sri-lanka",
-    "iso2": "LK",
+    "iso2": "lk",
     "iso3": "LKA",
     "continent": "Asia",
     "description": "An island country in South Asia, located in the Indian Ocean.",
-    "image": "https://flagsapi.com/LK/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/lk.png"
   },
   {
     "name": "Sudan",
     "slug": "sudan",
-    "iso2": "SD",
+    "iso2": "sd",
     "iso3": "SDN",
     "continent": "Africa",
     "description": "A country in Northeast Africa.",
-    "image": "https://flagsapi.com/SD/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sd.png"
   },
   {
     "name": "Suriname",
     "slug": "suriname",
-    "iso2": "SR",
+    "iso2": "sr",
     "iso3": "SUR",
     "continent": "South America",
     "description": "A small country on the northeastern coast of South America.",
-    "image": "https://flagsapi.com/SR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sr.png"
   },
   {
     "name": "Sweden",
     "slug": "sweden",
-    "iso2": "SE",
+    "iso2": "se",
     "iso3": "SWE",
     "continent": "Europe",
     "description": "A Scandinavian nation with thousands of coastal islands and inland lakes.",
-    "image": "https://flagsapi.com/SE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/se.png"
   },
   {
     "name": "Switzerland",
     "slug": "switzerland",
-    "iso2": "CH",
+    "iso2": "ch",
     "iso3": "CHE",
     "continent": "Europe",
     "description": "A mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps.",
-    "image": "https://flagsapi.com/CH/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ch.png"
   },
   {
     "name": "Syria",
     "slug": "syria",
-    "iso2": "SY",
+    "iso2": "sy",
     "iso3": "SYR",
     "continent": "Asia",
     "description": "A country in Western Asia.",
-    "image": "https://flagsapi.com/SY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/sy.png"
   },
   {
     "name": "Taiwan",
     "slug": "taiwan",
-    "iso2": "TW",
+    "iso2": "tw",
     "iso3": "TWN",
     "continent": "Asia",
     "description": "A small island nation east of China with modern cities, traditional Chinese temples and dramatic mountainous terrain.",
-    "image": "https://flagsapi.com/TW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tw.png"
   },
   {
     "name": "Tajikistan",
     "slug": "tajikistan",
-    "iso2": "TJ",
+    "iso2": "tj",
     "iso3": "TJK",
     "continent": "Asia",
     "description": "A country in Central Asia surrounded by Afghanistan, China, Kyrgyzstan and Uzbekistan.",
-    "image": "https://flagsapi.com/TJ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tj.png"
   },
   {
     "name": "Tanzania",
     "slug": "tanzania",
-    "iso2": "TZ",
+    "iso2": "tz",
     "iso3": "TZA",
     "continent": "Africa",
     "description": "An East African country known for its vast wilderness areas.",
-    "image": "https://flagsapi.com/TZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tz.png"
   },
   {
     "name": "Thailand",
     "slug": "thailand",
-    "iso2": "TH",
+    "iso2": "th",
     "iso3": "THA",
     "continent": "Asia",
-    "description": "A Southeast Asian country known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples.",
-    "image": "https://flagsapi.com/TH/shiny/64.png"
+    "description": "A Southeast Asian country known for its beaches, rivers, Buddhist pagodas and bustling cities.",
+    "image": "https://flagcdn.com/256x192/th.png"
   },
   {
     "name": "Timor-Leste",
     "slug": "timor-leste",
-    "iso2": "TL",
+    "iso2": "tl",
     "iso3": "TLS",
     "continent": "Asia",
     "description": "A Southeast Asian nation occupying half the island of Timor.",
-    "image": "https://flagsapi.com/TL/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tl.png"
   },
   {
     "name": "Togo",
     "slug": "togo",
-    "iso2": "TG",
+    "iso2": "tg",
     "iso3": "TGO",
     "continent": "Africa",
     "description": "A West African nation on the Gulf of Guinea.",
-    "image": "https://flagsapi.com/TG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tg.png"
   },
   {
     "name": "Tonga",
     "slug": "tonga",
-    "iso2": "TO",
+    "iso2": "to",
     "iso3": "TON",
     "continent": "Oceania",
     "description": "A Polynesian kingdom of more than 170 South Pacific islands.",
-    "image": "https://flagsapi.com/TO/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/to.png"
   },
   {
     "name": "Trinidad and Tobago",
     "slug": "trinidad-and-tobago",
-    "iso2": "TT",
+    "iso2": "tt",
     "iso3": "TTO",
     "continent": "South America",
     "description": "A dual-island Caribbean nation near Venezuela.",
-    "image": "https://flagsapi.com/TT/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tt.png"
   },
   {
     "name": "Tunisia",
     "slug": "tunisia",
-    "iso2": "TN",
+    "iso2": "tn",
     "iso3": "TUN",
     "continent": "Africa",
     "description": "A North African country bordering the Mediterranean Sea and Sahara Desert.",
-    "image": "https://flagsapi.com/TN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tn.png"
   },
   {
     "name": "Turkey",
     "slug": "turkey",
-    "iso2": "TR",
+    "iso2": "tr",
     "iso3": "TUR",
     "continent": "Asia",
     "description": "A transcontinental country located mainly on the Anatolian Peninsula in Western Asia.",
-    "image": "https://flagsapi.com/TR/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tr.png"
   },
   {
     "name": "Turkmenistan",
     "slug": "turkmenistan",
-    "iso2": "TM",
+    "iso2": "tm",
     "iso3": "TKM",
     "continent": "Asia",
     "description": "A country in Central Asia bordered by the Caspian Sea and largely covered by the Karakum Desert.",
-    "image": "https://flagsapi.com/TM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tm.png"
   },
   {
     "name": "Tuvalu",
     "slug": "tuvalu",
-    "iso2": "TV",
+    "iso2": "tv",
     "iso3": "TUV",
     "continent": "Oceania",
     "description": "An independent island nation within the British Commonwealth.",
-    "image": "https://flagsapi.com/TV/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/tv.png"
   },
   {
     "name": "Uganda",
     "slug": "uganda",
-    "iso2": "UG",
+    "iso2": "ug",
     "iso3": "UGA",
     "continent": "Africa",
     "description": "A landlocked country in East Africa whose diverse landscape encompasses the snow-capped Rwenzori Mountains.",
-    "image": "https://flagsapi.com/UG/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ug.png"
   },
   {
     "name": "Ukraine",
     "slug": "ukraine",
-    "iso2": "UA",
+    "iso2": "ua",
     "iso3": "UKR",
     "continent": "Europe",
     "description": "A large country in Eastern Europe known for its Orthodox churches, Black Sea coastline and forested mountains.",
-    "image": "https://flagsapi.com/UA/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ua.png"
   },
   {
     "name": "United Arab Emirates",
     "slug": "united-arab-emirates",
-    "iso2": "AE",
+    "iso2": "ae",
     "iso3": "ARE",
     "continent": "Asia",
     "description": "An Arabian Peninsula nation settled mainly along the Persian (Arabian) Gulf.",
-    "image": "https://flagsapi.com/AE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ae.png"
   },
   {
     "name": "United Kingdom",
     "slug": "united-kingdom",
-    "iso2": "GB",
+    "iso2": "gb",
     "iso3": "GBR",
     "continent": "Europe",
     "description": "A historic island nation with a rich cultural heritage.",
-    "image": "https://flagsapi.com/GB/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/gb.png"
   },
   {
     "name": "United States",
     "slug": "united-states",
-    "iso2": "US",
+    "iso2": "us",
     "iso3": "USA",
     "continent": "North America",
     "description": "From sprawling national parks to bustling cityscapes.",
-    "image": "https://flagsapi.com/US/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/us.png"
   },
   {
     "name": "Uruguay",
     "slug": "uruguay",
-    "iso2": "UY",
+    "iso2": "uy",
     "iso3": "URY",
     "continent": "South America",
     "description": "A South American country known for its verdant interior and beach-lined coast.",
-    "image": "https://flagsapi.com/UY/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/uy.png"
   },
   {
     "name": "Uzbekistan",
     "slug": "uzbekistan",
-    "iso2": "UZ",
+    "iso2": "uz",
     "iso3": "UZB",
     "continent": "Asia",
     "description": "A Central Asian nation and former Soviet republic, known for its mosques, mausoleums and other sites linked to the Silk Road.",
-    "image": "https://flagsapi.com/UZ/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/uz.png"
   },
   {
     "name": "Vanuatu",
     "slug": "vanuatu",
-    "iso2": "VU",
+    "iso2": "vu",
     "iso3": "VUT",
     "continent": "Oceania",
     "description": "A South Pacific Ocean nation made up of roughly 80 islands that stretch 1,300 kilometers.",
-    "image": "https://flagsapi.com/VU/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/vu.png"
   },
   {
     "name": "Venezuela",
     "slug": "venezuela",
-    "iso2": "VE",
+    "iso2": "ve",
     "iso3": "VEN",
     "continent": "South America",
     "description": "A country on the northern coast of South America with diverse natural attractions.",
-    "image": "https://flagsapi.com/VE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ve.png"
   },
   {
     "name": "Vietnam",
     "slug": "vietnam",
-    "iso2": "VN",
+    "iso2": "vn",
     "iso3": "VNM",
     "continent": "Asia",
     "description": "A Southeast Asian country known for its beaches, rivers, Buddhist pagodas and bustling cities.",
-    "image": "https://flagsapi.com/VN/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/vn.png"
   },
   {
     "name": "Yemen",
     "slug": "yemen",
-    "iso2": "YE",
+    "iso2": "ye",
     "iso3": "YEM",
     "continent": "Asia",
     "description": "A country at the southern end of the Arabian Peninsula in Western Asia.",
-    "image": "https://flagsapi.com/YE/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/ye.png"
   },
   {
     "name": "Zambia",
     "slug": "zambia",
-    "iso2": "ZM",
+    "iso2": "zm",
     "iso3": "ZMB",
     "continent": "Africa",
     "description": "A landlocked country in southern-central Africa.",
-    "image": "https://flagsapi.com/ZM/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/zm.png"
   },
   {
     "name": "Zimbabwe",
     "slug": "zimbabwe",
-    "iso2": "ZW",
+    "iso2": "zw",
     "iso3": "ZWE",
     "continent": "Africa",
     "description": "A landlocked country in southern Africa known for its dramatic landscape and diverse wildlife.",
-    "image": "https://flagsapi.com/ZW/shiny/64.png"
+    "image": "https://flagcdn.com/256x192/zw.png"
   }
 ]
