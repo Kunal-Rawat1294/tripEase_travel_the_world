@@ -8,7 +8,7 @@ import { z } from 'zod';
 import { getMongoDocsForCountry } from '@/services/mongodb';
 
 // A more flexible schema that can handle any data returned from MongoDB.
-const TravelDocToolOutputSchema = z.any().describe("The complete travel document information for a country from the database.");
+const TravelDocToolOutputSchema = z.string().describe("A JSON string containing the complete travel document information for a country from the database.");
 
 
 export const getTravelDocsFromMongoTool = ai.defineTool(
@@ -24,16 +24,17 @@ export const getTravelDocsFromMongoTool = ai.defineTool(
         try {
             const docs = await getMongoDocsForCountry(input.country);
             if (!docs) {
-                console.log(`No document found for country: ${input.country}`);
-                return null; // Return null if no document is found
+                console.log(`[Tool] No document found for country: ${input.country}`);
+                return JSON.stringify({ error: "No document found in the database." });
             }
-            console.log(`Successfully found document for ${input.country} in MongoDB.`);
-            // Return the entire document so the AI has all the information.
-            return docs;
-        } catch (error) {
-            console.error(`Error fetching docs from MongoDB for ${input.country}:`, error);
-            // Return null to let the AI know the tool failed
-            return null;
+            // Remove the complex _id object before stringifying
+            const { _id, ...rest } = docs;
+            const response = JSON.stringify(rest);
+            console.log(`[Tool] Successfully found document for ${input.country} and returning as JSON string.`);
+            return response;
+        } catch (error: any) {
+            console.error(`[Tool] Error fetching docs from MongoDB for ${input.country}:`, error);
+            return JSON.stringify({ error: "Failed to fetch data from the database.", details: error.message });
         }
     }
 );
