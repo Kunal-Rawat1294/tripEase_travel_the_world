@@ -14,12 +14,16 @@ export interface ContentSection {
 export interface CountryDetails {
   name: string;
   content: {
-    documents: ContentSection;
-    culture: ContentSection;
-    safety: ContentSection;
-    health: ContentSection;
-    money: ContentSection;
-    connectivity: ContentSection;
-    adaptation: ContentSection;
+    [key: string]: ContentSection;
   };
+}
+
+export interface BlogPost {
+  slug: string;
+  title: string;
+  author: string;
+  date: string;
+  image: string;
+  excerpt: string;
+  content: string;
 }
